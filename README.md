@@ -2,7 +2,7 @@
 
 This repository contains the supplementary files from: 
 
-de-Dios-Flores, Iria, Juan Pablo García Amboage and Marcos García. 2023. Dependency resolution at the syntax-semantics interface: psycholinguistic and computational insights on control dependencies. *Proceedings of the  61st Annual Meeting of thr Association for Computational Linguistics.*
+de-Dios-Flores, Iria, Juan Pablo García Amboage and Marcos García. 2023. Dependency resolution at the syntax-semantics interface: psycholinguistic and computational insights on control dependencies. *Proceedings of the  61st Annual Meeting of the Association for Computational Linguistics.*
 
 It is composed of three folders: 
 
