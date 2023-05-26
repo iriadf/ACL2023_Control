@@ -1,0 +1,769 @@
+item;cond;NP1;le;C.VB;A;NP2;inf;ADV;ADJ;PP;item.1;cond.1;control;distractor;correct_adj;incorrect_adj;correct_gender;incorrect gender;control_verb;infinitive;sentence
+1;A;Ella;le;prometió;a;ella;ser;más;*;con los apuntes;1;A;subject;match;ordenada;ordenado;fem;masc;prometió;ser;Ella le prometió a ella ser más * con los apuntes.
+1;A';Él;le;prometió;a;él;ser;más;*;con los apuntes;1;A';subject;match;ordenado;ordenada;masc;fem;prometió;ser;Él le prometió a él ser más * con los apuntes.
+1;B;Ella;le;prometió;a;él;ser;más;*;con los apuntes;1;B;subject;mismatch;ordenada;ordenado;fem;masc;prometió;ser;Ella le prometió a él ser más * con los apuntes.
+1;B';Él;le;prometió;a;ella;ser;más;*;con los apuntes;1;B';subject;mismatch;ordenado;ordenada;masc;fem;prometió;ser;Él le prometió a ella ser más * con los apuntes.
+1;C;Ella;le;aconsejó;a;ella;ser;más;*;con los apuntes;1;C;object;match;ordenada;ordenado;fem;masc;aconsejó;ser;Ella le aconsejó a ella ser más * con los apuntes.
+1;C';Él;le;aconsejó;a;él;ser;más;*;con los apuntes;1;C';object;match;ordenado;ordenada;masc;fem;aconsejó;ser;Él le aconsejó a él ser más * con los apuntes.
+1;D;Él;le;aconsejó;a;ella;ser;más;*;con los apuntes;1;D;object;mismatch;ordenada;ordenado;fem;masc;aconsejó;ser;Él le aconsejó a ella ser más * con los apuntes.
+1;D';Ella;le;aconsejó;a;él;ser;más;*;con los apuntes;1;D';object;mismatch;ordenado;ordenada;masc;fem;aconsejó;ser;Ella le aconsejó a él ser más * con los apuntes.
+2;A;Él;le;reconoció;a;él;ser;demasiado;*;con la comida;2;A;subject;match;escrupuloso;escrupulosa;masc;fem;reconoció;ser;Él le reconoció a él ser demasiado * con la comida.
+2;A';Ella;le;reconoció;a;ella;ser;demasiado;*;con la comida;2;A';subject;match;escrupulosa;escrupuloso;fem;masc;reconoció;ser;Ella le reconoció a ella ser demasiado * con la comida.
+2;B;Él;le;reconoció;a;ella;ser;demasiado;*;con la comida;2;B;subject;mismatch;escrupuloso;escrupulosa;masc;fem;reconoció;ser;Él le reconoció a ella ser demasiado * con la comida.
+2;B';Ella;le;reconoció;a;él;ser;demasiado;*;con la comida;2;B';subject;mismatch;escrupulosa;escrupuloso;fem;masc;reconoció;ser;Ella le reconoció a él ser demasiado * con la comida.
+2;C;Él;le;recriminó;a;él;ser;demasiado;*;con la comida;2;C;object;match;escrupuloso;escrupulosa;masc;fem;recriminó;ser;Él le recriminó a él ser demasiado * con la comida.
+2;C';Ella;le;recriminó;a;ella;ser;demasiado;*;con la comida;2;C';object;match;escrupulosa;escrupuloso;fem;masc;recriminó;ser;Ella le recriminó a ella ser demasiado * con la comida.
+2;D;Ella;le;recriminó;a;él;ser;demasiado;*;con la comida;2;D;object;mismatch;escrupuloso;escrupulosa;masc;fem;recriminó;ser;Ella le recriminó a él ser demasiado * con la comida.
+2;D';Él;le;recriminó;a;ella;ser;demasiado;*;con la comida;2;D';object;mismatch;escrupulosa;escrupuloso;fem;masc;recriminó;ser;Él le recriminó a ella ser demasiado * con la comida.
+3;A;Ella;le;reveló;a;ella;ser;muy;*;durante las tormentas;3;A;subject;match;temerosa;temeroso;fem;masc;reveló;ser;Ella le reveló a ella ser muy * durante las tormentas.
+3;A';Él;le;reveló;a;él;ser;muy;*;durante las tormentas;3;A';subject;match;temeroso;temerosa;masc;fem;reveló;ser;Él le reveló a él ser muy * durante las tormentas.
+3;B;Ella;le;reveló;a;él;ser;muy;*;durante las tormentas;3;B;subject;mismatch;temerosa;temeroso;fem;masc;reveló;ser;Ella le reveló a él ser muy * durante las tormentas.
+3;B';Él;le;reveló;a;ella;ser;muy;*;durante las tormentas;3;B';subject;mismatch;temeroso;temerosa;masc;fem;reveló;ser;Él le reveló a ella ser muy * durante las tormentas.
+3;C;Ella;le;reprochó;a;ella;ser;muy;*;durante las tormentas;3;C;object;match;temerosa;temeroso;fem;masc;reprochó;ser;Ella le reprochó a ella ser muy * durante las tormentas.
+3;C';Él;le;reprochó;a;él;ser;muy;*;durante las tormentas;3;C';object;match;temeroso;temerosa;masc;fem;reprochó;ser;Él le reprochó a él ser muy * durante las tormentas.
+3;D;Él;le;reprochó;a;ella;ser;muy;*;durante las tormentas;3;D;object;mismatch;temerosa;temeroso;fem;masc;reprochó;ser;Él le reprochó a ella ser muy * durante las tormentas.
+3;D';Ella;le;reprochó;a;él;ser;muy;*;durante las tormentas;3;D';object;mismatch;temeroso;temerosa;masc;fem;reprochó;ser;Ella le reprochó a él ser muy * durante las tormentas.
+4;A;Él;le;garantizó;a;él;ser;más;*;con los clientes;4;A;subject;match;afectuoso;afectuosa;masc;fem;garantizó;ser;Él le garantizó a él ser más * con los clientes.
+4;A';Ella;le;garantizó;a;ella;ser;más;*;con los clientes;4;A';subject;match;afectuosa;afectuoso;fem;masc;garantizó;ser;Ella le garantizó a ella ser más * con los clientes.
+4;B;Él;le;garantizó;a;ella;ser;más;*;con los clientes;4;B;subject;mismatch;afectuoso;afectuosa;masc;fem;garantizó;ser;Él le garantizó a ella ser más * con los clientes.
+4;B';Ella;le;garantizó;a;él;ser;más;*;con los clientes;4;B';subject;mismatch;afectuosa;afectuoso;fem;masc;garantizó;ser;Ella le garantizó a él ser más * con los clientes.
+4;C;Él;le;recomendó;a;él;ser;más;*;con los clientes;4;C;object;match;afectuoso;afectuosa;masc;fem;recomendó;ser;Él le recomendó a él ser más * con los clientes.
+4;C';Ella;le;recomendó;a;ella;ser;más;*;con los clientes;4;C';object;match;afectuosa;afectuoso;fem;masc;recomendó;ser;Ella le recomendó a ella ser más * con los clientes.
+4;D;Ella;le;recomendó;a;él;ser;más;*;con los clientes;4;D;object;mismatch;afectuoso;afectuosa;masc;fem;recomendó;ser;Ella le recomendó a él ser más * con los clientes.
+4;D';Él;le;recomendó;a;ella;ser;más;*;con los clientes;4;D';object;mismatch;afectuosa;afectuoso;fem;masc;recomendó;ser;Él le recomendó a ella ser más * con los clientes.
+5;A;Ella;le;confirmó;a;ella;ser;siempre tan;*;en el trabajo;5;A;subject;match;competitiva;competitivo;fem;masc;confirmó;ser;Ella le confirmó a ella ser siempre tan * en el trabajo.
+5;A';Él;le;confirmó;a;él;ser;siempre tan;*;en el trabajo;5;A';subject;match;competitivo;competitiva;masc;fem;confirmó;ser;Él le confirmó a él ser siempre tan * en el trabajo.
+5;B;Ella;le;confirmó;a;él;ser;siempre tan;*;en el trabajo;5;B;subject;mismatch;competitiva;competitivo;fem;masc;confirmó;ser;Ella le confirmó a él ser siempre tan * en el trabajo.
+5;B';Él;le;confirmó;a;ella;ser;siempre tan;*;en el trabajo;5;B';subject;mismatch;competitivo;competitiva;masc;fem;confirmó;ser;Él le confirmó a ella ser siempre tan * en el trabajo.
+5;C;Ella;le;impidió;a;ella;ser;siempre tan;*;en el trabajo;5;C;object;match;competitiva;competitivo;fem;masc;impidió;ser;Ella le impidió a ella ser siempre tan * en el trabajo.
+5;C';Él;le;impidió;a;él;ser;siempre tan;*;en el trabajo;5;C';object;match;competitivo;competitiva;masc;fem;impidió;ser;Él le impidió a él ser siempre tan * en el trabajo.
+5;D;Él;le;impidió;a;ella;ser;siempre tan;*;en el trabajo;5;D;object;mismatch;competitiva;competitivo;fem;masc;impidió;ser;Él le impidió a ella ser siempre tan * en el trabajo.
+5;D';Ella;le;impidió;a;él;ser;siempre tan;*;en el trabajo;5;D';object;mismatch;competitivo;competitiva;masc;fem;impidió;ser;Ella le impidió a él ser siempre tan * en el trabajo.
+6;A;Él;le;desmintió;a;él;ser;demasiado;*;con los beneficios;6;A;subject;match;codicioso;codiciosa;masc;fem;desmintió;ser;Él le desmintió a él ser demasiado * con los beneficios.
+6;A';Ella;le;desmintió;a;ella;ser;demasiado;*;con los beneficios;6;A';subject;match;codiciosa;codicioso;fem;masc;desmintió;ser;Ella le desmintió a ella ser demasiado * con los beneficios.
+6;B;Él;le;desmintió;a;ella;ser;demasiado;*;con los beneficios;6;B;subject;mismatch;codicioso;codiciosa;masc;fem;desmintió;ser;Él le desmintió a ella ser demasiado * con los beneficios.
+6;B';Ella;le;desmintió;a;él;ser;demasiado;*;con los beneficios;6;B';subject;mismatch;codiciosa;codicioso;fem;masc;desmintió;ser;Ella le desmintió a él ser demasiado * con los beneficios.
+6;C;Él;le;prohibió;a;él;ser;demasiado;*;con los beneficios;6;C;object;match;codicioso;codiciosa;masc;fem;prohibió;ser;Él le prohibió a él ser demasiado * con los beneficios.
+6;C';Ella;le;prohibió;a;ella;ser;demasiado;*;con los beneficios;6;C';object;match;codiciosa;codicioso;fem;masc;prohibió;ser;Ella le prohibió a ella ser demasiado * con los beneficios.
+6;D;Ella;le;prohibió;a;él;ser;demasiado;*;con los beneficios;6;D;object;mismatch;codicioso;codiciosa;masc;fem;prohibió;ser;Ella le prohibió a él ser demasiado * con los beneficios.
+6;D';Él;le;prohibió;a;ella;ser;demasiado;*;con los beneficios;6;D';object;mismatch;codiciosa;codicioso;fem;masc;prohibió;ser;Él le prohibió a ella ser demasiado * con los beneficios.
+7;A;Ella;le;juró;a;ella;ser;absolutamente;*;en la declaración;7;A;subject;match;honesta;honesto;fem;masc;juró;ser;Ella le juró a ella ser absolutamente * en la declaración.
+7;A';Él;le;juró;a;él;ser;absolutamente;*;en la declaración;7;A';subject;match;honesto;honesta;masc;fem;juró;ser;Él le juró a él ser absolutamente * en la declaración.
+7;B;Ella;le;juró;a;él;ser;absolutamente;*;en la declaración;7;B;subject;mismatch;honesta;honesto;fem;masc;juró;ser;Ella le juró a él ser absolutamente * en la declaración.
+7;B';Él;le;juró;a;ella;ser;absolutamente;*;en la declaración;7;B';subject;mismatch;honesto;honesta;masc;fem;juró;ser;Él le juró a ella ser absolutamente * en la declaración.
+7;C;Ella;le;exigió;a;ella;ser;absolutamente;*;en la declaración;7;C;object;match;honesta;honesto;fem;masc;exigió;ser;Ella le exigió a ella ser absolutamente * en la declaración.
+7;C';Él;le;exigió;a;él;ser;absolutamente;*;en la declaración;7;C';object;match;honesto;honesta;masc;fem;exigió;ser;Él le exigió a él ser absolutamente * en la declaración.
+7;D;Él;le;exigió;a;ella;ser;absolutamente;*;en la declaración;7;D;object;mismatch;honesta;honesto;fem;masc;exigió;ser;Él le exigió a ella ser absolutamente * en la declaración.
+7;D';Ella;le;exigió;a;él;ser;absolutamente;*;en la declaración;7;D';object;mismatch;honesto;honesta;masc;fem;exigió;ser;Ella le exigió a él ser absolutamente * en la declaración.
+8;A;Él;le;aseguró;a;él;ser;totalmente;*;sobre lo ocurrido;8;A;subject;match;sincero;sincera;masc;fem;aseguró;ser;Él le aseguró a él ser totalmente * sobre lo ocurrido.
+8;A';Ella;le;aseguró;a;ella;ser;totalmente;*;sobre lo ocurrido;8;A';subject;match;sincera;sincero;fem;masc;aseguró;ser;Ella le aseguró a ella ser totalmente * sobre lo ocurrido.
+8;B;Él;le;aseguró;a;ella;ser;totalmente;*;sobre lo ocurrido;8;B;subject;mismatch;sincero;sincera;masc;fem;aseguró;ser;Él le aseguró a ella ser totalmente * sobre lo ocurrido.
+8;B';Ella;le;aseguró;a;él;ser;totalmente;*;sobre lo ocurrido;8;B';subject;mismatch;sincera;sincero;fem;masc;aseguró;ser;Ella le aseguró a él ser totalmente * sobre lo ocurrido.
+8;C;Él;le;ordenó;a;él;ser;totalmente;*;sobre lo ocurrido;8;C;object;match;sincero;sincera;masc;fem;ordenó;ser;Él le ordenó a él ser totalmente * sobre lo ocurrido.
+8;C';Ella;le;ordenó;a;ella;ser;totalmente;*;sobre lo ocurrido;8;C';object;match;sincera;sincero;fem;masc;ordenó;ser;Ella le ordenó a ella ser totalmente * sobre lo ocurrido.
+8;D;Ella;le;ordenó;a;él;ser;totalmente;*;sobre lo ocurrido;8;D;object;mismatch;sincero;sincera;masc;fem;ordenó;ser;Ella le ordenó a él ser totalmente * sobre lo ocurrido.
+8;D';Él;le;ordenó;a;ella;ser;totalmente;*;sobre lo ocurrido;8;D';object;mismatch;sincera;sincero;fem;masc;ordenó;ser;Él le ordenó a ella ser totalmente * sobre lo ocurrido.
+9;A;Ella;le;confesó;a;ella;ser;un poco;*;con el papeleo;9;A;subject;match;despreocupada;despreocupado;fem;masc;confesó;ser;Ella le confesó a ella ser un poco * con el papeleo.
+9;A';Él;le;confesó;a;él;ser;un poco;*;con el papeleo;9;A';subject;match;despreocupado;despreocupada;masc;fem;confesó;ser;Él le confesó a él ser un poco * con el papeleo.
+9;B;Ella;le;confesó;a;él;ser;un poco;*;con el papeleo;9;B;subject;mismatch;despreocupada;despreocupado;fem;masc;confesó;ser;Ella le confesó a él ser un poco * con el papeleo.
+9;B';Él;le;confesó;a;ella;ser;un poco;*;con el papeleo;9;B';subject;mismatch;despreocupado;despreocupada;masc;fem;confesó;ser;Él le confesó a ella ser un poco * con el papeleo.
+9;C;Ella;le;permitió;a;ella;ser;un poco;*;con el papeleo;9;C;object;match;despreocupada;despreocupado;fem;masc;permitió;ser;Ella le permitió a ella ser un poco * con el papeleo.
+9;C';Él;le;permitió;a;él;ser;un poco;*;con el papeleo;9;C';object;match;despreocupado;despreocupada;masc;fem;permitió;ser;Él le permitió a él ser un poco * con el papeleo.
+9;D;Él;le;permitió;a;ella;ser;un poco;*;con el papeleo;9;D;object;mismatch;despreocupada;despreocupado;fem;masc;permitió;ser;Él le permitió a ella ser un poco * con el papeleo.
+9;D';Ella;le;permitió;a;él;ser;un poco;*;con el papeleo;9;D';object;mismatch;despreocupado;despreocupada;masc;fem;permitió;ser;Ella le permitió a él ser un poco * con el papeleo.
+10;A;Él;le;expresó;a;él;ser;muy;*;con las circunstancias;10;A;subject;match;comprensivo;comprensiva;masc;fem;expresó;ser;Él le expresó a él ser muy * con las circunstancias.
+10;A';Ella;le;expresó;a;ella;ser;muy;*;con las circunstancias;10;A';subject;match;comprensiva;comprensivo;fem;masc;expresó;ser;Ella le expresó a ella ser muy * con las circunstancias.
+10;B;Él;le;expresó;a;ella;ser;muy;*;con las circunstancias;10;B;subject;mismatch;comprensivo;comprensiva;masc;fem;expresó;ser;Él le expresó a ella ser muy * con las circunstancias.
+10;B';Ella;le;expresó;a;él;ser;muy;*;con las circunstancias;10;B';subject;mismatch;comprensiva;comprensivo;fem;masc;expresó;ser;Ella le expresó a él ser muy * con las circunstancias.
+10;C;Él;le;encargó;a;él;ser;muy;*;con las circunstancias;10;C;object;match;comprensivo;comprensiva;masc;fem;encargó;ser;Él le encargó a él ser muy * con las circunstancias.
+10;C';Ella;le;encargó;a;ella;ser;muy;*;con las circunstancias;10;C';object;match;comprensiva;comprensivo;fem;masc;encargó;ser;Ella le encargó a ella ser muy * con las circunstancias.
+10;D;Ella;le;encargó;a;él;ser;muy;*;con las circunstancias;10;D;object;mismatch;comprensivo;comprensiva;masc;fem;encargó;ser;Ella le encargó a él ser muy * con las circunstancias.
+10;D';Él;le;encargó;a;ella;ser;muy;*;con las circunstancias;10;D';object;mismatch;comprensiva;comprensivo;fem;masc;encargó;ser;Él le encargó a ella ser muy * con las circunstancias.
+11;A;Ella;le;declaró;a;ella;ser;más;*;a última hora;11;A;subject;match;productiva;productivo;fem;masc;declaró;ser;Ella le declaró a ella ser más * a última hora.
+11;A';Él;le;declaró;a;él;ser;más;*;a última hora;11;A';subject;match;productivo;productiva;masc;fem;declaró;ser;Él le declaró a él ser más * a última hora.
+11;B;Ella;le;declaró;a;él;ser;más;*;a última hora;11;B;subject;mismatch;productiva;productivo;fem;masc;declaró;ser;Ella le declaró a él ser más * a última hora.
+11;B';Él;le;declaró;a;ella;ser;más;*;a última hora;11;B';subject;mismatch;productivo;productiva;masc;fem;declaró;ser;Él le declaró a ella ser más * a última hora.
+11;C;Ella;le;mandó;a;ella;ser;más;*;a última hora;11;C;object;match;productiva;productivo;fem;masc;mandó;ser;Ella le mandó a ella ser más * a última hora.
+11;C';Él;le;mandó;a;él;ser;más;*;a última hora;11;C';object;match;productivo;productiva;masc;fem;mandó;ser;Él le mandó a él ser más * a última hora.
+11;D;Él;le;mandó;a;ella;ser;más;*;a última hora;11;D;object;mismatch;productiva;productivo;fem;masc;mandó;ser;Él le mandó a ella ser más * a última hora.
+11;D';Ella;le;mandó;a;él;ser;más;*;a última hora;11;D';object;mismatch;productivo;productiva;masc;fem;mandó;ser;Ella le mandó a él ser más * a última hora.
+12;A;Él;le;manifestó;a;él;ser;algo;*;con los compañeros;12;A;subject;match;desconfiado;desconfiada;masc;fem;manifestó;ser;Él le manifestó a él ser algo * con los compañeros.
+12;A';Ella;le;manifestó;a;ella;ser;algo;*;con los compañeros;12;A';subject;match;desconfiada;desconfiado;fem;masc;manifestó;ser;Ella le manifestó a ella ser algo * con los compañeros.
+12;B;Él;le;manifestó;a;ella;ser;algo;*;con los compañeros;12;B;subject;mismatch;desconfiado;desconfiada;masc;fem;manifestó;ser;Él le manifestó a ella ser algo * con los compañeros.
+12;B';Ella;le;manifestó;a;él;ser;algo;*;con los compañeros;12;B';subject;mismatch;desconfiada;desconfiado;fem;masc;manifestó;ser;Ella le manifestó a él ser algo * con los compañeros.
+12;C;Él;le;consintió;a;él;ser;algo;*;con los compañeros;12;C;object;match;desconfiado;desconfiada;masc;fem;consintió;ser;Él le consintió a él ser algo * con los compañeros.
+12;C';Ella;le;consintió;a;ella;ser;algo;*;con los compañeros;12;C';object;match;desconfiada;desconfiado;fem;masc;consintió;ser;Ella le consintió a ella ser algo * con los compañeros.
+12;D;Ella;le;consintió;a;él;ser;algo;*;con los compañeros;12;D;object;mismatch;desconfiado;desconfiada;masc;fem;consintió;ser;Ella le consintió a él ser algo * con los compañeros.
+12;D';Él;le;consintió;a;ella;ser;algo;*;con los compañeros;12;D';object;mismatch;desconfiada;desconfiado;fem;masc;consintió;ser;Él le consintió a ella ser algo * con los compañeros.
+13;A;Él;le;prometió;a;él;estar;mucho más;*;antes de conducir;13;A;subject;match;espabilado;espabilada;masc;fem;prometió;estar;Él le prometió a él estar mucho más * antes de conducir.
+13;A';Ella;le;prometió;a;ella;estar;mucho más;*;antes de conducir;13;A';subject;match;espabilada;espabilado;fem;masc;prometió;estar;Ella le prometió a ella estar mucho más * antes de conducir.
+13;B;Él;le;prometió;a;ella;estar;mucho más;*;antes de conducir;13;B;subject;mismatch;espabilado;espabilada;masc;fem;prometió;estar;Él le prometió a ella estar mucho más * antes de conducir.
+13;B';Ella;le;prometió;a;él;estar;mucho más;*;antes de conducir;13;B';subject;mismatch;espabilada;espabilado;fem;masc;prometió;estar;Ella le prometió a él estar mucho más * antes de conducir.
+13;C;Él;le;aconsejó;a;él;estar;mucho más;*;antes de conducir;13;C;object;match;espabilado;espabilada;masc;fem;aconsejó;estar;Él le aconsejó a él estar mucho más * antes de conducir.
+13;C';Ella;le;aconsejó;a;ella;estar;mucho más;*;antes de conducir;13;C';object;match;espabilada;espabilado;fem;masc;aconsejó;estar;Ella le aconsejó a ella estar mucho más * antes de conducir.
+13;D;Ella;le;aconsejó;a;él;estar;mucho más;*;antes de conducir;13;D;object;mismatch;espabilado;espabilada;masc;fem;aconsejó;estar;Ella le aconsejó a él estar mucho más * antes de conducir.
+13;D';Él;le;aconsejó;a;ella;estar;mucho más;*;antes de conducir;13;D';object;mismatch;espabilada;espabilado;fem;masc;aconsejó;estar;Él le aconsejó a ella estar mucho más * antes de conducir.
+14;A;Ella;le;reconoció;a;ella;estar;muy;*;por los cambios;14;A;subject;match;confundida;confundido;fem;masc;reconoció;estar;Ella le reconoció a ella estar muy * por los cambios.
+14;A';Él;le;reconoció;a;él;estar;muy;*;por los cambios;14;A';subject;match;confundido;confundida;masc;fem;reconoció;estar;Él le reconoció a él estar muy * por los cambios.
+14;B;Ella;le;reconoció;a;él;estar;muy;*;por los cambios;14;B;subject;mismatch;confundida;confundido;fem;masc;reconoció;estar;Ella le reconoció a él estar muy * por los cambios.
+14;B';Él;le;reconoció;a;ella;estar;muy;*;por los cambios;14;B';subject;mismatch;confundido;confundida;masc;fem;reconoció;estar;Él le reconoció a ella estar muy * por los cambios.
+14;C;Ella;le;recriminó;a;ella;estar;muy;*;por los cambios;14;C;object;match;confundida;confundido;fem;masc;recriminó;estar;Ella le recriminó a ella estar muy * por los cambios.
+14;C';Él;le;recriminó;a;él;estar;muy;*;por los cambios;14;C';object;match;confundido;confundida;masc;fem;recriminó;estar;Él le recriminó a él estar muy * por los cambios.
+14;D;Él;le;recriminó;a;ella;estar;muy;*;por los cambios;14;D;object;mismatch;confundida;confundido;fem;masc;recriminó;estar;Él le recriminó a ella estar muy * por los cambios.
+14;D';Ella;le;recriminó;a;él;estar;muy;*;por los cambios;14;D';object;mismatch;confundido;confundida;masc;fem;recriminó;estar;Ella le recriminó a él estar muy * por los cambios.
+15;A;Él;le;reveló;a;él;estar;muy;*;por el juicio;15;A;subject;match;inquieto;inquieta;masc;fem;reveló;estar;Él le reveló a él estar muy * por el juicio.
+15;A';Ella;le;reveló;a;ella;estar;muy;*;por el juicio;15;A';subject;match;inquieta;inquieto;fem;masc;reveló;estar;Ella le reveló a ella estar muy * por el juicio.
+15;B;Él;le;reveló;a;ella;estar;muy;*;por el juicio;15;B;subject;mismatch;inquieto;inquieta;masc;fem;reveló;estar;Él le reveló a ella estar muy * por el juicio.
+15;B';Ella;le;reveló;a;él;estar;muy;*;por el juicio;15;B';subject;mismatch;inquieta;inquieto;fem;masc;reveló;estar;Ella le reveló a él estar muy * por el juicio.
+15;C;Él;le;reprochó;a;él;estar;muy;*;por el juicio;15;C;object;match;inquieto;inquieta;masc;fem;reprochó;estar;Él le reprochó a él estar muy * por el juicio.
+15;C';Ella;le;reprochó;a;ella;estar;muy;*;por el juicio;15;C';object;match;inquieta;inquieto;fem;masc;reprochó;estar;Ella le reprochó a ella estar muy * por el juicio.
+15;D;Ella;le;reprochó;a;él;estar;muy;*;por el juicio;15;D;object;mismatch;inquieto;inquieta;masc;fem;reprochó;estar;Ella le reprochó a él estar muy * por el juicio.
+15;D';Él;le;reprochó;a;ella;estar;muy;*;por el juicio;15;D';object;mismatch;inquieta;inquieto;fem;masc;reprochó;estar;Él le reprochó a ella estar muy * por el juicio.
+16;A;Ella;le;garantizó;a;ella;estar;menos;*;durante la negociación;16;A;subject;match;seria;serio;fem;masc;garantizó;estar;Ella le garantizó a ella estar menos * durante la negociación.
+16;A';Él;le;garantizó;a;él;estar;menos;*;durante la negociación;16;A';subject;match;serio;seria;masc;fem;garantizó;estar;Él le garantizó a él estar menos * durante la negociación.
+16;B;Ella;le;garantizó;a;él;estar;menos;*;durante la negociación;16;B;subject;mismatch;seria;serio;fem;masc;garantizó;estar;Ella le garantizó a él estar menos * durante la negociación.
+16;B';Él;le;garantizó;a;ella;estar;menos;*;durante la negociación;16;B';subject;mismatch;serio;seria;masc;fem;garantizó;estar;Él le garantizó a ella estar menos * durante la negociación.
+16;C;Ella;le;recomendó;a;ella;estar;menos;*;durante la negociación;16;C;object;match;seria;serio;fem;masc;recomendó;estar;Ella le recomendó a ella estar menos * durante la negociación.
+16;C';Él;le;recomendó;a;él;estar;menos;*;durante la negociación;16;C';object;match;serio;seria;masc;fem;recomendó;estar;Él le recomendó a él estar menos * durante la negociación.
+16;D;Él;le;recomendó;a;ella;estar;menos;*;durante la negociación;16;D;object;mismatch;seria;serio;fem;masc;recomendó;estar;Él le recomendó a ella estar menos * durante la negociación.
+16;D';Ella;le;recomendó;a;él;estar;menos;*;durante la negociación;16;D';object;mismatch;serio;seria;masc;fem;recomendó;estar;Ella le recomendó a él estar menos * durante la negociación.
+17;A;Él;le;confirmó;a;él;estar;totalmente;*;en la investigación;17;A;subject;match;volcado;volcada;masc;fem;confirmó;estar;Él le confirmó a él estar totalmente * en la investigación.
+17;A';Ella;le;confirmó;a;ella;estar;totalmente;*;en la investigación;17;A';subject;match;volcada;volcado;fem;masc;confirmó;estar;Ella le confirmó a ella estar totalmente * en la investigación.
+17;B;Él;le;confirmó;a;ella;estar;totalmente;*;en la investigación;17;B;subject;mismatch;volcado;volcada;masc;fem;confirmó;estar;Él le confirmó a ella estar totalmente * en la investigación.
+17;B';Ella;le;confirmó;a;él;estar;totalmente;*;en la investigación;17;B';subject;mismatch;volcada;volcado;fem;masc;confirmó;estar;Ella le confirmó a él estar totalmente * en la investigación.
+17;C;Él;le;impidió;a;él;estar;totalmente;*;en la investigación;17;C;object;match;volcado;volcada;masc;fem;impidió;estar;Él le impidió a él estar totalmente * en la investigación.
+17;C';Ella;le;impidió;a;ella;estar;totalmente;*;en la investigación;17;C';object;match;volcada;volcado;fem;masc;impidió;estar;Ella le impidió a ella estar totalmente * en la investigación.
+17;D;Ella;le;impidió;a;él;estar;totalmente;*;en la investigación;17;D;object;mismatch;volcado;volcada;masc;fem;impidió;estar;Ella le impidió a él estar totalmente * en la investigación.
+17;D';Él;le;impidió;a;ella;estar;totalmente;*;en la investigación;17;D';object;mismatch;volcada;volcado;fem;masc;impidió;estar;Él le impidió a ella estar totalmente * en la investigación.
+18;A;Ella;le;desmintió;a;ella;estar;siempre;*;con los trabajadores;18;A;subject;match;enfadada;enfadado;fem;masc;desmintió;estar;Ella le desmintió a ella estar siempre * con los trabajadores.
+18;A';Él;le;desmintió;a;él;estar;siempre;*;con los trabajadores;18;A';subject;match;enfadado;enfadada;masc;fem;desmintió;estar;Él le desmintió a él estar siempre * con los trabajadores.
+18;B;Ella;le;desmintió;a;él;estar;siempre;*;con los trabajadores;18;B;subject;mismatch;enfadada;enfadado;fem;masc;desmintió;estar;Ella le desmintió a él estar siempre * con los trabajadores.
+18;B';Él;le;desmintió;a;ella;estar;siempre;*;con los trabajadores;18;B';subject;mismatch;enfadado;enfadada;masc;fem;desmintió;estar;Él le desmintió a ella estar siempre * con los trabajadores.
+18;C;Ella;le;prohibió;a;ella;estar;siempre;*;con los trabajadores;18;C;object;match;enfadada;enfadado;fem;masc;prohibió;estar;Ella le prohibió a ella estar siempre * con los trabajadores.
+18;C';Él;le;prohibió;a;él;estar;siempre;*;con los trabajadores;18;C';object;match;enfadado;enfadada;masc;fem;prohibió;estar;Él le prohibió a él estar siempre * con los trabajadores.
+18;D;Él;le;prohibió;a;ella;estar;siempre;*;con los trabajadores;18;D;object;mismatch;enfadada;enfadado;fem;masc;prohibió;estar;Él le prohibió a ella estar siempre * con los trabajadores.
+18;D';Ella;le;prohibió;a;él;estar;siempre;*;con los trabajadores;18;D';object;mismatch;enfadado;enfadada;masc;fem;prohibió;estar;Ella le prohibió a él estar siempre * con los trabajadores.
+19;A;Él;le;juró;a;él;estar;totalmente;*;en el proyecto;19;A;subject;match;involucrado;involucrada;masc;fem;juró;estar;Él le juró a él estar totalmente * en el proyecto.
+19;A';Ella;le;juró;a;ella;estar;totalmente;*;en el proyecto;19;A';subject;match;involucrada;involucrado;fem;masc;juró;estar;Ella le juró a ella estar totalmente * en el proyecto.
+19;B;Él;le;juró;a;ella;estar;totalmente;*;en el proyecto;19;B;subject;mismatch;involucrado;involucrada;masc;fem;juró;estar;Él le juró a ella estar totalmente * en el proyecto.
+19;B';Ella;le;juró;a;él;estar;totalmente;*;en el proyecto;19;B';subject;mismatch;involucrada;involucrado;fem;masc;juró;estar;Ella le juró a él estar totalmente * en el proyecto.
+19;C;Él;le;exigió;a;él;estar;totalmente;*;en el proyecto;19;C;object;match;involucrado;involucrada;masc;fem;exigió;estar;Él le exigió a él estar totalmente * en el proyecto.
+19;C';Ella;le;exigió;a;ella;estar;totalmente;*;en el proyecto;19;C';object;match;involucrada;involucrado;fem;masc;exigió;estar;Ella le exigió a ella estar totalmente * en el proyecto.
+19;D;Ella;le;exigió;a;él;estar;totalmente;*;en el proyecto;19;D;object;mismatch;involucrado;involucrada;masc;fem;exigió;estar;Ella le exigió a él estar totalmente * en el proyecto.
+19;D';Él;le;exigió;a;ella;estar;totalmente;*;en el proyecto;19;D';object;mismatch;involucrada;involucrado;fem;masc;exigió;estar;Él le exigió a ella estar totalmente * en el proyecto.
+20;A;Ella;le;aseguró;a;ella;estar;totalmente;*;a la causa;20;A;subject;match;entregada;entregado;fem;masc;aseguró;estar;Ella le aseguró a ella estar totalmente * a la causa.
+20;A';Él;le;aseguró;a;él;estar;totalmente;*;a la causa;20;A';subject;match;entregado;entregada;masc;fem;aseguró;estar;Él le aseguró a él estar totalmente * a la causa.
+20;B;Ella;le;aseguró;a;él;estar;totalmente;*;a la causa;20;B;subject;mismatch;entregada;entregado;fem;masc;aseguró;estar;Ella le aseguró a él estar totalmente * a la causa.
+20;B';Él;le;aseguró;a;ella;estar;totalmente;*;a la causa;20;B';subject;mismatch;entregado;entregada;masc;fem;aseguró;estar;Él le aseguró a ella estar totalmente * a la causa.
+20;C;Ella;le;ordenó;a;ella;estar;totalmente;*;a la causa;20;C;object;match;entregada;entregado;fem;masc;ordenó;estar;Ella le ordenó a ella estar totalmente * a la causa.
+20;C';Él;le;ordenó;a;él;estar;totalmente;*;a la causa;20;C';object;match;entregado;entregada;masc;fem;ordenó;estar;Él le ordenó a él estar totalmente * a la causa.
+20;D;Él;le;ordenó;a;ella;estar;totalmente;*;a la causa;20;D;object;mismatch;entregada;entregado;fem;masc;ordenó;estar;Él le ordenó a ella estar totalmente * a la causa.
+20;D';Ella;le;ordenó;a;él;estar;totalmente;*;a la causa;20;D';object;mismatch;entregado;entregada;masc;fem;ordenó;estar;Ella le ordenó a él estar totalmente * a la causa.
+21;A;Él;le;confesó;a;él;estar;un poco;*;tras el disgusto;21;A;subject;match;huraño;huraña;masc;fem;confesó;estar;Él le confesó a él estar un poco * tras el disgusto.
+21;A';Ella;le;confesó;a;ella;estar;un poco;*;tras el disgusto;21;A';subject;match;huraña;huraño;fem;masc;confesó;estar;Ella le confesó a ella estar un poco * tras el disgusto.
+21;B;Él;le;confesó;a;ella;estar;un poco;*;tras el disgusto;21;B;subject;mismatch;huraño;huraña;masc;fem;confesó;estar;Él le confesó a ella estar un poco * tras el disgusto.
+21;B';Ella;le;confesó;a;él;estar;un poco;*;tras el disgusto;21;B';subject;mismatch;huraña;huraño;fem;masc;confesó;estar;Ella le confesó a él estar un poco * tras el disgusto.
+21;C;Él;le;permitió;a;él;estar;un poco;*;tras el disgusto;21;C;object;match;huraño;huraña;masc;fem;permitió;estar;Él le permitió a él estar un poco * tras el disgusto.
+21;C';Ella;le;permitió;a;ella;estar;un poco;*;tras el disgusto;21;C';object;match;huraña;huraño;fem;masc;permitió;estar;Ella le permitió a ella estar un poco * tras el disgusto.
+21;D;Ella;le;permitió;a;él;estar;un poco;*;tras el disgusto;21;D;object;mismatch;huraño;huraña;masc;fem;permitió;estar;Ella le permitió a él estar un poco * tras el disgusto.
+21;D';Él;le;permitió;a;ella;estar;un poco;*;tras el disgusto;21;D';object;mismatch;huraña;huraño;fem;masc;permitió;estar;Él le permitió a ella estar un poco * tras el disgusto.
+22;A;Ella;le;expresó;a;ella;estar;más;*;con el trabajo;22;A;subject;match;ilusionada;ilusionado;fem;masc;expresó;estar;Ella le expresó a ella estar más * con el trabajo.
+22;A';Él;le;expresó;a;él;estar;más;*;con el trabajo;22;A';subject;match;ilusionado;ilusionada;masc;fem;expresó;estar;Él le expresó a él estar más * con el trabajo.
+22;B;Ella;le;expresó;a;él;estar;más;*;con el trabajo;22;B;subject;mismatch;ilusionada;ilusionado;fem;masc;expresó;estar;Ella le expresó a él estar más * con el trabajo.
+22;B';Él;le;expresó;a;ella;estar;más;*;con el trabajo;22;B';subject;mismatch;ilusionado;ilusionada;masc;fem;expresó;estar;Él le expresó a ella estar más * con el trabajo.
+22;C;Ella;le;encargó;a;ella;estar;más;*;con el trabajo;22;C;object;match;ilusionada;ilusionado;fem;masc;encargó;estar;Ella le encargó a ella estar más * con el trabajo.
+22;C';Él;le;encargó;a;él;estar;más;*;con el trabajo;22;C';object;match;ilusionado;ilusionada;masc;fem;encargó;estar;Él le encargó a él estar más * con el trabajo.
+22;D;Él;le;encargó;a;ella;estar;más;*;con el trabajo;22;D;object;mismatch;ilusionada;ilusionado;fem;masc;encargó;estar;Él le encargó a ella estar más * con el trabajo.
+22;D';Ella;le;encargó;a;él;estar;más;*;con el trabajo;22;D';object;mismatch;ilusionado;ilusionada;masc;fem;encargó;estar;Ella le encargó a él estar más * con el trabajo.
+23;A;Él;le;declaró;a;él;estar;más;*;con la empresa;23;A;subject;match;comprometido;comprometida;masc;fem;declaró;estar;Él le declaró a él estar más * con la empresa.
+23;A';Ella;le;declaró;a;ella;estar;más;*;con la empresa;23;A';subject;match;comprometida;comprometido;fem;masc;declaró;estar;Ella le declaró a ella estar más * con la empresa.
+23;B;Él;le;declaró;a;ella;estar;más;*;con la empresa;23;B;subject;mismatch;comprometido;comprometida;masc;fem;declaró;estar;Él le declaró a ella estar más * con la empresa.
+23;B';Ella;le;declaró;a;él;estar;más;*;con la empresa;23;B';subject;mismatch;comprometida;comprometido;fem;masc;declaró;estar;Ella le declaró a él estar más * con la empresa.
+23;C;Él;le;mandó;a;él;estar;más;*;con la empresa;23;C;object;match;comprometido;comprometida;masc;fem;mandó;estar;Él le mandó a él estar más * con la empresa.
+23;C';Ella;le;mandó;a;ella;estar;más;*;con la empresa;23;C';object;match;comprometida;comprometido;fem;masc;mandó;estar;Ella le mandó a ella estar más * con la empresa.
+23;D;Ella;le;mandó;a;él;estar;más;*;con la empresa;23;D;object;mismatch;comprometido;comprometida;masc;fem;mandó;estar;Ella le mandó a él estar más * con la empresa.
+23;D';Él;le;mandó;a;ella;estar;más;*;con la empresa;23;D';object;mismatch;comprometida;comprometido;fem;masc;mandó;estar;Él le mandó a ella estar más * con la empresa.
+24;A;Ella;le;manifestó;a;ella;estar;algo menos;*;en la causa;24;A;subject;match;implicada;implicado;fem;masc;manifestó;estar;Ella le manifestó a ella estar algo menos * en la causa.
+24;A';Él;le;manifestó;a;él;estar;algo menos;*;en la causa;24;A';subject;match;implicado;implicada;masc;fem;manifestó;estar;Él le manifestó a él estar algo menos * en la causa.
+24;B;Ella;le;manifestó;a;él;estar;algo menos;*;en la causa;24;B;subject;mismatch;implicada;implicado;fem;masc;manifestó;estar;Ella le manifestó a él estar algo menos * en la causa.
+24;B';Él;le;manifestó;a;ella;estar;algo menos;*;en la causa;24;B';subject;mismatch;implicado;implicada;masc;fem;manifestó;estar;Él le manifestó a ella estar algo menos * en la causa.
+24;C;Ella;le;consintió;a;ella;estar;algo menos;*;en la causa;24;C;object;match;implicada;implicado;fem;masc;consintió;estar;Ella le consintió a ella estar algo menos * en la causa.
+24;C';Él;le;consintió;a;él;estar;algo menos;*;en la causa;24;C';object;match;implicado;implicada;masc;fem;consintió;estar;Él le consintió a él estar algo menos * en la causa.
+24;D;Él;le;consintió;a;ella;estar;algo menos;*;en la causa;24;D;object;mismatch;implicada;implicado;fem;masc;consintió;estar;Él le consintió a ella estar algo menos * en la causa.
+24;D';Ella;le;consintió;a;él;estar;algo menos;*;en la causa;24;D';object;mismatch;implicado;implicada;masc;fem;consintió;estar;Ella le consintió a él estar algo menos * en la causa.
+25;A;Ella;le;prometió;a;ella;ser;algo más;*;con los libros;25;A;subject;match;cuidadosa;cuidadoso;fem;masc;prometió;ser;Ella le prometió a ella ser algo más * con los libros.
+25;A';Él;le;prometió;a;él;ser;algo más;*;con los libros;25;A';subject;match;cuidadoso;cuidadosa;masc;fem;prometió;ser;Él le prometió a él ser algo más * con los libros.
+25;B;Ella;le;prometió;a;él;ser;algo más;*;con los libros;25;B;subject;mismatch;cuidadosa;cuidadoso;fem;masc;prometió;ser;Ella le prometió a él ser algo más * con los libros.
+25;B';Él;le;prometió;a;ella;ser;algo más;*;con los libros;25;B';subject;mismatch;cuidadoso;cuidadosa;masc;fem;prometió;ser;Él le prometió a ella ser algo más * con los libros.
+25;C;Ella;le;aconsejó;a;ella;ser;algo más;*;con los libros;25;C;object;match;cuidadosa;cuidadoso;fem;masc;aconsejó;ser;Ella le aconsejó a ella ser algo más * con los libros.
+25;C';Él;le;aconsejó;a;él;ser;algo más;*;con los libros;25;C';object;match;cuidadoso;cuidadosa;masc;fem;aconsejó;ser;Él le aconsejó a él ser algo más * con los libros.
+25;D;Él;le;aconsejó;a;ella;ser;algo más;*;con los libros;25;D;object;mismatch;cuidadosa;cuidadoso;fem;masc;aconsejó;ser;Él le aconsejó a ella ser algo más * con los libros.
+25;D';Ella;le;aconsejó;a;él;ser;algo más;*;con los libros;25;D';object;mismatch;cuidadoso;cuidadosa;masc;fem;aconsejó;ser;Ella le aconsejó a él ser algo más * con los libros.
+26;A;Él;le;reconoció;a;él;ser;muy;*;con sus amistades;26;A;subject;match;descuidado;descuidada;masc;fem;reconoció;ser;Él le reconoció a él ser muy * con sus amistades.
+26;A';Ella;le;reconoció;a;ella;ser;muy;*;con sus amistades;26;A';subject;match;descuidada;descuidado;fem;masc;reconoció;ser;Ella le reconoció a ella ser muy * con sus amistades.
+26;B;Él;le;reconoció;a;ella;ser;muy;*;con sus amistades;26;B;subject;mismatch;descuidado;descuidada;masc;fem;reconoció;ser;Él le reconoció a ella ser muy * con sus amistades.
+26;B';Ella;le;reconoció;a;él;ser;muy;*;con sus amistades;26;B';subject;mismatch;descuidada;descuidado;fem;masc;reconoció;ser;Ella le reconoció a él ser muy * con sus amistades.
+26;C;Él;le;recriminó;a;él;ser;muy;*;con sus amistades;26;C;object;match;descuidado;descuidada;masc;fem;recriminó;ser;Él le recriminó a él ser muy * con sus amistades.
+26;C';Ella;le;recriminó;a;ella;ser;muy;*;con sus amistades;26;C';object;match;descuidada;descuidado;fem;masc;recriminó;ser;Ella le recriminó a ella ser muy * con sus amistades.
+26;D;Ella;le;recriminó;a;él;ser;muy;*;con sus amistades;26;D;object;mismatch;descuidado;descuidada;masc;fem;recriminó;ser;Ella le recriminó a él ser muy * con sus amistades.
+26;D';Él;le;recriminó;a;ella;ser;muy;*;con sus amistades;26;D';object;mismatch;descuidada;descuidado;fem;masc;recriminó;ser;Él le recriminó a ella ser muy * con sus amistades.
+27;A;Ella;le;reveló;a;ella;ser;todavía;*;a los antidepresivos;27;A;subject;match;adicta;adicto;fem;masc;reveló;ser;Ella le reveló a ella ser todavía * a los antidepresivos.
+27;A';Él;le;reveló;a;él;ser;todavía;*;a los antidepresivos;27;A';subject;match;adicto;adicta;masc;fem;reveló;ser;Él le reveló a él ser todavía * a los antidepresivos.
+27;B;Ella;le;reveló;a;él;ser;todavía;*;a los antidepresivos;27;B;subject;mismatch;adicta;adicto;fem;masc;reveló;ser;Ella le reveló a él ser todavía * a los antidepresivos.
+27;B';Él;le;reveló;a;ella;ser;todavía;*;a los antidepresivos;27;B';subject;mismatch;adicto;adicta;masc;fem;reveló;ser;Él le reveló a ella ser todavía * a los antidepresivos.
+27;C;Ella;le;reprochó;a;ella;ser;todavía;*;a los antidepresivos;27;C;object;match;adicta;adicto;fem;masc;reprochó;ser;Ella le reprochó a ella ser todavía * a los antidepresivos.
+27;C';Él;le;reprochó;a;él;ser;todavía;*;a los antidepresivos;27;C';object;match;adicto;adicta;masc;fem;reprochó;ser;Él le reprochó a él ser todavía * a los antidepresivos.
+27;D;Él;le;reprochó;a;ella;ser;todavía;*;a los antidepresivos;27;D;object;mismatch;adicta;adicto;fem;masc;reprochó;ser;Él le reprochó a ella ser todavía * a los antidepresivos.
+27;D';Ella;le;reprochó;a;él;ser;todavía;*;a los antidepresivos;27;D';object;mismatch;adicto;adicta;masc;fem;reprochó;ser;Ella le reprochó a él ser todavía * a los antidepresivos.
+28;A;Él;le;garantizó;a;él;ser;absolutamente;*;en sus anotaciones;28;A;subject;match;meticuloso;meticulosa;masc;fem;garantizó;ser;Él le garantizó a él ser absolutamente * en sus anotaciones.
+28;A';Ella;le;garantizó;a;ella;ser;absolutamente;*;en sus anotaciones;28;A';subject;match;meticulosa;meticuloso;fem;masc;garantizó;ser;Ella le garantizó a ella ser absolutamente * en sus anotaciones.
+28;B;Él;le;garantizó;a;ella;ser;absolutamente;*;en sus anotaciones;28;B;subject;mismatch;meticuloso;meticulosa;masc;fem;garantizó;ser;Él le garantizó a ella ser absolutamente * en sus anotaciones.
+28;B';Ella;le;garantizó;a;él;ser;absolutamente;*;en sus anotaciones;28;B';subject;mismatch;meticulosa;meticuloso;fem;masc;garantizó;ser;Ella le garantizó a él ser absolutamente * en sus anotaciones.
+28;C;Él;le;recomendó;a;él;ser;absolutamente;*;en sus anotaciones;28;C;object;match;meticuloso;meticulosa;masc;fem;recomendó;ser;Él le recomendó a él ser absolutamente * en sus anotaciones.
+28;C';Ella;le;recomendó;a;ella;ser;absolutamente;*;en sus anotaciones;28;C';object;match;meticulosa;meticuloso;fem;masc;recomendó;ser;Ella le recomendó a ella ser absolutamente * en sus anotaciones.
+28;D;Ella;le;recomendó;a;él;ser;absolutamente;*;en sus anotaciones;28;D;object;mismatch;meticuloso;meticulosa;masc;fem;recomendó;ser;Ella le recomendó a él ser absolutamente * en sus anotaciones.
+28;D';Él;le;recomendó;a;ella;ser;absolutamente;*;en sus anotaciones;28;D';object;mismatch;meticulosa;meticuloso;fem;masc;recomendó;ser;Él le recomendó a ella ser absolutamente * en sus anotaciones.
+29;A;Ella;le;confirmó;a;ella;ser;abiertamente;*;de la tauromaquia;29;A;subject;match;partidaria;partidario;fem;masc;confirmó;ser;Ella le confirmó a ella ser abiertamente * de la tauromaquia.
+29;A';Él;le;confirmó;a;él;ser;abiertamente;*;de la tauromaquia;29;A';subject;match;partidario;partidaria;masc;fem;confirmó;ser;Él le confirmó a él ser abiertamente * de la tauromaquia.
+29;B;Ella;le;confirmó;a;él;ser;abiertamente;*;de la tauromaquia;29;B;subject;mismatch;partidaria;partidario;fem;masc;confirmó;ser;Ella le confirmó a él ser abiertamente * de la tauromaquia.
+29;B';Él;le;confirmó;a;ella;ser;abiertamente;*;de la tauromaquia;29;B';subject;mismatch;partidario;partidaria;masc;fem;confirmó;ser;Él le confirmó a ella ser abiertamente * de la tauromaquia.
+29;C;Ella;le;impidió;a;ella;ser;abiertamente;*;de la tauromaquia;29;C;object;match;partidaria;partidario;fem;masc;impidió;ser;Ella le impidió a ella ser abiertamente * de la tauromaquia.
+29;C';Él;le;impidió;a;él;ser;abiertamente;*;de la tauromaquia;29;C';object;match;partidario;partidaria;masc;fem;impidió;ser;Él le impidió a él ser abiertamente * de la tauromaquia.
+29;D;Él;le;impidió;a;ella;ser;abiertamente;*;de la tauromaquia;29;D;object;mismatch;partidaria;partidario;fem;masc;impidió;ser;Él le impidió a ella ser abiertamente * de la tauromaquia.
+29;D';Ella;le;impidió;a;él;ser;abiertamente;*;de la tauromaquia;29;D';object;mismatch;partidario;partidaria;masc;fem;impidió;ser;Ella le impidió a él ser abiertamente * de la tauromaquia.
+30;A;Él;le;desmintió;a;él;ser;siempre tan;*;con los visitantes;30;A;subject;match;irrespetuoso;irrespetuosa;masc;fem;desmintió;ser;Él le desmintió a él ser siempre tan * con los visitantes.
+30;A';Ella;le;desmintió;a;ella;ser;siempre tan;*;con los visitantes;30;A';subject;match;irrespetuosa;irrespetuoso;fem;masc;desmintió;ser;Ella le desmintió a ella ser siempre tan * con los visitantes.
+30;B;Él;le;desmintió;a;ella;ser;siempre tan;*;con los visitantes;30;B;subject;mismatch;irrespetuoso;irrespetuosa;masc;fem;desmintió;ser;Él le desmintió a ella ser siempre tan * con los visitantes.
+30;B';Ella;le;desmintió;a;él;ser;siempre tan;*;con los visitantes;30;B';subject;mismatch;irrespetuosa;irrespetuoso;fem;masc;desmintió;ser;Ella le desmintió a él ser siempre tan * con los visitantes.
+30;C;Él;le;prohibió;a;él;ser;siempre tan;*;con los visitantes;30;C;object;match;irrespetuoso;irrespetuosa;masc;fem;prohibió;ser;Él le prohibió a él ser siempre tan * con los visitantes.
+30;C';Ella;le;prohibió;a;ella;ser;siempre tan;*;con los visitantes;30;C';object;match;irrespetuosa;irrespetuoso;fem;masc;prohibió;ser;Ella le prohibió a ella ser siempre tan * con los visitantes.
+30;D;Ella;le;prohibió;a;él;ser;siempre tan;*;con los visitantes;30;D;object;mismatch;irrespetuoso;irrespetuosa;masc;fem;prohibió;ser;Ella le prohibió a él ser siempre tan * con los visitantes.
+30;D';Él;le;prohibió;a;ella;ser;siempre tan;*;con los visitantes;30;D';object;mismatch;irrespetuosa;irrespetuoso;fem;masc;prohibió;ser;Él le prohibió a ella ser siempre tan * con los visitantes.
+31;A;Ella;le;juró;a;ella;ser;sumamente;*;con los pacientes;31;A;subject;match;delicada;delicado;fem;masc;juró;ser;Ella le juró a ella ser sumamente * con los pacientes.
+31;A';Él;le;juró;a;él;ser;sumamente;*;con los pacientes;31;A';subject;match;delicado;delicada;masc;fem;juró;ser;Él le juró a él ser sumamente * con los pacientes.
+31;B;Ella;le;juró;a;él;ser;sumamente;*;con los pacientes;31;B;subject;mismatch;delicada;delicado;fem;masc;juró;ser;Ella le juró a él ser sumamente * con los pacientes.
+31;B';Él;le;juró;a;ella;ser;sumamente;*;con los pacientes;31;B';subject;mismatch;delicado;delicada;masc;fem;juró;ser;Él le juró a ella ser sumamente * con los pacientes.
+31;C;Ella;le;exigió;a;ella;ser;sumamente;*;con los pacientes;31;C;object;match;delicada;delicado;fem;masc;exigió;ser;Ella le exigió a ella ser sumamente * con los pacientes.
+31;C';Él;le;exigió;a;él;ser;sumamente;*;con los pacientes;31;C';object;match;delicado;delicada;masc;fem;exigió;ser;Él le exigió a él ser sumamente * con los pacientes.
+31;D;Él;le;exigió;a;ella;ser;sumamente;*;con los pacientes;31;D;object;mismatch;delicada;delicado;fem;masc;exigió;ser;Él le exigió a ella ser sumamente * con los pacientes.
+31;D';Ella;le;exigió;a;él;ser;sumamente;*;con los pacientes;31;D';object;mismatch;delicado;delicada;masc;fem;exigió;ser;Ella le exigió a él ser sumamente * con los pacientes.
+32;A;Él;le;aseguró;a;él;ser;absolutamente;*;con las heridas;32;A;subject;match;pulcro;pulcra;masc;fem;aseguró;ser;Él le aseguró a él ser absolutamente * con las heridas.
+32;A';Ella;le;aseguró;a;ella;ser;absolutamente;*;con las heridas;32;A';subject;match;pulcra;pulcro;fem;masc;aseguró;ser;Ella le aseguró a ella ser absolutamente * con las heridas.
+32;B;Él;le;aseguró;a;ella;ser;absolutamente;*;con las heridas;32;B;subject;mismatch;pulcro;pulcra;masc;fem;aseguró;ser;Él le aseguró a ella ser absolutamente * con las heridas.
+32;B';Ella;le;aseguró;a;él;ser;absolutamente;*;con las heridas;32;B';subject;mismatch;pulcra;pulcro;fem;masc;aseguró;ser;Ella le aseguró a él ser absolutamente * con las heridas.
+32;C;Él;le;ordenó;a;él;ser;absolutamente;*;con las heridas;32;C;object;match;pulcro;pulcra;masc;fem;ordenó;ser;Él le ordenó a él ser absolutamente * con las heridas.
+32;C';Ella;le;ordenó;a;ella;ser;absolutamente;*;con las heridas;32;C';object;match;pulcra;pulcro;fem;masc;ordenó;ser;Ella le ordenó a ella ser absolutamente * con las heridas.
+32;D;Ella;le;ordenó;a;él;ser;absolutamente;*;con las heridas;32;D;object;mismatch;pulcro;pulcra;masc;fem;ordenó;ser;Ella le ordenó a él ser absolutamente * con las heridas.
+32;D';Él;le;ordenó;a;ella;ser;absolutamente;*;con las heridas;32;D';object;mismatch;pulcra;pulcro;fem;masc;ordenó;ser;Él le ordenó a ella ser absolutamente * con las heridas.
+33;A;Ella;le;confesó;a;ella;ser;bastante;*;con las notas;33;A;subject;match;generosa;generoso;fem;masc;confesó;ser;Ella le confesó a ella ser bastante * con las notas.
+33;A';Él;le;confesó;a;él;ser;bastante;*;con las notas;33;A';subject;match;generoso;generosa;masc;fem;confesó;ser;Él le confesó a él ser bastante * con las notas.
+33;B;Ella;le;confesó;a;él;ser;bastante;*;con las notas;33;B;subject;mismatch;generosa;generoso;fem;masc;confesó;ser;Ella le confesó a él ser bastante * con las notas.
+33;B';Él;le;confesó;a;ella;ser;bastante;*;con las notas;33;B';subject;mismatch;generoso;generosa;masc;fem;confesó;ser;Él le confesó a ella ser bastante * con las notas.
+33;C;Ella;le;permitió;a;ella;ser;bastante;*;con las notas;33;C;object;match;generosa;generoso;fem;masc;permitió;ser;Ella le permitió a ella ser bastante * con las notas.
+33;C';Él;le;permitió;a;él;ser;bastante;*;con las notas;33;C';object;match;generoso;generosa;masc;fem;permitió;ser;Él le permitió a él ser bastante * con las notas.
+33;D;Él;le;permitió;a;ella;ser;bastante;*;con las notas;33;D;object;mismatch;generosa;generoso;fem;masc;permitió;ser;Él le permitió a ella ser bastante * con las notas.
+33;D';Ella;le;permitió;a;él;ser;bastante;*;con las notas;33;D';object;mismatch;generoso;generosa;masc;fem;permitió;ser;Ella le permitió a él ser bastante * con las notas.
+34;A;Él;le;expresó;a;él;ser;totalmente;*;en la gestión;34;A;subject;match;autónomo;autónoma;masc;fem;expresó;ser;Él le expresó a él ser totalmente * en la gestión.
+34;A';Ella;le;expresó;a;ella;ser;totalmente;*;en la gestión;34;A';subject;match;autónoma;autónomo;fem;masc;expresó;ser;Ella le expresó a ella ser totalmente * en la gestión.
+34;B;Él;le;expresó;a;ella;ser;totalmente;*;en la gestión;34;B;subject;mismatch;autónomo;autónoma;masc;fem;expresó;ser;Él le expresó a ella ser totalmente * en la gestión.
+34;B';Ella;le;expresó;a;él;ser;totalmente;*;en la gestión;34;B';subject;mismatch;autónoma;autónomo;fem;masc;expresó;ser;Ella le expresó a él ser totalmente * en la gestión.
+34;C;Él;le;encargó;a;él;ser;totalmente;*;en la gestión;34;C;object;match;autónomo;autónoma;masc;fem;encargó;ser;Él le encargó a él ser totalmente * en la gestión.
+34;C';Ella;le;encargó;a;ella;ser;totalmente;*;en la gestión;34;C';object;match;autónoma;autónomo;fem;masc;encargó;ser;Ella le encargó a ella ser totalmente * en la gestión.
+34;D;Ella;le;encargó;a;él;ser;totalmente;*;en la gestión;34;D;object;mismatch;autónomo;autónoma;masc;fem;encargó;ser;Ella le encargó a él ser totalmente * en la gestión.
+34;D';Él;le;encargó;a;ella;ser;totalmente;*;en la gestión;34;D';object;mismatch;autónoma;autónomo;fem;masc;encargó;ser;Él le encargó a ella ser totalmente * en la gestión.
+35;A;Ella;le;declaró;a;ella;ser;sumamente;*;en el cargo;35;A;subject;match;honrada;honrado;fem;masc;declaró;ser;Ella le declaró a ella ser sumamente * en el cargo.
+35;A';Él;le;declaró;a;él;ser;sumamente;*;en el cargo;35;A';subject;match;honrado;honrada;masc;fem;declaró;ser;Él le declaró a él ser sumamente * en el cargo.
+35;B;Ella;le;declaró;a;él;ser;sumamente;*;en el cargo;35;B;subject;mismatch;honrada;honrado;fem;masc;declaró;ser;Ella le declaró a él ser sumamente * en el cargo.
+35;B';Él;le;declaró;a;ella;ser;sumamente;*;en el cargo;35;B';subject;mismatch;honrado;honrada;masc;fem;declaró;ser;Él le declaró a ella ser sumamente * en el cargo.
+35;C;Ella;le;mandó;a;ella;ser;sumamente;*;en el cargo;35;C;object;match;honrada;honrado;fem;masc;mandó;ser;Ella le mandó a ella ser sumamente * en el cargo.
+35;C';Él;le;mandó;a;él;ser;sumamente;*;en el cargo;35;C';object;match;honrado;honrada;masc;fem;mandó;ser;Él le mandó a él ser sumamente * en el cargo.
+35;D;Él;le;mandó;a;ella;ser;sumamente;*;en el cargo;35;D;object;mismatch;honrada;honrado;fem;masc;mandó;ser;Él le mandó a ella ser sumamente * en el cargo.
+35;D';Ella;le;mandó;a;él;ser;sumamente;*;en el cargo;35;D';object;mismatch;honrado;honrada;masc;fem;mandó;ser;Ella le mandó a él ser sumamente * en el cargo.
+36;A;Él;le;manifestó;a;él;ser;un poco;*;con las normas;36;A;subject;match;anárquico;anárquica;masc;fem;manifestó;ser;Él le manifestó a él ser un poco * con las normas.
+36;A';Ella;le;manifestó;a;ella;ser;un poco;*;con las normas;36;A';subject;match;anárquica;anárquico;fem;masc;manifestó;ser;Ella le manifestó a ella ser un poco * con las normas.
+36;B;Él;le;manifestó;a;ella;ser;un poco;*;con las normas;36;B;subject;mismatch;anárquico;anárquica;masc;fem;manifestó;ser;Él le manifestó a ella ser un poco * con las normas.
+36;B';Ella;le;manifestó;a;él;ser;un poco;*;con las normas;36;B';subject;mismatch;anárquica;anárquico;fem;masc;manifestó;ser;Ella le manifestó a él ser un poco * con las normas.
+36;C;Él;le;consintió;a;él;ser;un poco;*;con las normas;36;C;object;match;anárquico;anárquica;masc;fem;consintió;ser;Él le consintió a él ser un poco * con las normas.
+36;C';Ella;le;consintió;a;ella;ser;un poco;*;con las normas;36;C';object;match;anárquica;anárquico;fem;masc;consintió;ser;Ella le consintió a ella ser un poco * con las normas.
+36;D;Ella;le;consintió;a;él;ser;un poco;*;con las normas;36;D;object;mismatch;anárquico;anárquica;masc;fem;consintió;ser;Ella le consintió a él ser un poco * con las normas.
+36;D';Él;le;consintió;a;ella;ser;un poco;*;con las normas;36;D';object;mismatch;anárquica;anárquico;fem;masc;consintió;ser;Él le consintió a ella ser un poco * con las normas.
+37;A;Él;le;prometió;a;él;estar;más;*;por la salud;37;A;subject;match;preocupado;preocupada;masc;fem;prometió;estar;Él le prometió a él estar más * por la salud.
+37;A';Ella;le;prometió;a;ella;estar;más;*;por la salud;37;A';subject;match;preocupada;preocupado;fem;masc;prometió;estar;Ella le prometió a ella estar más * por la salud.
+37;B;Él;le;prometió;a;ella;estar;más;*;por la salud;37;B;subject;mismatch;preocupado;preocupada;masc;fem;prometió;estar;Él le prometió a ella estar más * por la salud.
+37;B';Ella;le;prometió;a;él;estar;más;*;por la salud;37;B';subject;mismatch;preocupada;preocupado;fem;masc;prometió;estar;Ella le prometió a él estar más * por la salud.
+37;C;Él;le;aconsejó;a;él;estar;más;*;por la salud;37;C;object;match;preocupado;preocupada;masc;fem;aconsejó;estar;Él le aconsejó a él estar más * por la salud.
+37;C';Ella;le;aconsejó;a;ella;estar;más;*;por la salud;37;C';object;match;preocupada;preocupado;fem;masc;aconsejó;estar;Ella le aconsejó a ella estar más * por la salud.
+37;D;Ella;le;aconsejó;a;él;estar;más;*;por la salud;37;D;object;mismatch;preocupado;preocupada;masc;fem;aconsejó;estar;Ella le aconsejó a él estar más * por la salud.
+37;D';Él;le;aconsejó;a;ella;estar;más;*;por la salud;37;D';object;mismatch;preocupada;preocupado;fem;masc;aconsejó;estar;Él le aconsejó a ella estar más * por la salud.
+38;A;Ella;le;reconoció;a;ella;estar;muy poco;*;en la política;38;A;subject;match;interesada;interesado;fem;masc;reconoció;estar;Ella le reconoció a ella estar muy poco * en la política.
+38;A';Él;le;reconoció;a;él;estar;muy poco;*;en la política;38;A';subject;match;interesado;interesada;masc;fem;reconoció;estar;Él le reconoció a él estar muy poco * en la política.
+38;B;Ella;le;reconoció;a;él;estar;muy poco;*;en la política;38;B;subject;mismatch;interesada;interesado;fem;masc;reconoció;estar;Ella le reconoció a él estar muy poco * en la política.
+38;B';Él;le;reconoció;a;ella;estar;muy poco;*;en la política;38;B';subject;mismatch;interesado;interesada;masc;fem;reconoció;estar;Él le reconoció a ella estar muy poco * en la política.
+38;C;Ella;le;recriminó;a;ella;estar;muy poco;*;en la política;38;C;object;match;interesada;interesado;fem;masc;recriminó;estar;Ella le recriminó a ella estar muy poco * en la política.
+38;C';Él;le;recriminó;a;él;estar;muy poco;*;en la política;38;C';object;match;interesado;interesada;masc;fem;recriminó;estar;Él le recriminó a él estar muy poco * en la política.
+38;D;Él;le;recriminó;a;ella;estar;muy poco;*;en la política;38;D;object;mismatch;interesada;interesado;fem;masc;recriminó;estar;Él le recriminó a ella estar muy poco * en la política.
+38;D';Ella;le;recriminó;a;él;estar;muy poco;*;en la política;38;D';object;mismatch;interesado;interesada;masc;fem;recriminó;estar;Ella le recriminó a él estar muy poco * en la política.
+39;A;Él;le;reveló;a;él;estar;todavía;*;por la ruptura;39;A;subject;match;deprimido;deprimida;masc;fem;reveló;estar;Él le reveló a él estar todavía * por la ruptura.
+39;A';Ella;le;reveló;a;ella;estar;todavía;*;por la ruptura;39;A';subject;match;deprimida;deprimido;fem;masc;reveló;estar;Ella le reveló a ella estar todavía * por la ruptura.
+39;B;Él;le;reveló;a;ella;estar;todavía;*;por la ruptura;39;B;subject;mismatch;deprimido;deprimida;masc;fem;reveló;estar;Él le reveló a ella estar todavía * por la ruptura.
+39;B';Ella;le;reveló;a;él;estar;todavía;*;por la ruptura;39;B';subject;mismatch;deprimida;deprimido;fem;masc;reveló;estar;Ella le reveló a él estar todavía * por la ruptura.
+39;C;Él;le;reprochó;a;él;estar;todavía;*;por la ruptura;39;C;object;match;deprimido;deprimida;masc;fem;reprochó;estar;Él le reprochó a él estar todavía * por la ruptura.
+39;C';Ella;le;reprochó;a;ella;estar;todavía;*;por la ruptura;39;C';object;match;deprimida;deprimido;fem;masc;reprochó;estar;Ella le reprochó a ella estar todavía * por la ruptura.
+39;D;Ella;le;reprochó;a;él;estar;todavía;*;por la ruptura;39;D;object;mismatch;deprimido;deprimida;masc;fem;reprochó;estar;Ella le reprochó a él estar todavía * por la ruptura.
+39;D';Él;le;reprochó;a;ella;estar;todavía;*;por la ruptura;39;D';object;mismatch;deprimida;deprimido;fem;masc;reprochó;estar;Él le reprochó a ella estar todavía * por la ruptura.
+40;A;Ella;le;garantizó;a;ella;estar;menos;*;en el debate;40;A;subject;match;agresiva;agresivo;fem;masc;garantizó;estar;Ella le garantizó a ella estar menos * en el debate.
+40;A';Él;le;garantizó;a;él;estar;menos;*;en el debate;40;A';subject;match;agresivo;agresiva;masc;fem;garantizó;estar;Él le garantizó a él estar menos * en el debate.
+40;B;Ella;le;garantizó;a;él;estar;menos;*;en el debate;40;B;subject;mismatch;agresiva;agresivo;fem;masc;garantizó;estar;Ella le garantizó a él estar menos * en el debate.
+40;B';Él;le;garantizó;a;ella;estar;menos;*;en el debate;40;B';subject;mismatch;agresivo;agresiva;masc;fem;garantizó;estar;Él le garantizó a ella estar menos * en el debate.
+40;C;Ella;le;recomendó;a;ella;estar;menos;*;en el debate;40;C;object;match;agresiva;agresivo;fem;masc;recomendó;estar;Ella le recomendó a ella estar menos * en el debate.
+40;C';Él;le;recomendó;a;él;estar;menos;*;en el debate;40;C';object;match;agresivo;agresiva;masc;fem;recomendó;estar;Él le recomendó a él estar menos * en el debate.
+40;D;Él;le;recomendó;a;ella;estar;menos;*;en el debate;40;D;object;mismatch;agresiva;agresivo;fem;masc;recomendó;estar;Él le recomendó a ella estar menos * en el debate.
+40;D';Ella;le;recomendó;a;él;estar;menos;*;en el debate;40;D';object;mismatch;agresivo;agresiva;masc;fem;recomendó;estar;Ella le recomendó a él estar menos * en el debate.
+41;A;Él;le;confirmó;a;él;estar;todavía;*;por las críticas;41;A;subject;match;dolido;dolida;masc;fem;confirmó;estar;Él le confirmó a él estar todavía * por las críticas.
+41;A';Ella;le;confirmó;a;ella;estar;todavía;*;por las críticas;41;A';subject;match;dolida;dolido;fem;masc;confirmó;estar;Ella le confirmó a ella estar todavía * por las críticas.
+41;B;Él;le;confirmó;a;ella;estar;todavía;*;por las críticas;41;B;subject;mismatch;dolido;dolida;masc;fem;confirmó;estar;Él le confirmó a ella estar todavía * por las críticas.
+41;B';Ella;le;confirmó;a;él;estar;todavía;*;por las críticas;41;B';subject;mismatch;dolida;dolido;fem;masc;confirmó;estar;Ella le confirmó a él estar todavía * por las críticas.
+41;C;Él;le;impidió;a;él;estar;todavía;*;por las críticas;41;C;object;match;dolido;dolida;masc;fem;impidió;estar;Él le impidió a él estar todavía * por las críticas.
+41;C';Ella;le;impidió;a;ella;estar;todavía;*;por las críticas;41;C';object;match;dolida;dolido;fem;masc;impidió;estar;Ella le impidió a ella estar todavía * por las críticas.
+41;D;Ella;le;impidió;a;él;estar;todavía;*;por las críticas;41;D;object;mismatch;dolido;dolida;masc;fem;impidió;estar;Ella le impidió a él estar todavía * por las críticas.
+41;D';Él;le;impidió;a;ella;estar;todavía;*;por las críticas;41;D';object;mismatch;dolida;dolido;fem;masc;impidió;estar;Él le impidió a ella estar todavía * por las críticas.
+42;A;Ella;le;desmintió;a;ella;estar;siempre;*;con los resultados;42;A;subject;match;descontenta;descontento;fem;masc;desmintió;estar;Ella le desmintió a ella estar siempre * con los resultados.
+42;A';Él;le;desmintió;a;él;estar;siempre;*;con los resultados;42;A';subject;match;descontento;descontenta;masc;fem;desmintió;estar;Él le desmintió a él estar siempre * con los resultados.
+42;B;Ella;le;desmintió;a;él;estar;siempre;*;con los resultados;42;B;subject;mismatch;descontenta;descontento;fem;masc;desmintió;estar;Ella le desmintió a él estar siempre * con los resultados.
+42;B';Él;le;desmintió;a;ella;estar;siempre;*;con los resultados;42;B';subject;mismatch;descontento;descontenta;masc;fem;desmintió;estar;Él le desmintió a ella estar siempre * con los resultados.
+42;C;Ella;le;prohibió;a;ella;estar;siempre;*;con los resultados;42;C;object;match;descontenta;descontento;fem;masc;prohibió;estar;Ella le prohibió a ella estar siempre * con los resultados.
+42;C';Él;le;prohibió;a;él;estar;siempre;*;con los resultados;42;C';object;match;descontento;descontenta;masc;fem;prohibió;estar;Él le prohibió a él estar siempre * con los resultados.
+42;D;Él;le;prohibió;a;ella;estar;siempre;*;con los resultados;42;D;object;mismatch;descontenta;descontento;fem;masc;prohibió;estar;Él le prohibió a ella estar siempre * con los resultados.
+42;D';Ella;le;prohibió;a;él;estar;siempre;*;con los resultados;42;D';object;mismatch;descontento;descontenta;masc;fem;prohibió;estar;Ella le prohibió a él estar siempre * con los resultados.
+43;A;Él;le;juró;a;él;estar;mucho más;*;con el medioambiente;43;A;subject;match;concienciado;concienciada;masc;fem;juró;estar;Él le juró a él estar mucho más * con el medioambiente.
+43;A';Ella;le;juró;a;ella;estar;mucho más;*;con el medioambiente;43;A';subject;match;concienciada;concienciado;fem;masc;juró;estar;Ella le juró a ella estar mucho más * con el medioambiente.
+43;B;Él;le;juró;a;ella;estar;mucho más;*;con el medioambiente;43;B;subject;mismatch;concienciado;concienciada;masc;fem;juró;estar;Él le juró a ella estar mucho más * con el medioambiente.
+43;B';Ella;le;juró;a;él;estar;mucho más;*;con el medioambiente;43;B';subject;mismatch;concienciada;concienciado;fem;masc;juró;estar;Ella le juró a él estar mucho más * con el medioambiente.
+43;C;Él;le;exigió;a;él;estar;mucho más;*;con el medioambiente;43;C;object;match;concienciado;concienciada;masc;fem;exigió;estar;Él le exigió a él estar mucho más * con el medioambiente.
+43;C';Ella;le;exigió;a;ella;estar;mucho más;*;con el medioambiente;43;C';object;match;concienciada;concienciado;fem;masc;exigió;estar;Ella le exigió a ella estar mucho más * con el medioambiente.
+43;D;Ella;le;exigió;a;él;estar;mucho más;*;con el medioambiente;43;D;object;mismatch;concienciado;concienciada;masc;fem;exigió;estar;Ella le exigió a él estar mucho más * con el medioambiente.
+43;D';Él;le;exigió;a;ella;estar;mucho más;*;con el medioambiente;43;D';object;mismatch;concienciada;concienciado;fem;masc;exigió;estar;Él le exigió a ella estar mucho más * con el medioambiente.
+44;A;Ella;le;aseguró;a;ella;estar;totalmente;*;en los objetivos;44;A;subject;match;centrada;centrado;fem;masc;aseguró;estar;Ella le aseguró a ella estar totalmente * en los objetivos.
+44;A';Él;le;aseguró;a;él;estar;totalmente;*;en los objetivos;44;A';subject;match;centrado;centrada;masc;fem;aseguró;estar;Él le aseguró a él estar totalmente * en los objetivos.
+44;B;Ella;le;aseguró;a;él;estar;totalmente;*;en los objetivos;44;B;subject;mismatch;centrada;centrado;fem;masc;aseguró;estar;Ella le aseguró a él estar totalmente * en los objetivos.
+44;B';Él;le;aseguró;a;ella;estar;totalmente;*;en los objetivos;44;B';subject;mismatch;centrado;centrada;masc;fem;aseguró;estar;Él le aseguró a ella estar totalmente * en los objetivos.
+44;C;Ella;le;ordenó;a;ella;estar;totalmente;*;en los objetivos;44;C;object;match;centrada;centrado;fem;masc;ordenó;estar;Ella le ordenó a ella estar totalmente * en los objetivos.
+44;C';Él;le;ordenó;a;él;estar;totalmente;*;en los objetivos;44;C';object;match;centrado;centrada;masc;fem;ordenó;estar;Él le ordenó a él estar totalmente * en los objetivos.
+44;D;Él;le;ordenó;a;ella;estar;totalmente;*;en los objetivos;44;D;object;mismatch;centrada;centrado;fem;masc;ordenó;estar;Él le ordenó a ella estar totalmente * en los objetivos.
+44;D';Ella;le;ordenó;a;él;estar;totalmente;*;en los objetivos;44;D';object;mismatch;centrado;centrada;masc;fem;ordenó;estar;Ella le ordenó a él estar totalmente * en los objetivos.
+45;A;Él;le;confesó;a;él;estar;un poco;*;ante las críticas;45;A;subject;match;ofendido;ofendida;masc;fem;confesó;estar;Él le confesó a él estar un poco * ante las críticas.
+45;A';Ella;le;confesó;a;ella;estar;un poco;*;ante las críticas;45;A';subject;match;ofendida;ofendido;fem;masc;confesó;estar;Ella le confesó a ella estar un poco * ante las críticas.
+45;B;Él;le;confesó;a;ella;estar;un poco;*;ante las críticas;45;B;subject;mismatch;ofendido;ofendida;masc;fem;confesó;estar;Él le confesó a ella estar un poco * ante las críticas.
+45;B';Ella;le;confesó;a;él;estar;un poco;*;ante las críticas;45;B';subject;mismatch;ofendida;ofendido;fem;masc;confesó;estar;Ella le confesó a él estar un poco * ante las críticas.
+45;C;Él;le;permitió;a;él;estar;un poco;*;ante las críticas;45;C;object;match;ofendido;ofendida;masc;fem;permitió;estar;Él le permitió a él estar un poco * ante las críticas.
+45;C';Ella;le;permitió;a;ella;estar;un poco;*;ante las críticas;45;C';object;match;ofendida;ofendido;fem;masc;permitió;estar;Ella le permitió a ella estar un poco * ante las críticas.
+45;D;Ella;le;permitió;a;él;estar;un poco;*;ante las críticas;45;D;object;mismatch;ofendido;ofendida;masc;fem;permitió;estar;Ella le permitió a él estar un poco * ante las críticas.
+45;D';Él;le;permitió;a;ella;estar;un poco;*;ante las críticas;45;D';object;mismatch;ofendida;ofendido;fem;masc;permitió;estar;Él le permitió a ella estar un poco * ante las críticas.
+46;A;Ella;le;expresó;a;ella;estar;más;*;tras las vacaciones;46;A;subject;match;tranquila;tranquilo;fem;masc;expresó;estar;Ella le expresó a ella estar más * tras las vacaciones.
+46;A';Él;le;expresó;a;él;estar;más;*;tras las vacaciones;46;A';subject;match;tranquilo;tranquila;masc;fem;expresó;estar;Él le expresó a él estar más * tras las vacaciones.
+46;B;Ella;le;expresó;a;él;estar;más;*;tras las vacaciones;46;B;subject;mismatch;tranquila;tranquilo;fem;masc;expresó;estar;Ella le expresó a él estar más * tras las vacaciones.
+46;B';Él;le;expresó;a;ella;estar;más;*;tras las vacaciones;46;B';subject;mismatch;tranquilo;tranquila;masc;fem;expresó;estar;Él le expresó a ella estar más * tras las vacaciones.
+46;C;Ella;le;encargó;a;ella;estar;más;*;tras las vacaciones;46;C;object;match;tranquila;tranquilo;fem;masc;encargó;estar;Ella le encargó a ella estar más * tras las vacaciones.
+46;C';Él;le;encargó;a;él;estar;más;*;tras las vacaciones;46;C';object;match;tranquilo;tranquila;masc;fem;encargó;estar;Él le encargó a él estar más * tras las vacaciones.
+46;D;Él;le;encargó;a;ella;estar;más;*;tras las vacaciones;46;D;object;mismatch;tranquila;tranquilo;fem;masc;encargó;estar;Él le encargó a ella estar más * tras las vacaciones.
+46;D';Ella;le;encargó;a;él;estar;más;*;tras las vacaciones;46;D';object;mismatch;tranquilo;tranquila;masc;fem;encargó;estar;Ella le encargó a él estar más * tras las vacaciones.
+47;A;Él;le;declaró;a;él;estar;absolutamente;*;de las mentiras;47;A;subject;match;arrepentido;arrepentida;masc;fem;declaró;estar;Él le declaró a él estar absolutamente * de las mentiras.
+47;A';Ella;le;declaró;a;ella;estar;absolutamente;*;de las mentiras;47;A';subject;match;arrepentida;arrepentido;fem;masc;declaró;estar;Ella le declaró a ella estar absolutamente * de las mentiras.
+47;B;Él;le;declaró;a;ella;estar;absolutamente;*;de las mentiras;47;B;subject;mismatch;arrepentido;arrepentida;masc;fem;declaró;estar;Él le declaró a ella estar absolutamente * de las mentiras.
+47;B';Ella;le;declaró;a;él;estar;absolutamente;*;de las mentiras;47;B';subject;mismatch;arrepentida;arrepentido;fem;masc;declaró;estar;Ella le declaró a él estar absolutamente * de las mentiras.
+47;C;Él;le;mandó;a;él;estar;absolutamente;*;de las mentiras;47;C;object;match;arrepentido;arrepentida;masc;fem;mandó;estar;Él le mandó a él estar absolutamente * de las mentiras.
+47;C';Ella;le;mandó;a;ella;estar;absolutamente;*;de las mentiras;47;C';object;match;arrepentida;arrepentido;fem;masc;mandó;estar;Ella le mandó a ella estar absolutamente * de las mentiras.
+47;D;Ella;le;mandó;a;él;estar;absolutamente;*;de las mentiras;47;D;object;mismatch;arrepentido;arrepentida;masc;fem;mandó;estar;Ella le mandó a él estar absolutamente * de las mentiras.
+47;D';Él;le;mandó;a;ella;estar;absolutamente;*;de las mentiras;47;D';object;mismatch;arrepentida;arrepentido;fem;masc;mandó;estar;Él le mandó a ella estar absolutamente * de las mentiras.
+48;A;Ella;le;manifestó;a;ella;estar;ligeramente;*;con la situación;48;A;subject;match;molesta;molesto;fem;masc;manifestó;estar;Ella le manifestó a ella estar ligeramente * con la situación.
+48;A';Él;le;manifestó;a;él;estar;ligeramente;*;con la situación;48;A';subject;match;molesto;molesta;masc;fem;manifestó;estar;Él le manifestó a él estar ligeramente * con la situación.
+48;B;Ella;le;manifestó;a;él;estar;ligeramente;*;con la situación;48;B;subject;mismatch;molesta;molesto;fem;masc;manifestó;estar;Ella le manifestó a él estar ligeramente * con la situación.
+48;B';Él;le;manifestó;a;ella;estar;ligeramente;*;con la situación;48;B';subject;mismatch;molesto;molesta;masc;fem;manifestó;estar;Él le manifestó a ella estar ligeramente * con la situación.
+48;C;Ella;le;consintió;a;ella;estar;ligeramente;*;con la situación;48;C;object;match;molesta;molesto;fem;masc;consintió;estar;Ella le consintió a ella estar ligeramente * con la situación.
+48;C';Él;le;consintió;a;él;estar;ligeramente;*;con la situación;48;C';object;match;molesto;molesta;masc;fem;consintió;estar;Él le consintió a él estar ligeramente * con la situación.
+48;D;Él;le;consintió;a;ella;estar;ligeramente;*;con la situación;48;D;object;mismatch;molesta;molesto;fem;masc;consintió;estar;Él le consintió a ella estar ligeramente * con la situación.
+48;D';Ella;le;consintió;a;él;estar;ligeramente;*;con la situación;48;D';object;mismatch;molesto;molesta;masc;fem;consintió;estar;Ella le consintió a él estar ligeramente * con la situación.
+49;A;Ella;le;reveló;a;ella;estar;así de;*;por lo sucedido;49;A;subject;match;indignada;indignado;fem;masc;reveló;estar;Ella le reveló a ella estar así de * por lo sucedido.
+49;A';Él;le;reveló;a;él;estar;así de;*;por lo sucedido;49;A';subject;match;indignado;indignada;masc;fem;reveló;estar;Él le reveló a él estar así de * por lo sucedido.
+49;B;Ella;le;reveló;a;él;estar;así de;*;por lo sucedido;49;B;subject;mismatch;indignada;indignado;fem;masc;reveló;estar;Ella le reveló a él estar así de * por lo sucedido.
+49;B';Él;le;reveló;a;ella;estar;así de;*;por lo sucedido;49;B';subject;mismatch;indignado;indignada;masc;fem;reveló;estar;Él le reveló a ella estar así de * por lo sucedido.
+49;C;Ella;le;impidió;a;ella;estar;así de;*;por lo sucedido;49;C;object;match;indignada;indignado;fem;masc;impidió;estar;Ella le impidió a ella estar así de * por lo sucedido.
+49;C';Él;le;impidió;a;él;estar;así de;*;por lo sucedido;49;C';object;match;indignado;indignada;masc;fem;impidió;estar;Él le impidió a él estar así de * por lo sucedido.
+49;D;Él;le;impidió;a;ella;estar;así de;*;por lo sucedido;49;D;object;mismatch;indignada;indignado;fem;masc;impidió;estar;Él le impidió a ella estar así de * por lo sucedido.
+49;D';Ella;le;impidió;a;él;estar;así de;*;por lo sucedido;49;D';object;mismatch;indignado;indignada;masc;fem;impidió;estar;Ella le impidió a él estar así de * por lo sucedido.
+50;A;Él;le;aseguró;a;él;estar;un poco;*;tras el incidente;50;A;subject;match;cohibido;cohibida;masc;fem;aseguró;estar;Él le aseguró a él estar un poco * tras el incidente.
+50;A';Ella;le;aseguró;a;ella;estar;un poco;*;tras el incidente;50;A';subject;match;cohibida;cohibido;fem;masc;aseguró;estar;Ella le aseguró a ella estar un poco * tras el incidente.
+50;B;Él;le;aseguró;a;ella;estar;un poco;*;tras el incidente;50;B;subject;mismatch;cohibido;cohibida;masc;fem;aseguró;estar;Él le aseguró a ella estar un poco * tras el incidente.
+50;B';Ella;le;aseguró;a;él;estar;un poco;*;tras el incidente;50;B';subject;mismatch;cohibida;cohibido;fem;masc;aseguró;estar;Ella le aseguró a él estar un poco * tras el incidente.
+50;C;Él;le;consintió;a;él;estar;un poco;*;tras el incidente;50;C;object;match;cohibido;cohibida;masc;fem;consintió;estar;Él le consintió a él estar un poco * tras el incidente.
+50;C';Ella;le;consintió;a;ella;estar;un poco;*;tras el incidente;50;C';object;match;cohibida;cohibido;fem;masc;consintió;estar;Ella le consintió a ella estar un poco * tras el incidente.
+50;D;Ella;le;consintió;a;él;estar;un poco;*;tras el incidente;50;D;object;mismatch;cohibido;cohibida;masc;fem;consintió;estar;Ella le consintió a él estar un poco * tras el incidente.
+50;D';Él;le;consintió;a;ella;estar;un poco;*;tras el incidente;50;D';object;mismatch;cohibida;cohibido;fem;masc;consintió;estar;Él le consintió a ella estar un poco * tras el incidente.
+51;A;Ella;le;confesó;a;ella;estar;un poco;*;con los estudios;51;A;subject;match;relajada;relajado;fem;masc;confesó;estar;Ella le confesó a ella estar un poco * con los estudios.
+51;A';Él;le;confesó;a;él;estar;un poco;*;con los estudios;51;A';subject;match;relajado;relajada;masc;fem;confesó;estar;Él le confesó a él estar un poco * con los estudios.
+51;B;Ella;le;confesó;a;él;estar;un poco;*;con los estudios;51;B;subject;mismatch;relajada;relajado;fem;masc;confesó;estar;Ella le confesó a él estar un poco * con los estudios.
+51;B';Él;le;confesó;a;ella;estar;un poco;*;con los estudios;51;B';subject;mismatch;relajado;relajada;masc;fem;confesó;estar;Él le confesó a ella estar un poco * con los estudios.
+51;C;Ella;le;permitió;a;ella;estar;un poco;*;con los estudios;51;C;object;match;relajada;relajado;fem;masc;permitió;estar;Ella le permitió a ella estar un poco * con los estudios.
+51;C';Él;le;permitió;a;él;estar;un poco;*;con los estudios;51;C';object;match;relajado;relajada;masc;fem;permitió;estar;Él le permitió a él estar un poco * con los estudios.
+51;D;Él;le;permitió;a;ella;estar;un poco;*;con los estudios;51;D;object;mismatch;relajada;relajado;fem;masc;permitió;estar;Él le permitió a ella estar un poco * con los estudios.
+51;D';Ella;le;permitió;a;él;estar;un poco;*;con los estudios;51;D';object;mismatch;relajado;relajada;masc;fem;permitió;estar;Ella le permitió a él estar un poco * con los estudios.
+52;A;Él;le;manifestó;a;él;estar;muy;*;por la visita;52;A;subject;match;ansioso;ansiosa;masc;fem;manifestó;estar;Él le manifestó a él estar muy * por la visita.
+52;A';Ella;le;manifestó;a;ella;estar;muy;*;por la visita;52;A';subject;match;ansiosa;ansioso;fem;masc;manifestó;estar;Ella le manifestó a ella estar muy * por la visita.
+52;B;Él;le;manifestó;a;ella;estar;muy;*;por la visita;52;B;subject;mismatch;ansioso;ansiosa;masc;fem;manifestó;estar;Él le manifestó a ella estar muy * por la visita.
+52;B';Ella;le;manifestó;a;él;estar;muy;*;por la visita;52;B';subject;mismatch;ansiosa;ansioso;fem;masc;manifestó;estar;Ella le manifestó a él estar muy * por la visita.
+52;C;Él;le;recriminó;a;él;estar;muy;*;por la visita;52;C;object;match;ansioso;ansiosa;masc;fem;recriminó;estar;Él le recriminó a él estar muy * por la visita.
+52;C';Ella;le;recriminó;a;ella;estar;muy;*;por la visita;52;C';object;match;ansiosa;ansioso;fem;masc;recriminó;estar;Ella le recriminó a ella estar muy * por la visita.
+52;D;Ella;le;recriminó;a;él;estar;muy;*;por la visita;52;D;object;mismatch;ansioso;ansiosa;masc;fem;recriminó;estar;Ella le recriminó a él estar muy * por la visita.
+52;D';Él;le;recriminó;a;ella;estar;muy;*;por la visita;52;D';object;mismatch;ansiosa;ansioso;fem;masc;recriminó;estar;Él le recriminó a ella estar muy * por la visita.
+53;A;Ella;le;confirmó;a;ella;estar;poco;*;con la boda;53;A;subject;match;entusiasmada;entusiasmado;fem;masc;confirmó;estar;Ella le confirmó a ella estar poco * con la boda.
+53;A';Él;le;confirmó;a;él;estar;poco;*;con la boda;53;A';subject;match;entusiasmado;entusiasmada;masc;fem;confirmó;estar;Él le confirmó a él estar poco * con la boda.
+53;B;Ella;le;confirmó;a;él;estar;poco;*;con la boda;53;B;subject;mismatch;entusiasmada;entusiasmado;fem;masc;confirmó;estar;Ella le confirmó a él estar poco * con la boda.
+53;B';Él;le;confirmó;a;ella;estar;poco;*;con la boda;53;B';subject;mismatch;entusiasmado;entusiasmada;masc;fem;confirmó;estar;Él le confirmó a ella estar poco * con la boda.
+53;C;Ella;le;reprochó;a;ella;estar;poco;*;con la boda;53;C;object;match;entusiasmada;entusiasmado;fem;masc;reprochó;estar;Ella le reprochó a ella estar poco * con la boda.
+53;C';Él;le;reprochó;a;él;estar;poco;*;con la boda;53;C';object;match;entusiasmado;entusiasmada;masc;fem;reprochó;estar;Él le reprochó a él estar poco * con la boda.
+53;D;Él;le;reprochó;a;ella;estar;poco;*;con la boda;53;D;object;mismatch;entusiasmada;entusiasmado;fem;masc;reprochó;estar;Él le reprochó a ella estar poco * con la boda.
+53;D';Ella;le;reprochó;a;él;estar;poco;*;con la boda;53;D';object;mismatch;entusiasmado;entusiasmada;masc;fem;reprochó;estar;Ella le reprochó a él estar poco * con la boda.
+54;A;Él;le;expresó;a;él;estar;algo más;*;con la plantilla;54;A;subject;match;contento;contenta;masc;fem;expresó;estar;Él le expresó a él estar algo más * con la plantilla.
+54;A';Ella;le;expresó;a;ella;estar;algo más;*;con la plantilla;54;A';subject;match;contenta;contento;fem;masc;expresó;estar;Ella le expresó a ella estar algo más * con la plantilla.
+54;B;Él;le;expresó;a;ella;estar;algo más;*;con la plantilla;54;B;subject;mismatch;contento;contenta;masc;fem;expresó;estar;Él le expresó a ella estar algo más * con la plantilla.
+54;B';Ella;le;expresó;a;él;estar;algo más;*;con la plantilla;54;B';subject;mismatch;contenta;contento;fem;masc;expresó;estar;Ella le expresó a él estar algo más * con la plantilla.
+54;C;Él;le;recomendó;a;él;estar;algo más;*;con la plantilla;54;C;object;match;contento;contenta;masc;fem;recomendó;estar;Él le recomendó a él estar algo más * con la plantilla.
+54;C';Ella;le;recomendó;a;ella;estar;algo más;*;con la plantilla;54;C';object;match;contenta;contento;fem;masc;recomendó;estar;Ella le recomendó a ella estar algo más * con la plantilla.
+54;D;Ella;le;recomendó;a;él;estar;algo más;*;con la plantilla;54;D;object;mismatch;contento;contenta;masc;fem;recomendó;estar;Ella le recomendó a él estar algo más * con la plantilla.
+54;D';Él;le;recomendó;a;ella;estar;algo más;*;con la plantilla;54;D';object;mismatch;contenta;contento;fem;masc;recomendó;estar;Él le recomendó a ella estar algo más * con la plantilla.
+55;A;Ella;le;declaró;a;ella;estar;totalmente;*;de la decisión;55;A;subject;match;segura;seguro;fem;masc;declaró;estar;Ella le declaró a ella estar totalmente * de la decisión.
+55;A';Él;le;declaró;a;él;estar;totalmente;*;de la decisión;55;A';subject;match;seguro;segura;masc;fem;declaró;estar;Él le declaró a él estar totalmente * de la decisión.
+55;B;Ella;le;declaró;a;él;estar;totalmente;*;de la decisión;55;B;subject;mismatch;segura;seguro;fem;masc;declaró;estar;Ella le declaró a él estar totalmente * de la decisión.
+55;B';Él;le;declaró;a;ella;estar;totalmente;*;de la decisión;55;B';subject;mismatch;seguro;segura;masc;fem;declaró;estar;Él le declaró a ella estar totalmente * de la decisión.
+55;C;Ella;le;aconsejó;a;ella;estar;totalmente;*;de la decisión;55;C;object;match;segura;seguro;fem;masc;aconsejó;estar;Ella le aconsejó a ella estar totalmente * de la decisión.
+55;C';Él;le;aconsejó;a;él;estar;totalmente;*;de la decisión;55;C';object;match;seguro;segura;masc;fem;aconsejó;estar;Él le aconsejó a él estar totalmente * de la decisión.
+55;D;Él;le;aconsejó;a;ella;estar;totalmente;*;de la decisión;55;D;object;mismatch;segura;seguro;fem;masc;aconsejó;estar;Él le aconsejó a ella estar totalmente * de la decisión.
+55;D';Ella;le;aconsejó;a;él;estar;totalmente;*;de la decisión;55;D';object;mismatch;seguro;segura;masc;fem;aconsejó;estar;Ella le aconsejó a él estar totalmente * de la decisión.
+56;A;Él;le;desmintió;a;él;estar;todavía;*;por la discusión;56;A;subject;match;contrariado;contrariada;masc;fem;desmintió;estar;Él le desmintió a él estar todavía * por la discusión.
+56;A';Ella;le;desmintió;a;ella;estar;todavía;*;por la discusión;56;A';subject;match;contrariada;contrariado;fem;masc;desmintió;estar;Ella le desmintió a ella estar todavía * por la discusión.
+56;B;Él;le;desmintió;a;ella;estar;todavía;*;por la discusión;56;B;subject;mismatch;contrariado;contrariada;masc;fem;desmintió;estar;Él le desmintió a ella estar todavía * por la discusión.
+56;B';Ella;le;desmintió;a;él;estar;todavía;*;por la discusión;56;B';subject;mismatch;contrariada;contrariado;fem;masc;desmintió;estar;Ella le desmintió a él estar todavía * por la discusión.
+56;C;Él;le;prohibió;a;él;estar;todavía;*;por la discusión;56;C;object;match;contrariado;contrariada;masc;fem;prohibió;estar;Él le prohibió a él estar todavía * por la discusión.
+56;C';Ella;le;prohibió;a;ella;estar;todavía;*;por la discusión;56;C';object;match;contrariada;contrariado;fem;masc;prohibió;estar;Ella le prohibió a ella estar todavía * por la discusión.
+56;D;Ella;le;prohibió;a;él;estar;todavía;*;por la discusión;56;D;object;mismatch;contrariado;contrariada;masc;fem;prohibió;estar;Ella le prohibió a él estar todavía * por la discusión.
+56;D';Él;le;prohibió;a;ella;estar;todavía;*;por la discusión;56;D';object;mismatch;contrariada;contrariado;fem;masc;prohibió;estar;Él le prohibió a ella estar todavía * por la discusión.
+57;A;Ella;le;prometió;a;ella;estar;mucho más;*;en el juego;57;A;subject;match;concentrada;concentrado;fem;masc;prometió;estar;Ella le prometió a ella estar mucho más * en el juego.
+57;A';Él;le;prometió;a;él;estar;mucho más;*;en el juego;57;A';subject;match;concentrado;concentrada;masc;fem;prometió;estar;Él le prometió a él estar mucho más * en el juego.
+57;B;Ella;le;prometió;a;él;estar;mucho más;*;en el juego;57;B;subject;mismatch;concentrada;concentrado;fem;masc;prometió;estar;Ella le prometió a él estar mucho más * en el juego.
+57;B';Él;le;prometió;a;ella;estar;mucho más;*;en el juego;57;B';subject;mismatch;concentrado;concentrada;masc;fem;prometió;estar;Él le prometió a ella estar mucho más * en el juego.
+57;C;Ella;le;mandó;a;ella;estar;mucho más;*;en el juego;57;C;object;match;concentrada;concentrado;fem;masc;mandó;estar;Ella le mandó a ella estar mucho más * en el juego.
+57;C';Él;le;mandó;a;él;estar;mucho más;*;en el juego;57;C';object;match;concentrado;concentrada;masc;fem;mandó;estar;Él le mandó a él estar mucho más * en el juego.
+57;D;Él;le;mandó;a;ella;estar;mucho más;*;en el juego;57;D;object;mismatch;concentrada;concentrado;fem;masc;mandó;estar;Él le mandó a ella estar mucho más * en el juego.
+57;D';Ella;le;mandó;a;él;estar;mucho más;*;en el juego;57;D';object;mismatch;concentrado;concentrada;masc;fem;mandó;estar;Ella le mandó a él estar mucho más * en el juego.
+58;A;Él;le;garantizó;a;él;estar;menos;*;a primera hora;58;A;subject;match;dormido;dormida;masc;fem;garantizó;estar;Él le garantizó a él estar menos * a primera hora.
+58;A';Ella;le;garantizó;a;ella;estar;menos;*;a primera hora;58;A';subject;match;dormida;dormido;fem;masc;garantizó;estar;Ella le garantizó a ella estar menos * a primera hora.
+58;B;Él;le;garantizó;a;ella;estar;menos;*;a primera hora;58;B;subject;mismatch;dormido;dormida;masc;fem;garantizó;estar;Él le garantizó a ella estar menos * a primera hora.
+58;B';Ella;le;garantizó;a;él;estar;menos;*;a primera hora;58;B';subject;mismatch;dormida;dormido;fem;masc;garantizó;estar;Ella le garantizó a él estar menos * a primera hora.
+58;C;Él;le;ordenó;a;él;estar;menos;*;a primera hora;58;C;object;match;dormido;dormida;masc;fem;ordenó;estar;Él le ordenó a él estar menos * a primera hora.
+58;C';Ella;le;ordenó;a;ella;estar;menos;*;a primera hora;58;C';object;match;dormida;dormido;fem;masc;ordenó;estar;Ella le ordenó a ella estar menos * a primera hora.
+58;D;Ella;le;ordenó;a;él;estar;menos;*;a primera hora;58;D;object;mismatch;dormido;dormida;masc;fem;ordenó;estar;Ella le ordenó a él estar menos * a primera hora.
+58;D';Él;le;ordenó;a;ella;estar;menos;*;a primera hora;58;D';object;mismatch;dormida;dormido;fem;masc;ordenó;estar;Él le ordenó a ella estar menos * a primera hora.
+59;A;Ella;le;juró;a;ella;estar;mejor;*;la próxima vez;59;A;subject;match;preparada;preparado;fem;masc;juró;estar;Ella le juró a ella estar mejor * la próxima vez.
+59;A';Él;le;juró;a;él;estar;mejor;*;la próxima vez;59;A';subject;match;preparado;preparada;masc;fem;juró;estar;Él le juró a él estar mejor * la próxima vez.
+59;B;Ella;le;juró;a;él;estar;mejor;*;la próxima vez;59;B;subject;mismatch;preparada;preparado;fem;masc;juró;estar;Ella le juró a él estar mejor * la próxima vez.
+59;B';Él;le;juró;a;ella;estar;mejor;*;la próxima vez;59;B';subject;mismatch;preparado;preparada;masc;fem;juró;estar;Él le juró a ella estar mejor * la próxima vez.
+59;C;Ella;le;exigió;a;ella;estar;mejor;*;la próxima vez;59;C;object;match;preparada;preparado;fem;masc;exigió;estar;Ella le exigió a ella estar mejor * la próxima vez.
+59;C';Él;le;exigió;a;él;estar;mejor;*;la próxima vez;59;C';object;match;preparado;preparada;masc;fem;exigió;estar;Él le exigió a él estar mejor * la próxima vez.
+59;D;Él;le;exigió;a;ella;estar;mejor;*;la próxima vez;59;D;object;mismatch;preparada;preparado;fem;masc;exigió;estar;Él le exigió a ella estar mejor * la próxima vez.
+59;D';Ella;le;exigió;a;él;estar;mejor;*;la próxima vez;59;D';object;mismatch;preparado;preparada;masc;fem;exigió;estar;Ella le exigió a él estar mejor * la próxima vez.
+60;A;Él;le;reconoció;a;él;estar;mucho más;*;tras el ascenso;60;A;subject;match;motivado;motivada;masc;fem;reconoció;estar;Él le reconoció a él estar mucho más * tras el ascenso.
+60;A';Ella;le;reconoció;a;ella;estar;mucho más;*;tras el ascenso;60;A';subject;match;motivada;motivado;fem;masc;reconoció;estar;Ella le reconoció a ella estar mucho más * tras el ascenso.
+60;B;Él;le;reconoció;a;ella;estar;mucho más;*;tras el ascenso;60;B;subject;mismatch;motivado;motivada;masc;fem;reconoció;estar;Él le reconoció a ella estar mucho más * tras el ascenso.
+60;B';Ella;le;reconoció;a;él;estar;mucho más;*;tras el ascenso;60;B';subject;mismatch;motivada;motivado;fem;masc;reconoció;estar;Ella le reconoció a él estar mucho más * tras el ascenso.
+60;C;Él;le;encargó;a;él;estar;mucho más;*;tras el ascenso;60;C;object;match;motivado;motivada;masc;fem;encargó;estar;Él le encargó a él estar mucho más * tras el ascenso.
+60;C';Ella;le;encargó;a;ella;estar;mucho más;*;tras el ascenso;60;C';object;match;motivada;motivado;fem;masc;encargó;estar;Ella le encargó a ella estar mucho más * tras el ascenso.
+60;D;Ella;le;encargó;a;él;estar;mucho más;*;tras el ascenso;60;D;object;mismatch;motivado;motivada;masc;fem;encargó;estar;Ella le encargó a él estar mucho más * tras el ascenso.
+60;D';Él;le;encargó;a;ella;estar;mucho más;*;tras el ascenso;60;D';object;mismatch;motivada;motivado;fem;masc;encargó;estar;Él le encargó a ella estar mucho más * tras el ascenso.
+61;A;Él;le;reveló;a;él;ser;abiertamente;*;en cuestiones espirituales;61;A;subject;match;ateo;atea;masc;fem;reveló;ser;Él le reveló a él ser abiertamente * en cuestiones espirituales.
+61;A';Ella;le;reveló;a;ella;ser;abiertamente;*;en cuestiones espirituales;61;A';subject;match;atea;ateo;fem;masc;reveló;ser;Ella le reveló a ella ser abiertamente * en cuestiones espirituales.
+61;B;Él;le;reveló;a;ella;ser;abiertamente;*;en cuestiones espirituales;61;B;subject;mismatch;ateo;atea;masc;fem;reveló;ser;Él le reveló a ella ser abiertamente * en cuestiones espirituales.
+61;B';Ella;le;reveló;a;él;ser;abiertamente;*;en cuestiones espirituales;61;B';subject;mismatch;atea;ateo;fem;masc;reveló;ser;Ella le reveló a él ser abiertamente * en cuestiones espirituales.
+61;C;Él;le;impidió;a;él;ser;abiertamente;*;en cuestiones espirituales;61;C;object;match;ateo;atea;masc;fem;impidió;ser;Él le impidió a él ser abiertamente * en cuestiones espirituales.
+61;C';Ella;le;impidió;a;ella;ser;abiertamente;*;en cuestiones espirituales;61;C';object;match;atea;ateo;fem;masc;impidió;ser;Ella le impidió a ella ser abiertamente * en cuestiones espirituales.
+61;D;Ella;le;impidió;a;él;ser;abiertamente;*;en cuestiones espirituales;61;D;object;mismatch;ateo;atea;masc;fem;impidió;ser;Ella le impidió a él ser abiertamente * en cuestiones espirituales.
+61;D';Él;le;impidió;a;ella;ser;abiertamente;*;en cuestiones espirituales;61;D';object;mismatch;atea;ateo;fem;masc;impidió;ser;Él le impidió a ella ser abiertamente * en cuestiones espirituales.
+62;A;Ella;le;aseguró;a;ella;ser;muy;*;con los refugiados;62;A;subject;match;solidaria;solidario;fem;masc;aseguró;ser;Ella le aseguró a ella ser muy * con los refugiados.
+62;A';Él;le;aseguró;a;él;ser;muy;*;con los refugiados;62;A';subject;match;solidario;solidaria;masc;fem;aseguró;ser;Él le aseguró a él ser muy * con los refugiados.
+62;B;Ella;le;aseguró;a;él;ser;muy;*;con los refugiados;62;B;subject;mismatch;solidaria;solidario;fem;masc;aseguró;ser;Ella le aseguró a él ser muy * con los refugiados.
+62;B';Él;le;aseguró;a;ella;ser;muy;*;con los refugiados;62;B';subject;mismatch;solidario;solidaria;masc;fem;aseguró;ser;Él le aseguró a ella ser muy * con los refugiados.
+62;C;Ella;le;consintió;a;ella;ser;muy;*;con los refugiados;62;C;object;match;solidaria;solidario;fem;masc;consintió;ser;Ella le consintió a ella ser muy * con los refugiados.
+62;C';Él;le;consintió;a;él;ser;muy;*;con los refugiados;62;C';object;match;solidario;solidaria;masc;fem;consintió;ser;Él le consintió a él ser muy * con los refugiados.
+62;D;Él;le;consintió;a;ella;ser;muy;*;con los refugiados;62;D;object;mismatch;solidaria;solidario;fem;masc;consintió;ser;Él le consintió a ella ser muy * con los refugiados.
+62;D';Ella;le;consintió;a;él;ser;muy;*;con los refugiados;62;D';object;mismatch;solidario;solidaria;masc;fem;consintió;ser;Ella le consintió a él ser muy * con los refugiados.
+63;A;Él;le;confesó;a;él;ser;bastante;*;con el sistema;63;A;subject;match;crítico;crítica;masc;fem;confesó;ser;Él le confesó a él ser bastante * con el sistema.
+63;A';Ella;le;confesó;a;ella;ser;bastante;*;con el sistema;63;A';subject;match;crítica;crítico;fem;masc;confesó;ser;Ella le confesó a ella ser bastante * con el sistema.
+63;B;Él;le;confesó;a;ella;ser;bastante;*;con el sistema;63;B;subject;mismatch;crítico;crítica;masc;fem;confesó;ser;Él le confesó a ella ser bastante * con el sistema.
+63;B';Ella;le;confesó;a;él;ser;bastante;*;con el sistema;63;B';subject;mismatch;crítica;crítico;fem;masc;confesó;ser;Ella le confesó a él ser bastante * con el sistema.
+63;C;Él;le;permitió;a;él;ser;bastante;*;con el sistema;63;C;object;match;crítico;crítica;masc;fem;permitió;ser;Él le permitió a él ser bastante * con el sistema.
+63;C';Ella;le;permitió;a;ella;ser;bastante;*;con el sistema;63;C';object;match;crítica;crítico;fem;masc;permitió;ser;Ella le permitió a ella ser bastante * con el sistema.
+63;D;Ella;le;permitió;a;él;ser;bastante;*;con el sistema;63;D;object;mismatch;crítico;crítica;masc;fem;permitió;ser;Ella le permitió a él ser bastante * con el sistema.
+63;D';Él;le;permitió;a;ella;ser;bastante;*;con el sistema;63;D';object;mismatch;crítica;crítico;fem;masc;permitió;ser;Él le permitió a ella ser bastante * con el sistema.
+64;A;Ella;le;manifestó;a;ella;ser;abiertamente;*;al cambio legislativo;64;A;subject;match;contraria;contrario;fem;masc;manifestó;ser;Ella le manifestó a ella ser abiertamente * al cambio legislativo.
+64;A';Él;le;manifestó;a;él;ser;abiertamente;*;al cambio legislativo;64;A';subject;match;contrario;contraria;masc;fem;manifestó;ser;Él le manifestó a él ser abiertamente * al cambio legislativo.
+64;B;Ella;le;manifestó;a;él;ser;abiertamente;*;al cambio legislativo;64;B;subject;mismatch;contraria;contrario;fem;masc;manifestó;ser;Ella le manifestó a él ser abiertamente * al cambio legislativo.
+64;B';Él;le;manifestó;a;ella;ser;abiertamente;*;al cambio legislativo;64;B';subject;mismatch;contrario;contraria;masc;fem;manifestó;ser;Él le manifestó a ella ser abiertamente * al cambio legislativo.
+64;C;Ella;le;recriminó;a;ella;ser;abiertamente;*;al cambio legislativo;64;C;object;match;contraria;contrario;fem;masc;recriminó;ser;Ella le recriminó a ella ser abiertamente * al cambio legislativo.
+64;C';Él;le;recriminó;a;él;ser;abiertamente;*;al cambio legislativo;64;C';object;match;contrario;contraria;masc;fem;recriminó;ser;Él le recriminó a él ser abiertamente * al cambio legislativo.
+64;D;Él;le;recriminó;a;ella;ser;abiertamente;*;al cambio legislativo;64;D;object;mismatch;contraria;contrario;fem;masc;recriminó;ser;Él le recriminó a ella ser abiertamente * al cambio legislativo.
+64;D';Ella;le;recriminó;a;él;ser;abiertamente;*;al cambio legislativo;64;D';object;mismatch;contrario;contraria;masc;fem;recriminó;ser;Ella le recriminó a él ser abiertamente * al cambio legislativo.
+65;A;Él;le;confirmó;a;él;ser;muy;*;con el orden;65;A;subject;match;quisquilloso;quisquillosa;masc;fem;confirmó;ser;Él le confirmó a él ser muy * con el orden.
+65;A';Ella;le;confirmó;a;ella;ser;muy;*;con el orden;65;A';subject;match;quisquillosa;quisquilloso;fem;masc;confirmó;ser;Ella le confirmó a ella ser muy * con el orden.
+65;B;Él;le;confirmó;a;ella;ser;muy;*;con el orden;65;B;subject;mismatch;quisquilloso;quisquillosa;masc;fem;confirmó;ser;Él le confirmó a ella ser muy * con el orden.
+65;B';Ella;le;confirmó;a;él;ser;muy;*;con el orden;65;B';subject;mismatch;quisquillosa;quisquilloso;fem;masc;confirmó;ser;Ella le confirmó a él ser muy * con el orden.
+65;C;Él;le;reprochó;a;él;ser;muy;*;con el orden;65;C;object;match;quisquilloso;quisquillosa;masc;fem;reprochó;ser;Él le reprochó a él ser muy * con el orden.
+65;C';Ella;le;reprochó;a;ella;ser;muy;*;con el orden;65;C';object;match;quisquillosa;quisquilloso;fem;masc;reprochó;ser;Ella le reprochó a ella ser muy * con el orden.
+65;D;Ella;le;reprochó;a;él;ser;muy;*;con el orden;65;D;object;mismatch;quisquilloso;quisquillosa;masc;fem;reprochó;ser;Ella le reprochó a él ser muy * con el orden.
+65;D';Él;le;reprochó;a;ella;ser;muy;*;con el orden;65;D';object;mismatch;quisquillosa;quisquilloso;fem;masc;reprochó;ser;Él le reprochó a ella ser muy * con el orden.
+66;A;Ella;le;expresó;a;ella;ser;menos;*;con los desconocidos;66;A;subject;match;extrovertida;extrovertido;fem;masc;expresó;ser;Ella le expresó a ella ser menos * con los desconocidos.
+66;A';Él;le;expresó;a;él;ser;menos;*;con los desconocidos;66;A';subject;match;extrovertido;extrovertida;masc;fem;expresó;ser;Él le expresó a él ser menos * con los desconocidos.
+66;B;Ella;le;expresó;a;él;ser;menos;*;con los desconocidos;66;B;subject;mismatch;extrovertida;extrovertido;fem;masc;expresó;ser;Ella le expresó a él ser menos * con los desconocidos.
+66;B';Él;le;expresó;a;ella;ser;menos;*;con los desconocidos;66;B';subject;mismatch;extrovertido;extrovertida;masc;fem;expresó;ser;Él le expresó a ella ser menos * con los desconocidos.
+66;C;Ella;le;recomendó;a;ella;ser;menos;*;con los desconocidos;66;C;object;match;extrovertida;extrovertido;fem;masc;recomendó;ser;Ella le recomendó a ella ser menos * con los desconocidos.
+66;C';Él;le;recomendó;a;él;ser;menos;*;con los desconocidos;66;C';object;match;extrovertido;extrovertida;masc;fem;recomendó;ser;Él le recomendó a él ser menos * con los desconocidos.
+66;D;Él;le;recomendó;a;ella;ser;menos;*;con los desconocidos;66;D;object;mismatch;extrovertida;extrovertido;fem;masc;recomendó;ser;Él le recomendó a ella ser menos * con los desconocidos.
+66;D';Ella;le;recomendó;a;él;ser;menos;*;con los desconocidos;66;D';object;mismatch;extrovertido;extrovertida;masc;fem;recomendó;ser;Ella le recomendó a él ser menos * con los desconocidos.
+67;A;Él;le;declaró;a;él;ser;más;*;en las inversiones;67;A;subject;match;arriesgado;arriesgada;masc;fem;declaró;ser;Él le declaró a él ser más * en las inversiones.
+67;A';Ella;le;declaró;a;ella;ser;más;*;en las inversiones;67;A';subject;match;arriesgada;arriesgado;fem;masc;declaró;ser;Ella le declaró a ella ser más * en las inversiones.
+67;B;Él;le;declaró;a;ella;ser;más;*;en las inversiones;67;B;subject;mismatch;arriesgado;arriesgada;masc;fem;declaró;ser;Él le declaró a ella ser más * en las inversiones.
+67;B';Ella;le;declaró;a;él;ser;más;*;en las inversiones;67;B';subject;mismatch;arriesgada;arriesgado;fem;masc;declaró;ser;Ella le declaró a él ser más * en las inversiones.
+67;C;Él;le;aconsejó;a;él;ser;más;*;en las inversiones;67;C;object;match;arriesgado;arriesgada;masc;fem;aconsejó;ser;Él le aconsejó a él ser más * en las inversiones.
+67;C';Ella;le;aconsejó;a;ella;ser;más;*;en las inversiones;67;C';object;match;arriesgada;arriesgado;fem;masc;aconsejó;ser;Ella le aconsejó a ella ser más * en las inversiones.
+67;D;Ella;le;aconsejó;a;él;ser;más;*;en las inversiones;67;D;object;mismatch;arriesgado;arriesgada;masc;fem;aconsejó;ser;Ella le aconsejó a él ser más * en las inversiones.
+67;D';Él;le;aconsejó;a;ella;ser;más;*;en las inversiones;67;D';object;mismatch;arriesgada;arriesgado;fem;masc;aconsejó;ser;Él le aconsejó a ella ser más * en las inversiones.
+68;A;Ella;le;desmintió;a;ella;ser;siempre tan;*;en las discusiones;68;A;subject;match;orgullosa;orgulloso;fem;masc;desmintió;ser;Ella le desmintió a ella ser siempre tan * en las discusiones.
+68;A';Él;le;desmintió;a;él;ser;siempre tan;*;en las discusiones;68;A';subject;match;orgulloso;orgullosa;masc;fem;desmintió;ser;Él le desmintió a él ser siempre tan * en las discusiones.
+68;B;Ella;le;desmintió;a;él;ser;siempre tan;*;en las discusiones;68;B;subject;mismatch;orgullosa;orgulloso;fem;masc;desmintió;ser;Ella le desmintió a él ser siempre tan * en las discusiones.
+68;B';Él;le;desmintió;a;ella;ser;siempre tan;*;en las discusiones;68;B';subject;mismatch;orgulloso;orgullosa;masc;fem;desmintió;ser;Él le desmintió a ella ser siempre tan * en las discusiones.
+68;C;Ella;le;prohibió;a;ella;ser;siempre tan;*;en las discusiones;68;C;object;match;orgullosa;orgulloso;fem;masc;prohibió;ser;Ella le prohibió a ella ser siempre tan * en las discusiones.
+68;C';Él;le;prohibió;a;él;ser;siempre tan;*;en las discusiones;68;C';object;match;orgulloso;orgullosa;masc;fem;prohibió;ser;Él le prohibió a él ser siempre tan * en las discusiones.
+68;D;Él;le;prohibió;a;ella;ser;siempre tan;*;en las discusiones;68;D;object;mismatch;orgullosa;orgulloso;fem;masc;prohibió;ser;Él le prohibió a ella ser siempre tan * en las discusiones.
+68;D';Ella;le;prohibió;a;él;ser;siempre tan;*;en las discusiones;68;D';object;mismatch;orgulloso;orgullosa;masc;fem;prohibió;ser;Ella le prohibió a él ser siempre tan * en las discusiones.
+69;A;Él;le;prometió;a;él;ser;mucho más;*;con el dinero;69;A;subject;match;precavido;precavida;masc;fem;prometió;ser;Él le prometió a él ser mucho más * con el dinero.
+69;A';Ella;le;prometió;a;ella;ser;mucho más;*;con el dinero;69;A';subject;match;precavida;precavido;fem;masc;prometió;ser;Ella le prometió a ella ser mucho más * con el dinero.
+69;B;Él;le;prometió;a;ella;ser;mucho más;*;con el dinero;69;B;subject;mismatch;precavido;precavida;masc;fem;prometió;ser;Él le prometió a ella ser mucho más * con el dinero.
+69;B';Ella;le;prometió;a;él;ser;mucho más;*;con el dinero;69;B';subject;mismatch;precavida;precavido;fem;masc;prometió;ser;Ella le prometió a él ser mucho más * con el dinero.
+69;C;Él;le;mandó;a;él;ser;mucho más;*;con el dinero;69;C;object;match;precavido;precavida;masc;fem;mandó;ser;Él le mandó a él ser mucho más * con el dinero.
+69;C';Ella;le;mandó;a;ella;ser;mucho más;*;con el dinero;69;C';object;match;precavida;precavido;fem;masc;mandó;ser;Ella le mandó a ella ser mucho más * con el dinero.
+69;D;Ella;le;mandó;a;él;ser;mucho más;*;con el dinero;69;D;object;mismatch;precavido;precavida;masc;fem;mandó;ser;Ella le mandó a él ser mucho más * con el dinero.
+69;D';Él;le;mandó;a;ella;ser;mucho más;*;con el dinero;69;D';object;mismatch;precavida;precavido;fem;masc;mandó;ser;Él le mandó a ella ser mucho más * con el dinero.
+70;A;Ella;le;garantizó;a;ella;ser;sumamente;*;en el acta;70;A;subject;match;precisa;preciso;fem;masc;garantizó;ser;Ella le garantizó a ella ser sumamente * en el acta.
+70;A';Él;le;garantizó;a;él;ser;sumamente;*;en el acta;70;A';subject;match;preciso;precisa;masc;fem;garantizó;ser;Él le garantizó a él ser sumamente * en el acta.
+70;B;Ella;le;garantizó;a;él;ser;sumamente;*;en el acta;70;B;subject;mismatch;precisa;preciso;fem;masc;garantizó;ser;Ella le garantizó a él ser sumamente * en el acta.
+70;B';Él;le;garantizó;a;ella;ser;sumamente;*;en el acta;70;B';subject;mismatch;preciso;precisa;masc;fem;garantizó;ser;Él le garantizó a ella ser sumamente * en el acta.
+70;C;Ella;le;ordenó;a;ella;ser;sumamente;*;en el acta;70;C;object;match;precisa;preciso;fem;masc;ordenó;ser;Ella le ordenó a ella ser sumamente * en el acta.
+70;C';Él;le;ordenó;a;él;ser;sumamente;*;en el acta;70;C';object;match;preciso;precisa;masc;fem;ordenó;ser;Él le ordenó a él ser sumamente * en el acta.
+70;D;Él;le;ordenó;a;ella;ser;sumamente;*;en el acta;70;D;object;mismatch;precisa;preciso;fem;masc;ordenó;ser;Él le ordenó a ella ser sumamente * en el acta.
+70;D';Ella;le;ordenó;a;él;ser;sumamente;*;en el acta;70;D';object;mismatch;preciso;precisa;masc;fem;ordenó;ser;Ella le ordenó a él ser sumamente * en el acta.
+71;A;Él;le;juró;a;él;ser;totalmente;*;en la evaluación;71;A;subject;match;objetivo;objetiva;masc;fem;juró;ser;Él le juró a él ser totalmente * en la evaluación.
+71;A';Ella;le;juró;a;ella;ser;totalmente;*;en la evaluación;71;A';subject;match;objetiva;objetivo;fem;masc;juró;ser;Ella le juró a ella ser totalmente * en la evaluación.
+71;B;Él;le;juró;a;ella;ser;totalmente;*;en la evaluación;71;B;subject;mismatch;objetivo;objetiva;masc;fem;juró;ser;Él le juró a ella ser totalmente * en la evaluación.
+71;B';Ella;le;juró;a;él;ser;totalmente;*;en la evaluación;71;B';subject;mismatch;objetiva;objetivo;fem;masc;juró;ser;Ella le juró a él ser totalmente * en la evaluación.
+71;C;Él;le;exigió;a;él;ser;totalmente;*;en la evaluación;71;C;object;match;objetivo;objetiva;masc;fem;exigió;ser;Él le exigió a él ser totalmente * en la evaluación.
+71;C';Ella;le;exigió;a;ella;ser;totalmente;*;en la evaluación;71;C';object;match;objetiva;objetivo;fem;masc;exigió;ser;Ella le exigió a ella ser totalmente * en la evaluación.
+71;D;Ella;le;exigió;a;él;ser;totalmente;*;en la evaluación;71;D;object;mismatch;objetivo;objetiva;masc;fem;exigió;ser;Ella le exigió a él ser totalmente * en la evaluación.
+71;D';Él;le;exigió;a;ella;ser;totalmente;*;en la evaluación;71;D';object;mismatch;objetiva;objetivo;fem;masc;exigió;ser;Él le exigió a ella ser totalmente * en la evaluación.
+72;A;Ella;le;reconoció;a;ella;ser;muy;*;con los empleados;72;A;subject;match;rígida;rígido;fem;masc;reconoció;ser;Ella le reconoció a ella ser muy * con los empleados.
+72;A';Él;le;reconoció;a;él;ser;muy;*;con los empleados;72;A';subject;match;rígido;rígida;masc;fem;reconoció;ser;Él le reconoció a él ser muy * con los empleados.
+72;B;Ella;le;reconoció;a;él;ser;muy;*;con los empleados;72;B;subject;mismatch;rígida;rígido;fem;masc;reconoció;ser;Ella le reconoció a él ser muy * con los empleados.
+72;B';Él;le;reconoció;a;ella;ser;muy;*;con los empleados;72;B';subject;mismatch;rígido;rígida;masc;fem;reconoció;ser;Él le reconoció a ella ser muy * con los empleados.
+72;C;Ella;le;encargó;a;ella;ser;muy;*;con los empleados;72;C;object;match;rígida;rígido;fem;masc;encargó;ser;Ella le encargó a ella ser muy * con los empleados.
+72;C';Él;le;encargó;a;él;ser;muy;*;con los empleados;72;C';object;match;rígido;rígida;masc;fem;encargó;ser;Él le encargó a él ser muy * con los empleados.
+72;D;Él;le;encargó;a;ella;ser;muy;*;con los empleados;72;D;object;mismatch;rígida;rígido;fem;masc;encargó;ser;Él le encargó a ella ser muy * con los empleados.
+72;D';Ella;le;encargó;a;él;ser;muy;*;con los empleados;72;D';object;mismatch;rígido;rígida;masc;fem;encargó;ser;Ella le encargó a él ser muy * con los empleados.
+73;A;Ella;le;reveló;a;ella;estar;siempre;*;con el jefe;73;A;subject;match;tensa;tenso;fem;masc;reveló;estar;Ella le reveló a ella estar siempre * con el jefe.
+73;A';Él;le;reveló;a;él;estar;siempre;*;con el jefe;73;A';subject;match;tenso;tensa;masc;fem;reveló;estar;Él le reveló a él estar siempre * con el jefe.
+73;B;Ella;le;reveló;a;él;estar;siempre;*;con el jefe;73;B;subject;mismatch;tensa;tenso;fem;masc;reveló;estar;Ella le reveló a él estar siempre * con el jefe.
+73;B';Él;le;reveló;a;ella;estar;siempre;*;con el jefe;73;B';subject;mismatch;tenso;tensa;masc;fem;reveló;estar;Él le reveló a ella estar siempre * con el jefe.
+73;C;Ella;le;impidió;a;ella;estar;siempre;*;con el jefe;73;C;object;match;tensa;tenso;fem;masc;impidió;estar;Ella le impidió a ella estar siempre * con el jefe.
+73;C';Él;le;impidió;a;él;estar;siempre;*;con el jefe;73;C';object;match;tenso;tensa;masc;fem;impidió;estar;Él le impidió a él estar siempre * con el jefe.
+73;D;Él;le;impidió;a;ella;estar;siempre;*;con el jefe;73;D;object;mismatch;tensa;tenso;fem;masc;impidió;estar;Él le impidió a ella estar siempre * con el jefe.
+73;D';Ella;le;impidió;a;él;estar;siempre;*;con el jefe;73;D';object;mismatch;tenso;tensa;masc;fem;impidió;estar;Ella le impidió a él estar siempre * con el jefe.
+74;A;Él;le;aseguró;a;él;estar;un poco;*;ante las cámaras;74;A;subject;match;nervioso;nerviosa;masc;fem;aseguró;estar;Él le aseguró a él estar un poco * ante las cámaras.
+74;A';Ella;le;aseguró;a;ella;estar;un poco;*;ante las cámaras;74;A';subject;match;nerviosa;nervioso;fem;masc;aseguró;estar;Ella le aseguró a ella estar un poco * ante las cámaras.
+74;B;Él;le;aseguró;a;ella;estar;un poco;*;ante las cámaras;74;B;subject;mismatch;nervioso;nerviosa;masc;fem;aseguró;estar;Él le aseguró a ella estar un poco * ante las cámaras.
+74;B';Ella;le;aseguró;a;él;estar;un poco;*;ante las cámaras;74;B';subject;mismatch;nerviosa;nervioso;fem;masc;aseguró;estar;Ella le aseguró a él estar un poco * ante las cámaras.
+74;C;Él;le;consintió;a;él;estar;un poco;*;ante las cámaras;74;C;object;match;nervioso;nerviosa;masc;fem;consintió;estar;Él le consintió a él estar un poco * ante las cámaras.
+74;C';Ella;le;consintió;a;ella;estar;un poco;*;ante las cámaras;74;C';object;match;nerviosa;nervioso;fem;masc;consintió;estar;Ella le consintió a ella estar un poco * ante las cámaras.
+74;D;Ella;le;consintió;a;él;estar;un poco;*;ante las cámaras;74;D;object;mismatch;nervioso;nerviosa;masc;fem;consintió;estar;Ella le consintió a él estar un poco * ante las cámaras.
+74;D';Él;le;consintió;a;ella;estar;un poco;*;ante las cámaras;74;D';object;mismatch;nerviosa;nervioso;fem;masc;consintió;estar;Él le consintió a ella estar un poco * ante las cámaras.
+75;A;Ella;le;confesó;a;ella;estar;un poco;*;de sus hermanos;75;A;subject;match;celosa;celoso;fem;masc;confesó;estar;Ella le confesó a ella estar un poco * de sus hermanos.
+75;A';Él;le;confesó;a;él;estar;un poco;*;de sus hermanos;75;A';subject;match;celoso;celosa;masc;fem;confesó;estar;Él le confesó a él estar un poco * de sus hermanos.
+75;B;Ella;le;confesó;a;él;estar;un poco;*;de sus hermanos;75;B;subject;mismatch;celosa;celoso;fem;masc;confesó;estar;Ella le confesó a él estar un poco * de sus hermanos.
+75;B';Él;le;confesó;a;ella;estar;un poco;*;de sus hermanos;75;B';subject;mismatch;celoso;celosa;masc;fem;confesó;estar;Él le confesó a ella estar un poco * de sus hermanos.
+75;C;Ella;le;permitió;a;ella;estar;un poco;*;de sus hermanos;75;C;object;match;celosa;celoso;fem;masc;permitió;estar;Ella le permitió a ella estar un poco * de sus hermanos.
+75;C';Él;le;permitió;a;él;estar;un poco;*;de sus hermanos;75;C';object;match;celoso;celosa;masc;fem;permitió;estar;Él le permitió a él estar un poco * de sus hermanos.
+75;D;Él;le;permitió;a;ella;estar;un poco;*;de sus hermanos;75;D;object;mismatch;celosa;celoso;fem;masc;permitió;estar;Él le permitió a ella estar un poco * de sus hermanos.
+75;D';Ella;le;permitió;a;él;estar;un poco;*;de sus hermanos;75;D';object;mismatch;celoso;celosa;masc;fem;permitió;estar;Ella le permitió a él estar un poco * de sus hermanos.
+76;A;Él;le;manifestó;a;él;estar;muy;*;por la derrota;76;A;subject;match;cabreado;cabreada;masc;fem;manifestó;estar;Él le manifestó a él estar muy * por la derrota.
+76;A';Ella;le;manifestó;a;ella;estar;muy;*;por la derrota;76;A';subject;match;cabreada;cabreado;fem;masc;manifestó;estar;Ella le manifestó a ella estar muy * por la derrota.
+76;B;Él;le;manifestó;a;ella;estar;muy;*;por la derrota;76;B;subject;mismatch;cabreado;cabreada;masc;fem;manifestó;estar;Él le manifestó a ella estar muy * por la derrota.
+76;B';Ella;le;manifestó;a;él;estar;muy;*;por la derrota;76;B';subject;mismatch;cabreada;cabreado;fem;masc;manifestó;estar;Ella le manifestó a él estar muy * por la derrota.
+76;C;Él;le;recriminó;a;él;estar;muy;*;por la derrota;76;C;object;match;cabreado;cabreada;masc;fem;recriminó;estar;Él le recriminó a él estar muy * por la derrota.
+76;C';Ella;le;recriminó;a;ella;estar;muy;*;por la derrota;76;C';object;match;cabreada;cabreado;fem;masc;recriminó;estar;Ella le recriminó a ella estar muy * por la derrota.
+76;D;Ella;le;recriminó;a;él;estar;muy;*;por la derrota;76;D;object;mismatch;cabreado;cabreada;masc;fem;recriminó;estar;Ella le recriminó a él estar muy * por la derrota.
+76;D';Él;le;recriminó;a;ella;estar;muy;*;por la derrota;76;D';object;mismatch;cabreada;cabreado;fem;masc;recriminó;estar;Él le recriminó a ella estar muy * por la derrota.
+77;A;Ella;le;confirmó;a;ella;estar;todavía;*;por el engaño;77;A;subject;match;defraudada;defraudado;fem;masc;confirmó;estar;Ella le confirmó a ella estar todavía * por el engaño.
+77;A';Él;le;confirmó;a;él;estar;todavía;*;por el engaño;77;A';subject;match;defraudado;defraudada;masc;fem;confirmó;estar;Él le confirmó a él estar todavía * por el engaño.
+77;B;Ella;le;confirmó;a;él;estar;todavía;*;por el engaño;77;B;subject;mismatch;defraudada;defraudado;fem;masc;confirmó;estar;Ella le confirmó a él estar todavía * por el engaño.
+77;B';Él;le;confirmó;a;ella;estar;todavía;*;por el engaño;77;B';subject;mismatch;defraudado;defraudada;masc;fem;confirmó;estar;Él le confirmó a ella estar todavía * por el engaño.
+77;C;Ella;le;reprochó;a;ella;estar;todavía;*;por el engaño;77;C;object;match;defraudada;defraudado;fem;masc;reprochó;estar;Ella le reprochó a ella estar todavía * por el engaño.
+77;C';Él;le;reprochó;a;él;estar;todavía;*;por el engaño;77;C';object;match;defraudado;defraudada;masc;fem;reprochó;estar;Él le reprochó a él estar todavía * por el engaño.
+77;D;Él;le;reprochó;a;ella;estar;todavía;*;por el engaño;77;D;object;mismatch;defraudada;defraudado;fem;masc;reprochó;estar;Él le reprochó a ella estar todavía * por el engaño.
+77;D';Ella;le;reprochó;a;él;estar;todavía;*;por el engaño;77;D';object;mismatch;defraudado;defraudada;masc;fem;reprochó;estar;Ella le reprochó a él estar todavía * por el engaño.
+78;A;Él;le;expresó;a;él;estar;algo más;*;con el tratamiento;78;A;subject;match;animado;animada;masc;fem;expresó;estar;Él le expresó a él estar algo más * con el tratamiento.
+78;A';Ella;le;expresó;a;ella;estar;algo más;*;con el tratamiento;78;A';subject;match;animada;animado;fem;masc;expresó;estar;Ella le expresó a ella estar algo más * con el tratamiento.
+78;B;Él;le;expresó;a;ella;estar;algo más;*;con el tratamiento;78;B;subject;mismatch;animado;animada;masc;fem;expresó;estar;Él le expresó a ella estar algo más * con el tratamiento.
+78;B';Ella;le;expresó;a;él;estar;algo más;*;con el tratamiento;78;B';subject;mismatch;animada;animado;fem;masc;expresó;estar;Ella le expresó a él estar algo más * con el tratamiento.
+78;C;Él;le;recomendó;a;él;estar;algo más;*;con el tratamiento;78;C;object;match;animado;animada;masc;fem;recomendó;estar;Él le recomendó a él estar algo más * con el tratamiento.
+78;C';Ella;le;recomendó;a;ella;estar;algo más;*;con el tratamiento;78;C';object;match;animada;animado;fem;masc;recomendó;estar;Ella le recomendó a ella estar algo más * con el tratamiento.
+78;D;Ella;le;recomendó;a;él;estar;algo más;*;con el tratamiento;78;D;object;mismatch;animado;animada;masc;fem;recomendó;estar;Ella le recomendó a él estar algo más * con el tratamiento.
+78;D';Él;le;recomendó;a;ella;estar;algo más;*;con el tratamiento;78;D';object;mismatch;animada;animado;fem;masc;recomendó;estar;Él le recomendó a ella estar algo más * con el tratamiento.
+79;A;Ella;le;declaró;a;ella;estar;totalmente;*;de la propuesta;79;A;subject;match;convencida;convencido;fem;masc;declaró;estar;Ella le declaró a ella estar totalmente * de la propuesta.
+79;A';Él;le;declaró;a;él;estar;totalmente;*;de la propuesta;79;A';subject;match;convencido;convencida;masc;fem;declaró;estar;Él le declaró a él estar totalmente * de la propuesta.
+79;B;Ella;le;declaró;a;él;estar;totalmente;*;de la propuesta;79;B;subject;mismatch;convencida;convencido;fem;masc;declaró;estar;Ella le declaró a él estar totalmente * de la propuesta.
+79;B';Él;le;declaró;a;ella;estar;totalmente;*;de la propuesta;79;B';subject;mismatch;convencido;convencida;masc;fem;declaró;estar;Él le declaró a ella estar totalmente * de la propuesta.
+79;C;Ella;le;aconsejó;a;ella;estar;totalmente;*;de la propuesta;79;C;object;match;convencida;convencido;fem;masc;aconsejó;estar;Ella le aconsejó a ella estar totalmente * de la propuesta.
+79;C';Él;le;aconsejó;a;él;estar;totalmente;*;de la propuesta;79;C';object;match;convencido;convencida;masc;fem;aconsejó;estar;Él le aconsejó a él estar totalmente * de la propuesta.
+79;D;Él;le;aconsejó;a;ella;estar;totalmente;*;de la propuesta;79;D;object;mismatch;convencida;convencido;fem;masc;aconsejó;estar;Él le aconsejó a ella estar totalmente * de la propuesta.
+79;D';Ella;le;aconsejó;a;él;estar;totalmente;*;de la propuesta;79;D';object;mismatch;convencido;convencida;masc;fem;aconsejó;estar;Ella le aconsejó a él estar totalmente * de la propuesta.
+80;A;Él;le;desmintió;a;él;estar;siempre;*;con los demás;80;A;subject;match;malhumorado;malhumorada;masc;fem;desmintió;estar;Él le desmintió a él estar siempre * con los demás.
+80;A';Ella;le;desmintió;a;ella;estar;siempre;*;con los demás;80;A';subject;match;malhumorada;malhumorado;fem;masc;desmintió;estar;Ella le desmintió a ella estar siempre * con los demás.
+80;B;Él;le;desmintió;a;ella;estar;siempre;*;con los demás;80;B;subject;mismatch;malhumorado;malhumorada;masc;fem;desmintió;estar;Él le desmintió a ella estar siempre * con los demás.
+80;B';Ella;le;desmintió;a;él;estar;siempre;*;con los demás;80;B';subject;mismatch;malhumorada;malhumorado;fem;masc;desmintió;estar;Ella le desmintió a él estar siempre * con los demás.
+80;C;Él;le;prohibió;a;él;estar;siempre;*;con los demás;80;C;object;match;malhumorado;malhumorada;masc;fem;prohibió;estar;Él le prohibió a él estar siempre * con los demás.
+80;C';Ella;le;prohibió;a;ella;estar;siempre;*;con los demás;80;C';object;match;malhumorada;malhumorado;fem;masc;prohibió;estar;Ella le prohibió a ella estar siempre * con los demás.
+80;D;Ella;le;prohibió;a;él;estar;siempre;*;con los demás;80;D;object;mismatch;malhumorado;malhumorada;masc;fem;prohibió;estar;Ella le prohibió a él estar siempre * con los demás.
+80;D';Él;le;prohibió;a;ella;estar;siempre;*;con los demás;80;D';object;mismatch;malhumorada;malhumorado;fem;masc;prohibió;estar;Él le prohibió a ella estar siempre * con los demás.
+81;A;Ella;le;prometió;a;ella;estar;más;*;a los emails;81;A;subject;match;atenta;atento;fem;masc;prometió;estar;Ella le prometió a ella estar más * a los emails.
+81;A';Él;le;prometió;a;él;estar;más;*;a los emails;81;A';subject;match;atento;atenta;masc;fem;prometió;estar;Él le prometió a él estar más * a los emails.
+81;B;Ella;le;prometió;a;él;estar;más;*;a los emails;81;B;subject;mismatch;atenta;atento;fem;masc;prometió;estar;Ella le prometió a él estar más * a los emails.
+81;B';Él;le;prometió;a;ella;estar;más;*;a los emails;81;B';subject;mismatch;atento;atenta;masc;fem;prometió;estar;Él le prometió a ella estar más * a los emails.
+81;C;Ella;le;mandó;a;ella;estar;más;*;a los emails;81;C;object;match;atenta;atento;fem;masc;mandó;estar;Ella le mandó a ella estar más * a los emails.
+81;C';Él;le;mandó;a;él;estar;más;*;a los emails;81;C';object;match;atento;atenta;masc;fem;mandó;estar;Él le mandó a él estar más * a los emails.
+81;D;Él;le;mandó;a;ella;estar;más;*;a los emails;81;D;object;mismatch;atenta;atento;fem;masc;mandó;estar;Él le mandó a ella estar más * a los emails.
+81;D';Ella;le;mandó;a;él;estar;más;*;a los emails;81;D';object;mismatch;atento;atenta;masc;fem;mandó;estar;Ella le mandó a él estar más * a los emails.
+82;A;Él;le;garantizó;a;él;estar;siempre;*;al diálogo político;82;A;subject;match;abierto;abierta;masc;fem;garantizó;estar;Él le garantizó a él estar siempre * al diálogo político.
+82;A';Ella;le;garantizó;a;ella;estar;siempre;*;al diálogo político;82;A';subject;match;abierta;abierto;fem;masc;garantizó;estar;Ella le garantizó a ella estar siempre * al diálogo político.
+82;B;Él;le;garantizó;a;ella;estar;siempre;*;al diálogo político;82;B;subject;mismatch;abierto;abierta;masc;fem;garantizó;estar;Él le garantizó a ella estar siempre * al diálogo político.
+82;B';Ella;le;garantizó;a;él;estar;siempre;*;al diálogo político;82;B';subject;mismatch;abierta;abierto;fem;masc;garantizó;estar;Ella le garantizó a él estar siempre * al diálogo político.
+82;C;Él;le;ordenó;a;él;estar;siempre;*;al diálogo político;82;C;object;match;abierto;abierta;masc;fem;ordenó;estar;Él le ordenó a él estar siempre * al diálogo político.
+82;C';Ella;le;ordenó;a;ella;estar;siempre;*;al diálogo político;82;C';object;match;abierta;abierto;fem;masc;ordenó;estar;Ella le ordenó a ella estar siempre * al diálogo político.
+82;D;Ella;le;ordenó;a;él;estar;siempre;*;al diálogo político;82;D;object;mismatch;abierto;abierta;masc;fem;ordenó;estar;Ella le ordenó a él estar siempre * al diálogo político.
+82;D';Él;le;ordenó;a;ella;estar;siempre;*;al diálogo político;82;D';object;mismatch;abierta;abierto;fem;masc;ordenó;estar;Él le ordenó a ella estar siempre * al diálogo político.
+83;A;Ella;le;juró;a;ella;estar;absolutamente;*;a cualquier cosa;83;A;subject;match;dispuesta;dispuesto;fem;masc;juró;estar;Ella le juró a ella estar absolutamente * a cualquier cosa.
+83;A';Él;le;juró;a;él;estar;absolutamente;*;a cualquier cosa;83;A';subject;match;dispuesto;dispuesta;masc;fem;juró;estar;Él le juró a él estar absolutamente * a cualquier cosa.
+83;B;Ella;le;juró;a;él;estar;absolutamente;*;a cualquier cosa;83;B;subject;mismatch;dispuesta;dispuesto;fem;masc;juró;estar;Ella le juró a él estar absolutamente * a cualquier cosa.
+83;B';Él;le;juró;a;ella;estar;absolutamente;*;a cualquier cosa;83;B';subject;mismatch;dispuesto;dispuesta;masc;fem;juró;estar;Él le juró a ella estar absolutamente * a cualquier cosa.
+83;C;Ella;le;exigió;a;ella;estar;absolutamente;*;a cualquier cosa;83;C;object;match;dispuesta;dispuesto;fem;masc;exigió;estar;Ella le exigió a ella estar absolutamente * a cualquier cosa.
+83;C';Él;le;exigió;a;él;estar;absolutamente;*;a cualquier cosa;83;C';object;match;dispuesto;dispuesta;masc;fem;exigió;estar;Él le exigió a él estar absolutamente * a cualquier cosa.
+83;D;Él;le;exigió;a;ella;estar;absolutamente;*;a cualquier cosa;83;D;object;mismatch;dispuesta;dispuesto;fem;masc;exigió;estar;Él le exigió a ella estar absolutamente * a cualquier cosa.
+83;D';Ella;le;exigió;a;él;estar;absolutamente;*;a cualquier cosa;83;D';object;mismatch;dispuesto;dispuesta;masc;fem;exigió;estar;Ella le exigió a él estar absolutamente * a cualquier cosa.
+84;A;Él;le;reconoció;a;él;estar;menos;*;a la familia;84;A;subject;match;apegado;apegada;masc;fem;reconoció;estar;Él le reconoció a él estar menos * a la familia.
+84;A';Ella;le;reconoció;a;ella;estar;menos;*;a la familia;84;A';subject;match;apegada;apegado;fem;masc;reconoció;estar;Ella le reconoció a ella estar menos * a la familia.
+84;B;Él;le;reconoció;a;ella;estar;menos;*;a la familia;84;B;subject;mismatch;apegado;apegada;masc;fem;reconoció;estar;Él le reconoció a ella estar menos * a la familia.
+84;B';Ella;le;reconoció;a;él;estar;menos;*;a la familia;84;B';subject;mismatch;apegada;apegado;fem;masc;reconoció;estar;Ella le reconoció a él estar menos * a la familia.
+84;C;Él;le;encargó;a;él;estar;menos;*;a la familia;84;C;object;match;apegado;apegada;masc;fem;encargó;estar;Él le encargó a él estar menos * a la familia.
+84;C';Ella;le;encargó;a;ella;estar;menos;*;a la familia;84;C';object;match;apegada;apegado;fem;masc;encargó;estar;Ella le encargó a ella estar menos * a la familia.
+84;D;Ella;le;encargó;a;él;estar;menos;*;a la familia;84;D;object;mismatch;apegado;apegada;masc;fem;encargó;estar;Ella le encargó a él estar menos * a la familia.
+84;D';Él;le;encargó;a;ella;estar;menos;*;a la familia;84;D';object;mismatch;apegada;apegado;fem;masc;encargó;estar;Él le encargó a ella estar menos * a la familia.
+85;A;Él;le;reveló;a;él;ser;totalmente;*;en cuestiones ideológicas;85;A;subject;match;libertario;libertaria;masc;fem;reveló;ser;Él le reveló a él ser totalmente * en cuestiones ideológicas.
+85;A';Ella;le;reveló;a;ella;ser;totalmente;*;en cuestiones ideológicas;85;A';subject;match;libertaria;libertario;fem;masc;reveló;ser;Ella le reveló a ella ser totalmente * en cuestiones ideológicas.
+85;B;Él;le;reveló;a;ella;ser;totalmente;*;en cuestiones ideológicas;85;B;subject;mismatch;libertario;libertaria;masc;fem;reveló;ser;Él le reveló a ella ser totalmente * en cuestiones ideológicas.
+85;B';Ella;le;reveló;a;él;ser;totalmente;*;en cuestiones ideológicas;85;B';subject;mismatch;libertaria;libertario;fem;masc;reveló;ser;Ella le reveló a él ser totalmente * en cuestiones ideológicas.
+85;C;Él;le;impidió;a;él;ser;totalmente;*;en cuestiones ideológicas;85;C;object;match;libertario;libertaria;masc;fem;impidió;ser;Él le impidió a él ser totalmente * en cuestiones ideológicas.
+85;C';Ella;le;impidió;a;ella;ser;totalmente;*;en cuestiones ideológicas;85;C';object;match;libertaria;libertario;fem;masc;impidió;ser;Ella le impidió a ella ser totalmente * en cuestiones ideológicas.
+85;D;Ella;le;impidió;a;él;ser;totalmente;*;en cuestiones ideológicas;85;D;object;mismatch;libertario;libertaria;masc;fem;impidió;ser;Ella le impidió a él ser totalmente * en cuestiones ideológicas.
+85;D';Él;le;impidió;a;ella;ser;totalmente;*;en cuestiones ideológicas;85;D';object;mismatch;libertaria;libertario;fem;masc;impidió;ser;Él le impidió a ella ser totalmente * en cuestiones ideológicas.
+86;A;Ella;le;aseguró;a;ella;ser;sumamente;*;en el trabajo;86;A;subject;match;reservada;reservado;fem;masc;aseguró;ser;Ella le aseguró a ella ser sumamente * en el trabajo.
+86;A';Él;le;aseguró;a;él;ser;sumamente;*;en el trabajo;86;A';subject;match;reservado;reservada;masc;fem;aseguró;ser;Él le aseguró a él ser sumamente * en el trabajo.
+86;B;Ella;le;aseguró;a;él;ser;sumamente;*;en el trabajo;86;B;subject;mismatch;reservada;reservado;fem;masc;aseguró;ser;Ella le aseguró a él ser sumamente * en el trabajo.
+86;B';Él;le;aseguró;a;ella;ser;sumamente;*;en el trabajo;86;B';subject;mismatch;reservado;reservada;masc;fem;aseguró;ser;Él le aseguró a ella ser sumamente * en el trabajo.
+86;C;Ella;le;consintió;a;ella;ser;sumamente;*;en el trabajo;86;C;object;match;reservada;reservado;fem;masc;consintió;ser;Ella le consintió a ella ser sumamente * en el trabajo.
+86;C';Él;le;consintió;a;él;ser;sumamente;*;en el trabajo;86;C';object;match;reservado;reservada;masc;fem;consintió;ser;Él le consintió a él ser sumamente * en el trabajo.
+86;D;Él;le;consintió;a;ella;ser;sumamente;*;en el trabajo;86;D;object;mismatch;reservada;reservado;fem;masc;consintió;ser;Él le consintió a ella ser sumamente * en el trabajo.
+86;D';Ella;le;consintió;a;él;ser;sumamente;*;en el trabajo;86;D';object;mismatch;reservado;reservada;masc;fem;consintió;ser;Ella le consintió a él ser sumamente * en el trabajo.
+87;A;Él;le;confesó;a;él;ser;bastante;*;con el alumnado;87;A;subject;match;cercano;cercana;masc;fem;confesó;ser;Él le confesó a él ser bastante * con el alumnado.
+87;A';Ella;le;confesó;a;ella;ser;bastante;*;con el alumnado;87;A';subject;match;cercana;cercano;fem;masc;confesó;ser;Ella le confesó a ella ser bastante * con el alumnado.
+87;B;Él;le;confesó;a;ella;ser;bastante;*;con el alumnado;87;B;subject;mismatch;cercano;cercana;masc;fem;confesó;ser;Él le confesó a ella ser bastante * con el alumnado.
+87;B';Ella;le;confesó;a;él;ser;bastante;*;con el alumnado;87;B';subject;mismatch;cercana;cercano;fem;masc;confesó;ser;Ella le confesó a él ser bastante * con el alumnado.
+87;C;Él;le;permitió;a;él;ser;bastante;*;con el alumnado;87;C;object;match;cercano;cercana;masc;fem;permitió;ser;Él le permitió a él ser bastante * con el alumnado.
+87;C';Ella;le;permitió;a;ella;ser;bastante;*;con el alumnado;87;C';object;match;cercana;cercano;fem;masc;permitió;ser;Ella le permitió a ella ser bastante * con el alumnado.
+87;D;Ella;le;permitió;a;él;ser;bastante;*;con el alumnado;87;D;object;mismatch;cercano;cercana;masc;fem;permitió;ser;Ella le permitió a él ser bastante * con el alumnado.
+87;D';Él;le;permitió;a;ella;ser;bastante;*;con el alumnado;87;D';object;mismatch;cercana;cercano;fem;masc;permitió;ser;Él le permitió a ella ser bastante * con el alumnado.
+88;A;Ella;le;manifestó;a;ella;ser;muy;*;con la homeopatía;88;A;subject;match;escéptica;escéptico;fem;masc;manifestó;ser;Ella le manifestó a ella ser muy * con la homeopatía.
+88;A';Él;le;manifestó;a;él;ser;muy;*;con la homeopatía;88;A';subject;match;escéptico;escéptica;masc;fem;manifestó;ser;Él le manifestó a él ser muy * con la homeopatía.
+88;B;Ella;le;manifestó;a;él;ser;muy;*;con la homeopatía;88;B;subject;mismatch;escéptica;escéptico;fem;masc;manifestó;ser;Ella le manifestó a él ser muy * con la homeopatía.
+88;B';Él;le;manifestó;a;ella;ser;muy;*;con la homeopatía;88;B';subject;mismatch;escéptico;escéptica;masc;fem;manifestó;ser;Él le manifestó a ella ser muy * con la homeopatía.
+88;C;Ella;le;recriminó;a;ella;ser;muy;*;con la homeopatía;88;C;object;match;escéptica;escéptico;fem;masc;recriminó;ser;Ella le recriminó a ella ser muy * con la homeopatía.
+88;C';Él;le;recriminó;a;él;ser;muy;*;con la homeopatía;88;C';object;match;escéptico;escéptica;masc;fem;recriminó;ser;Él le recriminó a él ser muy * con la homeopatía.
+88;D;Él;le;recriminó;a;ella;ser;muy;*;con la homeopatía;88;D;object;mismatch;escéptica;escéptico;fem;masc;recriminó;ser;Él le recriminó a ella ser muy * con la homeopatía.
+88;D';Ella;le;recriminó;a;él;ser;muy;*;con la homeopatía;88;D';object;mismatch;escéptico;escéptica;masc;fem;recriminó;ser;Ella le recriminó a él ser muy * con la homeopatía.
+89;A;Él;le;confirmó;a;él;ser;totalmente;*;al aumento salarial;89;A;subject;match;reacio;reacia;masc;fem;confirmó;ser;Él le confirmó a él ser totalmente * al aumento salarial.
+89;A';Ella;le;confirmó;a;ella;ser;totalmente;*;al aumento salarial;89;A';subject;match;reacia;reacio;fem;masc;confirmó;ser;Ella le confirmó a ella ser totalmente * al aumento salarial.
+89;B;Él;le;confirmó;a;ella;ser;totalmente;*;al aumento salarial;89;B;subject;mismatch;reacio;reacia;masc;fem;confirmó;ser;Él le confirmó a ella ser totalmente * al aumento salarial.
+89;B';Ella;le;confirmó;a;él;ser;totalmente;*;al aumento salarial;89;B';subject;mismatch;reacia;reacio;fem;masc;confirmó;ser;Ella le confirmó a él ser totalmente * al aumento salarial.
+89;C;Él;le;reprochó;a;él;ser;totalmente;*;al aumento salarial;89;C;object;match;reacio;reacia;masc;fem;reprochó;ser;Él le reprochó a él ser totalmente * al aumento salarial.
+89;C';Ella;le;reprochó;a;ella;ser;totalmente;*;al aumento salarial;89;C';object;match;reacia;reacio;fem;masc;reprochó;ser;Ella le reprochó a ella ser totalmente * al aumento salarial.
+89;D;Ella;le;reprochó;a;él;ser;totalmente;*;al aumento salarial;89;D;object;mismatch;reacio;reacia;masc;fem;reprochó;ser;Ella le reprochó a él ser totalmente * al aumento salarial.
+89;D';Él;le;reprochó;a;ella;ser;totalmente;*;al aumento salarial;89;D';object;mismatch;reacia;reacio;fem;masc;reprochó;ser;Él le reprochó a ella ser totalmente * al aumento salarial.
+90;A;Ella;le;expresó;a;ella;ser;más;*;ante los problemas;90;A;subject;match;positiva;positivo;fem;masc;expresó;ser;Ella le expresó a ella ser más * ante los problemas.
+90;A';Él;le;expresó;a;él;ser;más;*;ante los problemas;90;A';subject;match;positivo;positiva;masc;fem;expresó;ser;Él le expresó a él ser más * ante los problemas.
+90;B;Ella;le;expresó;a;él;ser;más;*;ante los problemas;90;B;subject;mismatch;positiva;positivo;fem;masc;expresó;ser;Ella le expresó a él ser más * ante los problemas.
+90;B';Él;le;expresó;a;ella;ser;más;*;ante los problemas;90;B';subject;mismatch;positivo;positiva;masc;fem;expresó;ser;Él le expresó a ella ser más * ante los problemas.
+90;C;Ella;le;recomendó;a;ella;ser;más;*;ante los problemas;90;C;object;match;positiva;positivo;fem;masc;recomendó;ser;Ella le recomendó a ella ser más * ante los problemas.
+90;C';Él;le;recomendó;a;él;ser;más;*;ante los problemas;90;C';object;match;positivo;positiva;masc;fem;recomendó;ser;Él le recomendó a él ser más * ante los problemas.
+90;D;Él;le;recomendó;a;ella;ser;más;*;ante los problemas;90;D;object;mismatch;positiva;positivo;fem;masc;recomendó;ser;Él le recomendó a ella ser más * ante los problemas.
+90;D';Ella;le;recomendó;a;él;ser;más;*;ante los problemas;90;D';object;mismatch;positivo;positiva;masc;fem;recomendó;ser;Ella le recomendó a él ser más * ante los problemas.
+91;A;Él;le;declaró;a;él;ser;muy;*;con los rumores;91;A;subject;match;cauto;cauta;masc;fem;declaró;ser;Él le declaró a él ser muy * con los rumores.
+91;A';Ella;le;declaró;a;ella;ser;muy;*;con los rumores;91;A';subject;match;cauta;cauto;fem;masc;declaró;ser;Ella le declaró a ella ser muy * con los rumores.
+91;B;Él;le;declaró;a;ella;ser;muy;*;con los rumores;91;B;subject;mismatch;cauto;cauta;masc;fem;declaró;ser;Él le declaró a ella ser muy * con los rumores.
+91;B';Ella;le;declaró;a;él;ser;muy;*;con los rumores;91;B';subject;mismatch;cauta;cauto;fem;masc;declaró;ser;Ella le declaró a él ser muy * con los rumores.
+91;C;Él;le;aconsejó;a;él;ser;muy;*;con los rumores;91;C;object;match;cauto;cauta;masc;fem;aconsejó;ser;Él le aconsejó a él ser muy * con los rumores.
+91;C';Ella;le;aconsejó;a;ella;ser;muy;*;con los rumores;91;C';object;match;cauta;cauto;fem;masc;aconsejó;ser;Ella le aconsejó a ella ser muy * con los rumores.
+91;D;Ella;le;aconsejó;a;él;ser;muy;*;con los rumores;91;D;object;mismatch;cauto;cauta;masc;fem;aconsejó;ser;Ella le aconsejó a él ser muy * con los rumores.
+91;D';Él;le;aconsejó;a;ella;ser;muy;*;con los rumores;91;D';object;mismatch;cauta;cauto;fem;masc;aconsejó;ser;Él le aconsejó a ella ser muy * con los rumores.
+92;A;Ella;le;desmintió;a;ella;ser;siempre tan;*;con los invitados;92;A;subject;match;maleducada;maleducado;fem;masc;desmintió;ser;Ella le desmintió a ella ser siempre tan * con los invitados.
+92;A';Él;le;desmintió;a;él;ser;siempre tan;*;con los invitados;92;A';subject;match;maleducado;maleducada;masc;fem;desmintió;ser;Él le desmintió a él ser siempre tan * con los invitados.
+92;B;Ella;le;desmintió;a;él;ser;siempre tan;*;con los invitados;92;B;subject;mismatch;maleducada;maleducado;fem;masc;desmintió;ser;Ella le desmintió a él ser siempre tan * con los invitados.
+92;B';Él;le;desmintió;a;ella;ser;siempre tan;*;con los invitados;92;B';subject;mismatch;maleducado;maleducada;masc;fem;desmintió;ser;Él le desmintió a ella ser siempre tan * con los invitados.
+92;C;Ella;le;prohibió;a;ella;ser;siempre tan;*;con los invitados;92;C;object;match;maleducada;maleducado;fem;masc;prohibió;ser;Ella le prohibió a ella ser siempre tan * con los invitados.
+92;C';Él;le;prohibió;a;él;ser;siempre tan;*;con los invitados;92;C';object;match;maleducado;maleducada;masc;fem;prohibió;ser;Él le prohibió a él ser siempre tan * con los invitados.
+92;D;Él;le;prohibió;a;ella;ser;siempre tan;*;con los invitados;92;D;object;mismatch;maleducada;maleducado;fem;masc;prohibió;ser;Él le prohibió a ella ser siempre tan * con los invitados.
+92;D';Ella;le;prohibió;a;él;ser;siempre tan;*;con los invitados;92;D';object;mismatch;maleducado;maleducada;masc;fem;prohibió;ser;Ella le prohibió a él ser siempre tan * con los invitados.
+93;A;Él;le;prometió;a;él;ser;mucho más;*;con los secretos;93;A;subject;match;discreto;discreta;masc;fem;prometió;ser;Él le prometió a él ser mucho más * con los secretos.
+93;A';Ella;le;prometió;a;ella;ser;mucho más;*;con los secretos;93;A';subject;match;discreta;discreto;fem;masc;prometió;ser;Ella le prometió a ella ser mucho más * con los secretos.
+93;B;Él;le;prometió;a;ella;ser;mucho más;*;con los secretos;93;B;subject;mismatch;discreto;discreta;masc;fem;prometió;ser;Él le prometió a ella ser mucho más * con los secretos.
+93;B';Ella;le;prometió;a;él;ser;mucho más;*;con los secretos;93;B';subject;mismatch;discreta;discreto;fem;masc;prometió;ser;Ella le prometió a él ser mucho más * con los secretos.
+93;C;Él;le;mandó;a;él;ser;mucho más;*;con los secretos;93;C;object;match;discreto;discreta;masc;fem;mandó;ser;Él le mandó a él ser mucho más * con los secretos.
+93;C';Ella;le;mandó;a;ella;ser;mucho más;*;con los secretos;93;C';object;match;discreta;discreto;fem;masc;mandó;ser;Ella le mandó a ella ser mucho más * con los secretos.
+93;D;Ella;le;mandó;a;él;ser;mucho más;*;con los secretos;93;D;object;mismatch;discreto;discreta;masc;fem;mandó;ser;Ella le mandó a él ser mucho más * con los secretos.
+93;D';Él;le;mandó;a;ella;ser;mucho más;*;con los secretos;93;D';object;mismatch;discreta;discreto;fem;masc;mandó;ser;Él le mandó a ella ser mucho más * con los secretos.
+94;A;Ella;le;garantizó;a;ella;ser;muy;*;con el alcohol;94;A;subject;match;sensata;sensato;fem;masc;garantizó;ser;Ella le garantizó a ella ser muy * con el alcohol.
+94;A';Él;le;garantizó;a;él;ser;muy;*;con el alcohol;94;A';subject;match;sensato;sensata;masc;fem;garantizó;ser;Él le garantizó a él ser muy * con el alcohol.
+94;B;Ella;le;garantizó;a;él;ser;muy;*;con el alcohol;94;B;subject;mismatch;sensata;sensato;fem;masc;garantizó;ser;Ella le garantizó a él ser muy * con el alcohol.
+94;B';Él;le;garantizó;a;ella;ser;muy;*;con el alcohol;94;B';subject;mismatch;sensato;sensata;masc;fem;garantizó;ser;Él le garantizó a ella ser muy * con el alcohol.
+94;C;Ella;le;ordenó;a;ella;ser;muy;*;con el alcohol;94;C;object;match;sensata;sensato;fem;masc;ordenó;ser;Ella le ordenó a ella ser muy * con el alcohol.
+94;C';Él;le;ordenó;a;él;ser;muy;*;con el alcohol;94;C';object;match;sensato;sensata;masc;fem;ordenó;ser;Él le ordenó a él ser muy * con el alcohol.
+94;D;Él;le;ordenó;a;ella;ser;muy;*;con el alcohol;94;D;object;mismatch;sensata;sensato;fem;masc;ordenó;ser;Él le ordenó a ella ser muy * con el alcohol.
+94;D';Ella;le;ordenó;a;él;ser;muy;*;con el alcohol;94;D';object;mismatch;sensato;sensata;masc;fem;ordenó;ser;Ella le ordenó a él ser muy * con el alcohol.
+95;A;Él;le;juró;a;él;ser;sumamente;*;en el reparto;95;A;subject;match;equitativo;equitativa;masc;fem;juró;ser;Él le juró a él ser sumamente * en el reparto.
+95;A';Ella;le;juró;a;ella;ser;sumamente;*;en el reparto;95;A';subject;match;equitativa;equitativo;fem;masc;juró;ser;Ella le juró a ella ser sumamente * en el reparto.
+95;B;Él;le;juró;a;ella;ser;sumamente;*;en el reparto;95;B;subject;mismatch;equitativo;equitativa;masc;fem;juró;ser;Él le juró a ella ser sumamente * en el reparto.
+95;B';Ella;le;juró;a;él;ser;sumamente;*;en el reparto;95;B';subject;mismatch;equitativa;equitativo;fem;masc;juró;ser;Ella le juró a él ser sumamente * en el reparto.
+95;C;Él;le;exigió;a;él;ser;sumamente;*;en el reparto;95;C;object;match;equitativo;equitativa;masc;fem;exigió;ser;Él le exigió a él ser sumamente * en el reparto.
+95;C';Ella;le;exigió;a;ella;ser;sumamente;*;en el reparto;95;C';object;match;equitativa;equitativo;fem;masc;exigió;ser;Ella le exigió a ella ser sumamente * en el reparto.
+95;D;Ella;le;exigió;a;él;ser;sumamente;*;en el reparto;95;D;object;mismatch;equitativo;equitativa;masc;fem;exigió;ser;Ella le exigió a él ser sumamente * en el reparto.
+95;D';Él;le;exigió;a;ella;ser;sumamente;*;en el reparto;95;D';object;mismatch;equitativa;equitativo;fem;masc;exigió;ser;Él le exigió a ella ser sumamente * en el reparto.
+96;A;Ella;le;reconoció;a;ella;ser;mucho más;*;tras el accidente;96;A;subject;match;cautelosa;cauteloso;fem;masc;reconoció;ser;Ella le reconoció a ella ser mucho más * tras el accidente.
+96;A';Él;le;reconoció;a;él;ser;mucho más;*;tras el accidente;96;A';subject;match;cauteloso;cautelosa;masc;fem;reconoció;ser;Él le reconoció a él ser mucho más * tras el accidente.
+96;B;Ella;le;reconoció;a;él;ser;mucho más;*;tras el accidente;96;B;subject;mismatch;cautelosa;cauteloso;fem;masc;reconoció;ser;Ella le reconoció a él ser mucho más * tras el accidente.
+96;B';Él;le;reconoció;a;ella;ser;mucho más;*;tras el accidente;96;B';subject;mismatch;cauteloso;cautelosa;masc;fem;reconoció;ser;Él le reconoció a ella ser mucho más * tras el accidente.
+96;C;Ella;le;encargó;a;ella;ser;mucho más;*;tras el accidente;96;C;object;match;cautelosa;cauteloso;fem;masc;encargó;ser;Ella le encargó a ella ser mucho más * tras el accidente.
+96;C';Él;le;encargó;a;él;ser;mucho más;*;tras el accidente;96;C';object;match;cauteloso;cautelosa;masc;fem;encargó;ser;Él le encargó a él ser mucho más * tras el accidente.
+96;D;Él;le;encargó;a;ella;ser;mucho más;*;tras el accidente;96;D;object;mismatch;cautelosa;cauteloso;fem;masc;encargó;ser;Él le encargó a ella ser mucho más * tras el accidente.
+96;D';Ella;le;encargó;a;él;ser;mucho más;*;tras el accidente;96;D';object;mismatch;cauteloso;cautelosa;masc;fem;encargó;ser;Ella le encargó a él ser mucho más * tras el accidente.

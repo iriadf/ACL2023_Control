@@ -1,0 +1,769 @@
+item;cond;NP1;C.VB;A;NP2;inf;ADV;ADJ;PP;item;cond;control;distractor;correct_adj;incorrect_adj;correct_gender;incorrect gender;control_verb;infinitive;sentence
+1;A;Ela;prometeulle;a;ela;ser;máis;*;coas notas;1;A;subject;match;ordenada;ordenado;fem;masc;prometeulle;ser;Ela prometeulle a ela ser máis * coas notas.
+1;A';El;prometeulle;a;el;ser;máis;*;coas notas;1;A';subject;match;ordenado;ordenada;masc;fem;prometeulle;ser;El prometeulle a el ser máis * coas notas.
+1;B;Ela;prometeulle;a;el;ser;máis;*;coas notas;1;B;subject;mismatch;ordenada;ordenado;fem;masc;prometeulle;ser;Ela prometeulle a el ser máis * coas notas.
+1;B';El;prometeulle;a;ela;ser;máis;*;coas notas;1;B';subject;mismatch;ordenado;ordenada;masc;fem;prometeulle;ser;El prometeulle a ela ser máis * coas notas.
+1;C;Ela;aconselloulle;a;ela;ser;máis;*;coas notas;1;C;object;match;ordenada;ordenado;fem;masc;aconselloulle;ser;Ela aconselloulle a ela ser máis * coas notas.
+1;C';El;aconselloulle;a;el;ser;máis;*;coas notas;1;C';object;match;ordenado;ordenada;masc;fem;aconselloulle;ser;El aconselloulle a el ser máis * coas notas.
+1;D;El;aconselloulle;a;ela;ser;máis;*;coas notas;1;D;object;mismatch;ordenada;ordenado;fem;masc;aconselloulle;ser;El aconselloulle a ela ser máis * coas notas.
+1;D';Ela;aconselloulle;a;el;ser;máis;*;coas notas;1;D';object;mismatch;ordenado;ordenada;masc;fem;aconselloulle;ser;Ela aconselloulle a el ser máis * coas notas.
+2;A;El;recoñeceulle;a;el;ser;demasiado;*;coa comida;2;A;subject;match;escrupuloso;escrupulosa;masc;fem;recoñeceulle;ser;El recoñeceulle a el ser demasiado * coa comida.
+2;A';Ela;recoñeceulle;a;ela;ser;demasiado;*;coa comida;2;A';subject;match;escrupulosa;escrupuloso;fem;masc;recoñeceulle;ser;Ela recoñeceulle a ela ser demasiado * coa comida.
+2;B;El;recoñeceulle;a;ela;ser;demasiado;*;coa comida;2;B;subject;mismatch;escrupuloso;escrupulosa;masc;fem;recoñeceulle;ser;El recoñeceulle a ela ser demasiado * coa comida.
+2;B';Ela;recoñeceulle;a;el;ser;demasiado;*;coa comida;2;B';subject;mismatch;escrupulosa;escrupuloso;fem;masc;recoñeceulle;ser;Ela recoñeceulle a el ser demasiado * coa comida.
+2;C;El;recriminoulle;a;el;ser;demasiado;*;coa comida;2;C;object;match;escrupuloso;escrupulosa;masc;fem;recriminoulle;ser;El recriminoulle a el ser demasiado * coa comida.
+2;C';Ela;recriminoulle;a;ela;ser;demasiado;*;coa comida;2;C';object;match;escrupulosa;escrupuloso;fem;masc;recriminoulle;ser;Ela recriminoulle a ela ser demasiado * coa comida.
+2;D;Ela;recriminoulle;a;el;ser;demasiado;*;coa comida;2;D;object;mismatch;escrupuloso;escrupulosa;masc;fem;recriminoulle;ser;Ela recriminoulle a el ser demasiado * coa comida.
+2;D';El;recriminoulle;a;ela;ser;demasiado;*;coa comida;2;D';object;mismatch;escrupulosa;escrupuloso;fem;masc;recriminoulle;ser;El recriminoulle a ela ser demasiado * coa comida.
+3;A;Ela;reveloulle;a;ela;ser;moi;*;durante as tormentas;3;A;subject;match;temerosa;temeroso;fem;masc;reveloulle;ser;Ela reveloulle a ela ser moi * durante as tormentas.
+3;A';El;reveloulle;a;el;ser;moi;*;durante as tormentas;3;A';subject;match;temeroso;temerosa;masc;fem;reveloulle;ser;El reveloulle a el ser moi * durante as tormentas.
+3;B;Ela;reveloulle;a;el;ser;moi;*;durante as tormentas;3;B;subject;mismatch;temerosa;temeroso;fem;masc;reveloulle;ser;Ela reveloulle a el ser moi * durante as tormentas.
+3;B';El;reveloulle;a;ela;ser;moi;*;durante as tormentas;3;B';subject;mismatch;temeroso;temerosa;masc;fem;reveloulle;ser;El reveloulle a ela ser moi * durante as tormentas.
+3;C;Ela;reprochoulle;a;ela;ser;moi;*;durante as tormentas;3;C;object;match;temerosa;temeroso;fem;masc;reprochoulle;ser;Ela reprochoulle a ela ser moi * durante as tormentas.
+3;C';El;reprochoulle;a;el;ser;moi;*;durante as tormentas;3;C';object;match;temeroso;temerosa;masc;fem;reprochoulle;ser;El reprochoulle a el ser moi * durante as tormentas.
+3;D;El;reprochoulle;a;ela;ser;moi;*;durante as tormentas;3;D;object;mismatch;temerosa;temeroso;fem;masc;reprochoulle;ser;El reprochoulle a ela ser moi * durante as tormentas.
+3;D';Ela;reprochoulle;a;el;ser;moi;*;durante as tormentas;3;D';object;mismatch;temeroso;temerosa;masc;fem;reprochoulle;ser;Ela reprochoulle a el ser moi * durante as tormentas.
+4;A;El;garantizoulle;a;el;ser;máis;*;cos clientes;4;A;subject;match;afectuoso;afectuosa;masc;fem;garantizoulle;ser;El garantizoulle a el ser máis * cos clientes.
+4;A';Ela;garantizoulle;a;ela;ser;máis;*;cos clientes;4;A';subject;match;afectuosa;afectuoso;fem;masc;garantizoulle;ser;Ela garantizoulle a ela ser máis * cos clientes.
+4;B;El;garantizoulle;a;ela;ser;máis;*;cos clientes;4;B;subject;mismatch;afectuoso;afectuosa;masc;fem;garantizoulle;ser;El garantizoulle a ela ser máis * cos clientes.
+4;B';Ela;garantizoulle;a;el;ser;máis;*;cos clientes;4;B';subject;mismatch;afectuosa;afectuoso;fem;masc;garantizoulle;ser;Ela garantizoulle a el ser máis * cos clientes.
+4;C;El;recomendoulle;a;el;ser;máis;*;cos clientes;4;C;object;match;afectuoso;afectuosa;masc;fem;recomendoulle;ser;El recomendoulle a el ser máis * cos clientes.
+4;C';Ela;recomendoulle;a;ela;ser;máis;*;cos clientes;4;C';object;match;afectuosa;afectuoso;fem;masc;recomendoulle;ser;Ela recomendoulle a ela ser máis * cos clientes.
+4;D;Ela;recomendoulle;a;el;ser;máis;*;cos clientes;4;D;object;mismatch;afectuoso;afectuosa;masc;fem;recomendoulle;ser;Ela recomendoulle a el ser máis * cos clientes.
+4;D';El;recomendoulle;a;ela;ser;máis;*;cos clientes;4;D';object;mismatch;afectuosa;afectuoso;fem;masc;recomendoulle;ser;El recomendoulle a ela ser máis * cos clientes.
+5;A;Ela;confirmoulle;a;ela;ser;sempre tan;*;no traballo;5;A;subject;match;competitiva;competitivo;fem;masc;confirmoulle;ser;Ela confirmoulle a ela ser sempre tan * no traballo.
+5;A';El;confirmoulle;a;el;ser;sempre tan;*;no traballo;5;A';subject;match;competitivo;competitiva;masc;fem;confirmoulle;ser;El confirmoulle a el ser sempre tan * no traballo.
+5;B;Ela;confirmoulle;a;el;ser;sempre tan;*;no traballo;5;B;subject;mismatch;competitiva;competitivo;fem;masc;confirmoulle;ser;Ela confirmoulle a el ser sempre tan * no traballo.
+5;B';El;confirmoulle;a;ela;ser;sempre tan;*;no traballo;5;B';subject;mismatch;competitivo;competitiva;masc;fem;confirmoulle;ser;El confirmoulle a ela ser sempre tan * no traballo.
+5;C;Ela;impediulle;a;ela;ser;sempre tan;*;no traballo;5;C;object;match;competitiva;competitivo;fem;masc;impediulle;ser;Ela impediulle a ela ser sempre tan * no traballo.
+5;C';El;impediulle;a;el;ser;sempre tan;*;no traballo;5;C';object;match;competitivo;competitiva;masc;fem;impediulle;ser;El impediulle a el ser sempre tan * no traballo.
+5;D;El;impediulle;a;ela;ser;sempre tan;*;no traballo;5;D;object;mismatch;competitiva;competitivo;fem;masc;impediulle;ser;El impediulle a ela ser sempre tan * no traballo.
+5;D';Ela;impediulle;a;el;ser;sempre tan;*;no traballo;5;D';object;mismatch;competitivo;competitiva;masc;fem;impediulle;ser;Ela impediulle a el ser sempre tan * no traballo.
+6;A;El;desmentiulle;a;el;ser;demasiado;*;cos beneficios;6;A;subject;match;cobizoso;cobizosa;masc;fem;desmentiulle;ser;El desmentiulle a el ser demasiado * cos beneficios.
+6;A';Ela;desmentiulle;a;ela;ser;demasiado;*;cos beneficios;6;A';subject;match;cobizosa;cobizoso;fem;masc;desmentiulle;ser;Ela desmentiulle a ela ser demasiado * cos beneficios.
+6;B;El;desmentiulle;a;ela;ser;demasiado;*;cos beneficios;6;B;subject;mismatch;cobizoso;cobizosa;masc;fem;desmentiulle;ser;El desmentiulle a ela ser demasiado * cos beneficios.
+6;B';Ela;desmentiulle;a;el;ser;demasiado;*;cos beneficios;6;B';subject;mismatch;cobizosa;cobizoso;fem;masc;desmentiulle;ser;Ela desmentiulle a el ser demasiado * cos beneficios.
+6;C;El;prohibiulle;a;el;ser;demasiado;*;cos beneficios;6;C;object;match;cobizoso;cobizosa;masc;fem;prohibiulle;ser;El prohibiulle a el ser demasiado * cos beneficios.
+6;C';Ela;prohibiulle;a;ela;ser;demasiado;*;cos beneficios;6;C';object;match;cobizosa;cobizoso;fem;masc;prohibiulle;ser;Ela prohibiulle a ela ser demasiado * cos beneficios.
+6;D;Ela;prohibiulle;a;el;ser;demasiado;*;cos beneficios;6;D;object;mismatch;cobizoso;cobizosa;masc;fem;prohibiulle;ser;Ela prohibiulle a el ser demasiado * cos beneficios.
+6;D';El;prohibiulle;a;ela;ser;demasiado;*;cos beneficios;6;D';object;mismatch;cobizosa;cobizoso;fem;masc;prohibiulle;ser;El prohibiulle a ela ser demasiado * cos beneficios.
+7;A;Ela;xuroulle;a;ela;ser;absolutamente;*;na declaración;7;A;subject;match;honesta;honesto;fem;masc;xuroulle;ser;Ela xuroulle a ela ser absolutamente * na declaración.
+7;A';El;xuroulle;a;el;ser;absolutamente;*;na declaración;7;A';subject;match;honesto;honesta;masc;fem;xuroulle;ser;El xuroulle a el ser absolutamente * na declaración.
+7;B;Ela;xuroulle;a;el;ser;absolutamente;*;na declaración;7;B;subject;mismatch;honesta;honesto;fem;masc;xuroulle;ser;Ela xuroulle a el ser absolutamente * na declaración.
+7;B';El;xuroulle;a;ela;ser;absolutamente;*;na declaración;7;B';subject;mismatch;honesto;honesta;masc;fem;xuroulle;ser;El xuroulle a ela ser absolutamente * na declaración.
+7;C;Ela;esixiulle;a;ela;ser;absolutamente;*;na declaración;7;C;object;match;honesta;honesto;fem;masc;esixiulle;ser;Ela esixiulle a ela ser absolutamente * na declaración.
+7;C';El;esixiulle;a;el;ser;absolutamente;*;na declaración;7;C';object;match;honesto;honesta;masc;fem;esixiulle;ser;El esixiulle a el ser absolutamente * na declaración.
+7;D;El;esixiulle;a;ela;ser;absolutamente;*;na declaración;7;D;object;mismatch;honesta;honesto;fem;masc;esixiulle;ser;El esixiulle a ela ser absolutamente * na declaración.
+7;D';Ela;esixiulle;a;el;ser;absolutamente;*;na declaración;7;D';object;mismatch;honesto;honesta;masc;fem;esixiulle;ser;Ela esixiulle a el ser absolutamente * na declaración.
+8;A;El;aseguroulle;a;el;ser;totalmente;*;sobre o ocurrido;8;A;subject;match;sincero;sincera;masc;fem;aseguroulle;ser;El aseguroulle a el ser totalmente * sobre o ocurrido.
+8;A';Ela;aseguroulle;a;ela;ser;totalmente;*;sobre o ocurrido;8;A';subject;match;sincera;sincero;fem;masc;aseguroulle;ser;Ela aseguroulle a ela ser totalmente * sobre o ocurrido.
+8;B;El;aseguroulle;a;ela;ser;totalmente;*;sobre o ocurrido;8;B;subject;mismatch;sincero;sincera;masc;fem;aseguroulle;ser;El aseguroulle a ela ser totalmente * sobre o ocurrido.
+8;B';Ela;aseguroulle;a;el;ser;totalmente;*;sobre o ocurrido;8;B';subject;mismatch;sincera;sincero;fem;masc;aseguroulle;ser;Ela aseguroulle a el ser totalmente * sobre o ocurrido.
+8;C;El;ordenoulle;a;el;ser;totalmente;*;sobre o ocurrido;8;C;object;match;sincero;sincera;masc;fem;ordenoulle;ser;El ordenoulle a el ser totalmente * sobre o ocurrido.
+8;C';Ela;ordenoulle;a;ela;ser;totalmente;*;sobre o ocurrido;8;C';object;match;sincera;sincero;fem;masc;ordenoulle;ser;Ela ordenoulle a ela ser totalmente * sobre o ocurrido.
+8;D;Ela;ordenoulle;a;el;ser;totalmente;*;sobre o ocurrido;8;D;object;mismatch;sincero;sincera;masc;fem;ordenoulle;ser;Ela ordenoulle a el ser totalmente * sobre o ocurrido.
+8;D';El;ordenoulle;a;ela;ser;totalmente;*;sobre o ocurrido;8;D';object;mismatch;sincera;sincero;fem;masc;ordenoulle;ser;El ordenoulle a ela ser totalmente * sobre o ocurrido.
+9;A;Ela;confesoulle;a;ela;ser;un pouco;*;con papeleo;9;A;subject;match;despreocupada;despreocupado;fem;masc;confesoulle;ser;Ela confesoulle a ela ser un pouco * con papeleo.
+9;A';El;confesoulle;a;el;ser;un pouco;*;con papeleo;9;A';subject;match;despreocupado;despreocupada;masc;fem;confesoulle;ser;El confesoulle a el ser un pouco * con papeleo.
+9;B;Ela;confesoulle;a;el;ser;un pouco;*;con papeleo;9;B;subject;mismatch;despreocupada;despreocupado;fem;masc;confesoulle;ser;Ela confesoulle a el ser un pouco * con papeleo.
+9;B';El;confesoulle;a;ela;ser;un pouco;*;con papeleo;9;B';subject;mismatch;despreocupado;despreocupada;masc;fem;confesoulle;ser;El confesoulle a ela ser un pouco * con papeleo.
+9;C;Ela;permitiulle;a;ela;ser;un pouco;*;con papeleo;9;C;object;match;despreocupada;despreocupado;fem;masc;permitiulle;ser;Ela permitiulle a ela ser un pouco * con papeleo.
+9;C';El;permitiulle;a;el;ser;un pouco;*;con papeleo;9;C';object;match;despreocupado;despreocupada;masc;fem;permitiulle;ser;El permitiulle a el ser un pouco * con papeleo.
+9;D;El;permitiulle;a;ela;ser;un pouco;*;con papeleo;9;D;object;mismatch;despreocupada;despreocupado;fem;masc;permitiulle;ser;El permitiulle a ela ser un pouco * con papeleo.
+9;D';Ela;permitiulle;a;el;ser;un pouco;*;con papeleo;9;D';object;mismatch;despreocupado;despreocupada;masc;fem;permitiulle;ser;Ela permitiulle a el ser un pouco * con papeleo.
+10;A;El;expresoulle;a;el;ser;moi;*;coas circunstancias;10;A;subject;match;comprensivo;comprensiva;masc;fem;expresoulle;ser;El expresoulle a el ser moi * coas circunstancias.
+10;A';Ela;expresoulle;a;ela;ser;moi;*;coas circunstancias;10;A';subject;match;comprensiva;comprensivo;fem;masc;expresoulle;ser;Ela expresoulle a ela ser moi * coas circunstancias.
+10;B;El;expresoulle;a;ela;ser;moi;*;coas circunstancias;10;B;subject;mismatch;comprensivo;comprensiva;masc;fem;expresoulle;ser;El expresoulle a ela ser moi * coas circunstancias.
+10;B';Ela;expresoulle;a;el;ser;moi;*;coas circunstancias;10;B';subject;mismatch;comprensiva;comprensivo;fem;masc;expresoulle;ser;Ela expresoulle a el ser moi * coas circunstancias.
+10;C;El;encargoulle;a;el;ser;moi;*;coas circunstancias;10;C;object;match;comprensivo;comprensiva;masc;fem;encargoulle;ser;El encargoulle a el ser moi * coas circunstancias.
+10;C';Ela;encargoulle;a;ela;ser;moi;*;coas circunstancias;10;C';object;match;comprensiva;comprensivo;fem;masc;encargoulle;ser;Ela encargoulle a ela ser moi * coas circunstancias.
+10;D;Ela;encargoulle;a;el;ser;moi;*;coas circunstancias;10;D;object;mismatch;comprensivo;comprensiva;masc;fem;encargoulle;ser;Ela encargoulle a el ser moi * coas circunstancias.
+10;D';El;encargoulle;a;ela;ser;moi;*;coas circunstancias;10;D';object;mismatch;comprensiva;comprensivo;fem;masc;encargoulle;ser;El encargoulle a ela ser moi * coas circunstancias.
+11;A;Ela;declaroulle;a;ela;ser;máis;*;a última hora;11;A;subject;match;produtiva;produtivo;fem;masc;declaroulle;ser;Ela declaroulle a ela ser máis * a última hora.
+11;A';El;declaroulle;a;el;ser;máis;*;a última hora;11;A';subject;match;produtivo;produtiva;masc;fem;declaroulle;ser;El declaroulle a el ser máis * a última hora.
+11;B;Ela;declaroulle;a;el;ser;máis;*;a última hora;11;B;subject;mismatch;produtiva;produtivo;fem;masc;declaroulle;ser;Ela declaroulle a el ser máis * a última hora.
+11;B';El;declaroulle;a;ela;ser;máis;*;a última hora;11;B';subject;mismatch;produtivo;produtiva;masc;fem;declaroulle;ser;El declaroulle a ela ser máis * a última hora.
+11;C;Ela;mandoulle;a;ela;ser;máis;*;a última hora;11;C;object;match;produtiva;produtivo;fem;masc;mandoulle;ser;Ela mandoulle a ela ser máis * a última hora.
+11;C';El;mandoulle;a;el;ser;máis;*;a última hora;11;C';object;match;produtivo;produtiva;masc;fem;mandoulle;ser;El mandoulle a el ser máis * a última hora.
+11;D;El;mandoulle;a;ela;ser;máis;*;a última hora;11;D;object;mismatch;produtiva;produtivo;fem;masc;mandoulle;ser;El mandoulle a ela ser máis * a última hora.
+11;D';Ela;mandoulle;a;el;ser;máis;*;a última hora;11;D';object;mismatch;produtivo;produtiva;masc;fem;mandoulle;ser;Ela mandoulle a el ser máis * a última hora.
+12;A;El;manifestoulle;a;el;ser;algo;*;cos compañeiros;12;A;subject;match;desconfiado;desconfiada;masc;fem;manifestoulle;ser;El manifestoulle a el ser algo * cos compañeiros.
+12;A';Ela;manifestoulle;a;ela;ser;algo;*;cos compañeiros;12;A';subject;match;desconfiada;desconfiado;fem;masc;manifestoulle;ser;Ela manifestoulle a ela ser algo * cos compañeiros.
+12;B;El;manifestoulle;a;ela;ser;algo;*;cos compañeiros;12;B;subject;mismatch;desconfiado;desconfiada;masc;fem;manifestoulle;ser;El manifestoulle a ela ser algo * cos compañeiros.
+12;B';Ela;manifestoulle;a;el;ser;algo;*;cos compañeiros;12;B';subject;mismatch;desconfiada;desconfiado;fem;masc;manifestoulle;ser;Ela manifestoulle a el ser algo * cos compañeiros.
+12;C;El;consentiulle;a;el;ser;algo;*;cos compañeiros;12;C;object;match;desconfiado;desconfiada;masc;fem;consentiulle;ser;El consentiulle a el ser algo * cos compañeiros.
+12;C';Ela;consentiulle;a;ela;ser;algo;*;cos compañeiros;12;C';object;match;desconfiada;desconfiado;fem;masc;consentiulle;ser;Ela consentiulle a ela ser algo * cos compañeiros.
+12;D;Ela;consentiulle;a;el;ser;algo;*;cos compañeiros;12;D;object;mismatch;desconfiado;desconfiada;masc;fem;consentiulle;ser;Ela consentiulle a el ser algo * cos compañeiros.
+12;D';El;consentiulle;a;ela;ser;algo;*;cos compañeiros;12;D';object;mismatch;desconfiada;desconfiado;fem;masc;consentiulle;ser;El consentiulle a ela ser algo * cos compañeiros.
+13;A;El;prometeulle;a;el;estar;moito máis;*;antes de conducir;13;A;subject;match;espelido;espelida;masc;fem;prometeulle;estar;El prometeulle a el estar moito máis * antes de conducir.
+13;A';Ela;prometeulle;a;ela;estar;moito máis;*;antes de conducir;13;A';subject;match;espelida;espelido;fem;masc;prometeulle;estar;Ela prometeulle a ela estar moito máis * antes de conducir.
+13;B;El;prometeulle;a;ela;estar;moito máis;*;antes de conducir;13;B;subject;mismatch;espelido;espelida;masc;fem;prometeulle;estar;El prometeulle a ela estar moito máis * antes de conducir.
+13;B';Ela;prometeulle;a;el;estar;moito máis;*;antes de conducir;13;B';subject;mismatch;espelida;espelido;fem;masc;prometeulle;estar;Ela prometeulle a el estar moito máis * antes de conducir.
+13;C;El;aconselloulle;a;el;estar;moito máis;*;antes de conducir;13;C;object;match;espelido;espelida;masc;fem;aconselloulle;estar;El aconselloulle a el estar moito máis * antes de conducir.
+13;C';Ela;aconselloulle;a;ela;estar;moito máis;*;antes de conducir;13;C';object;match;espelida;espelido;fem;masc;aconselloulle;estar;Ela aconselloulle a ela estar moito máis * antes de conducir.
+13;D;Ela;aconselloulle;a;el;estar;moito máis;*;antes de conducir;13;D;object;mismatch;espelido;espelida;masc;fem;aconselloulle;estar;Ela aconselloulle a el estar moito máis * antes de conducir.
+13;D';El;aconselloulle;a;ela;estar;moito máis;*;antes de conducir;13;D';object;mismatch;espelida;espelido;fem;masc;aconselloulle;estar;El aconselloulle a ela estar moito máis * antes de conducir.
+14;A;Ela;recoñeceulle;a;ela;estar;moi;*;polos cambios;14;A;subject;match;confundida;confundido;fem;masc;recoñeceulle;estar;Ela recoñeceulle a ela estar moi * polos cambios.
+14;A';El;recoñeceulle;a;el;estar;moi;*;polos cambios;14;A';subject;match;confundido;confundida;masc;fem;recoñeceulle;estar;El recoñeceulle a el estar moi * polos cambios.
+14;B;Ela;recoñeceulle;a;el;estar;moi;*;polos cambios;14;B;subject;mismatch;confundida;confundido;fem;masc;recoñeceulle;estar;Ela recoñeceulle a el estar moi * polos cambios.
+14;B';El;recoñeceulle;a;ela;estar;moi;*;polos cambios;14;B';subject;mismatch;confundido;confundida;masc;fem;recoñeceulle;estar;El recoñeceulle a ela estar moi * polos cambios.
+14;C;Ela;recriminoulle;a;ela;estar;moi;*;polos cambios;14;C;object;match;confundida;confundido;fem;masc;recriminoulle;estar;Ela recriminoulle a ela estar moi * polos cambios.
+14;C';El;recriminoulle;a;el;estar;moi;*;polos cambios;14;C';object;match;confundido;confundida;masc;fem;recriminoulle;estar;El recriminoulle a el estar moi * polos cambios.
+14;D;El;recriminoulle;a;ela;estar;moi;*;polos cambios;14;D;object;mismatch;confundida;confundido;fem;masc;recriminoulle;estar;El recriminoulle a ela estar moi * polos cambios.
+14;D';Ela;recriminoulle;a;el;estar;moi;*;polos cambios;14;D';object;mismatch;confundido;confundida;masc;fem;recriminoulle;estar;Ela recriminoulle a el estar moi * polos cambios.
+15;A;El;reveloulle;a;el;estar;moi;*;polo xuízo;15;A;subject;match;inquieto;inquieta;masc;fem;reveloulle;estar;El reveloulle a el estar moi * polo xuízo.
+15;A';Ela;reveloulle;a;ela;estar;moi;*;polo xuízo;15;A';subject;match;inquieta;inquieto;fem;masc;reveloulle;estar;Ela reveloulle a ela estar moi * polo xuízo.
+15;B;El;reveloulle;a;ela;estar;moi;*;polo xuízo;15;B;subject;mismatch;inquieto;inquieta;masc;fem;reveloulle;estar;El reveloulle a ela estar moi * polo xuízo.
+15;B';Ela;reveloulle;a;el;estar;moi;*;polo xuízo;15;B';subject;mismatch;inquieta;inquieto;fem;masc;reveloulle;estar;Ela reveloulle a el estar moi * polo xuízo.
+15;C;El;reprochoulle;a;el;estar;moi;*;polo xuízo;15;C;object;match;inquieto;inquieta;masc;fem;reprochoulle;estar;El reprochoulle a el estar moi * polo xuízo.
+15;C';Ela;reprochoulle;a;ela;estar;moi;*;polo xuízo;15;C';object;match;inquieta;inquieto;fem;masc;reprochoulle;estar;Ela reprochoulle a ela estar moi * polo xuízo.
+15;D;Ela;reprochoulle;a;el;estar;moi;*;polo xuízo;15;D;object;mismatch;inquieto;inquieta;masc;fem;reprochoulle;estar;Ela reprochoulle a el estar moi * polo xuízo.
+15;D';El;reprochoulle;a;ela;estar;moi;*;polo xuízo;15;D';object;mismatch;inquieta;inquieto;fem;masc;reprochoulle;estar;El reprochoulle a ela estar moi * polo xuízo.
+16;A;Ela;garantizoulle;a;ela;estar;menos;*;durante a negociación;16;A;subject;match;seria;serio;fem;masc;garantizoulle;estar;Ela garantizoulle a ela estar menos * durante a negociación.
+16;A';El;garantizoulle;a;el;estar;menos;*;durante a negociación;16;A';subject;match;serio;seria;masc;fem;garantizoulle;estar;El garantizoulle a el estar menos * durante a negociación.
+16;B;Ela;garantizoulle;a;el;estar;menos;*;durante a negociación;16;B;subject;mismatch;seria;serio;fem;masc;garantizoulle;estar;Ela garantizoulle a el estar menos * durante a negociación.
+16;B';El;garantizoulle;a;ela;estar;menos;*;durante a negociación;16;B';subject;mismatch;serio;seria;masc;fem;garantizoulle;estar;El garantizoulle a ela estar menos * durante a negociación.
+16;C;Ela;recomendoulle;a;ela;estar;menos;*;durante a negociación;16;C;object;match;seria;serio;fem;masc;recomendoulle;estar;Ela recomendoulle a ela estar menos * durante a negociación.
+16;C';El;recomendoulle;a;el;estar;menos;*;durante a negociación;16;C';object;match;serio;seria;masc;fem;recomendoulle;estar;El recomendoulle a el estar menos * durante a negociación.
+16;D;El;recomendoulle;a;ela;estar;menos;*;durante a negociación;16;D;object;mismatch;seria;serio;fem;masc;recomendoulle;estar;El recomendoulle a ela estar menos * durante a negociación.
+16;D';Ela;recomendoulle;a;el;estar;menos;*;durante a negociación;16;D';object;mismatch;serio;seria;masc;fem;recomendoulle;estar;Ela recomendoulle a el estar menos * durante a negociación.
+17;A;El;confirmoulle;a;el;estar;totalmente;*;na investigación;17;A;subject;match;vinculado;vinculada;masc;fem;confirmoulle;estar;El confirmoulle a el estar totalmente * na investigación.
+17;A';Ela;confirmoulle;a;ela;estar;totalmente;*;na investigación;17;A';subject;match;vinculada;vinculado;fem;masc;confirmoulle;estar;Ela confirmoulle a ela estar totalmente * na investigación.
+17;B;El;confirmoulle;a;ela;estar;totalmente;*;na investigación;17;B;subject;mismatch;vinculado;vinculada;masc;fem;confirmoulle;estar;El confirmoulle a ela estar totalmente * na investigación.
+17;B';Ela;confirmoulle;a;el;estar;totalmente;*;na investigación;17;B';subject;mismatch;vinculada;vinculado;fem;masc;confirmoulle;estar;Ela confirmoulle a el estar totalmente * na investigación.
+17;C;El;impediulle;a;el;estar;totalmente;*;na investigación;17;C;object;match;vinculado;vinculada;masc;fem;impediulle;estar;El impediulle a el estar totalmente * na investigación.
+17;C';Ela;impediulle;a;ela;estar;totalmente;*;na investigación;17;C';object;match;vinculada;vinculado;fem;masc;impediulle;estar;Ela impediulle a ela estar totalmente * na investigación.
+17;D;Ela;impediulle;a;el;estar;totalmente;*;na investigación;17;D;object;mismatch;vinculado;vinculada;masc;fem;impediulle;estar;Ela impediulle a el estar totalmente * na investigación.
+17;D';El;impediulle;a;ela;estar;totalmente;*;na investigación;17;D';object;mismatch;vinculada;vinculado;fem;masc;impediulle;estar;El impediulle a ela estar totalmente * na investigación.
+18;A;Ela;desmentiulle;a;ela;estar;sempre;*;cos traballadores;18;A;subject;match;enfadada;enfadado;fem;masc;desmentiulle;estar;Ela desmentiulle a ela estar sempre * cos traballadores.
+18;A';El;desmentiulle;a;el;estar;sempre;*;cos traballadores;18;A';subject;match;enfadado;enfadada;masc;fem;desmentiulle;estar;El desmentiulle a el estar sempre * cos traballadores.
+18;B;Ela;desmentiulle;a;el;estar;sempre;*;cos traballadores;18;B;subject;mismatch;enfadada;enfadado;fem;masc;desmentiulle;estar;Ela desmentiulle a el estar sempre * cos traballadores.
+18;B';El;desmentiulle;a;ela;estar;sempre;*;cos traballadores;18;B';subject;mismatch;enfadado;enfadada;masc;fem;desmentiulle;estar;El desmentiulle a ela estar sempre * cos traballadores.
+18;C;Ela;prohibiulle;a;ela;estar;sempre;*;cos traballadores;18;C;object;match;enfadada;enfadado;fem;masc;prohibiulle;estar;Ela prohibiulle a ela estar sempre * cos traballadores.
+18;C';El;prohibiulle;a;el;estar;sempre;*;cos traballadores;18;C';object;match;enfadado;enfadada;masc;fem;prohibiulle;estar;El prohibiulle a el estar sempre * cos traballadores.
+18;D;El;prohibiulle;a;ela;estar;sempre;*;cos traballadores;18;D;object;mismatch;enfadada;enfadado;fem;masc;prohibiulle;estar;El prohibiulle a ela estar sempre * cos traballadores.
+18;D';Ela;prohibiulle;a;el;estar;sempre;*;cos traballadores;18;D';object;mismatch;enfadado;enfadada;masc;fem;prohibiulle;estar;Ela prohibiulle a el estar sempre * cos traballadores.
+19;A;El;xuroulle;a;el;estar;totalmente;*;no proxecto;19;A;subject;match;involucrado;involucrada;masc;fem;xuroulle;estar;El xuroulle a el estar totalmente * no proxecto.
+19;A';Ela;xuroulle;a;ela;estar;totalmente;*;no proxecto;19;A';subject;match;involucrada;involucrado;fem;masc;xuroulle;estar;Ela xuroulle a ela estar totalmente * no proxecto.
+19;B;El;xuroulle;a;ela;estar;totalmente;*;no proxecto;19;B;subject;mismatch;involucrado;involucrada;masc;fem;xuroulle;estar;El xuroulle a ela estar totalmente * no proxecto.
+19;B';Ela;xuroulle;a;el;estar;totalmente;*;no proxecto;19;B';subject;mismatch;involucrada;involucrado;fem;masc;xuroulle;estar;Ela xuroulle a el estar totalmente * no proxecto.
+19;C;El;esixiulle;a;el;estar;totalmente;*;no proxecto;19;C;object;match;involucrado;involucrada;masc;fem;esixiulle;estar;El esixiulle a el estar totalmente * no proxecto.
+19;C';Ela;esixiulle;a;ela;estar;totalmente;*;no proxecto;19;C';object;match;involucrada;involucrado;fem;masc;esixiulle;estar;Ela esixiulle a ela estar totalmente * no proxecto.
+19;D;Ela;esixiulle;a;el;estar;totalmente;*;no proxecto;19;D;object;mismatch;involucrado;involucrada;masc;fem;esixiulle;estar;Ela esixiulle a el estar totalmente * no proxecto.
+19;D';El;esixiulle;a;ela;estar;totalmente;*;no proxecto;19;D';object;mismatch;involucrada;involucrado;fem;masc;esixiulle;estar;El esixiulle a ela estar totalmente * no proxecto.
+20;A;Ela;aseguroulle;a;ela;estar;totalmente;*;á causa;20;A;subject;match;entregada;entregado;fem;masc;aseguroulle;estar;Ela aseguroulle a ela estar totalmente * á causa.
+20;A';El;aseguroulle;a;el;estar;totalmente;*;á causa;20;A';subject;match;entregado;entregada;masc;fem;aseguroulle;estar;El aseguroulle a el estar totalmente * á causa.
+20;B;Ela;aseguroulle;a;el;estar;totalmente;*;á causa;20;B;subject;mismatch;entregada;entregado;fem;masc;aseguroulle;estar;Ela aseguroulle a el estar totalmente * á causa.
+20;B';El;aseguroulle;a;ela;estar;totalmente;*;á causa;20;B';subject;mismatch;entregado;entregada;masc;fem;aseguroulle;estar;El aseguroulle a ela estar totalmente * á causa.
+20;C;Ela;ordenoulle;a;ela;estar;totalmente;*;á causa;20;C;object;match;entregada;entregado;fem;masc;ordenoulle;estar;Ela ordenoulle a ela estar totalmente * á causa.
+20;C';El;ordenoulle;a;el;estar;totalmente;*;á causa;20;C';object;match;entregado;entregada;masc;fem;ordenoulle;estar;El ordenoulle a el estar totalmente * á causa.
+20;D;El;ordenoulle;a;ela;estar;totalmente;*;á causa;20;D;object;mismatch;entregada;entregado;fem;masc;ordenoulle;estar;El ordenoulle a ela estar totalmente * á causa.
+20;D';Ela;ordenoulle;a;el;estar;totalmente;*;á causa;20;D';object;mismatch;entregado;entregada;masc;fem;ordenoulle;estar;Ela ordenoulle a el estar totalmente * á causa.
+21;A;El;confesoulle;a;el;estar;un pouco;*;tralo disgusto;21;A;subject;match;tímido;tímida;masc;fem;confesoulle;estar;El confesoulle a el estar un pouco * tralo disgusto.
+21;A';Ela;confesoulle;a;ela;estar;un pouco;*;tralo disgusto;21;A';subject;match;tímida;tímido;fem;masc;confesoulle;estar;Ela confesoulle a ela estar un pouco * tralo disgusto.
+21;B;El;confesoulle;a;ela;estar;un pouco;*;tralo disgusto;21;B;subject;mismatch;tímido;tímida;masc;fem;confesoulle;estar;El confesoulle a ela estar un pouco * tralo disgusto.
+21;B';Ela;confesoulle;a;el;estar;un pouco;*;tralo disgusto;21;B';subject;mismatch;tímida;tímido;fem;masc;confesoulle;estar;Ela confesoulle a el estar un pouco * tralo disgusto.
+21;C;El;permitiulle;a;el;estar;un pouco;*;tralo disgusto;21;C;object;match;tímido;tímida;masc;fem;permitiulle;estar;El permitiulle a el estar un pouco * tralo disgusto.
+21;C';Ela;permitiulle;a;ela;estar;un pouco;*;tralo disgusto;21;C';object;match;tímida;tímido;fem;masc;permitiulle;estar;Ela permitiulle a ela estar un pouco * tralo disgusto.
+21;D;Ela;permitiulle;a;el;estar;un pouco;*;tralo disgusto;21;D;object;mismatch;tímido;tímida;masc;fem;permitiulle;estar;Ela permitiulle a el estar un pouco * tralo disgusto.
+21;D';El;permitiulle;a;ela;estar;un pouco;*;tralo disgusto;21;D';object;mismatch;tímida;tímido;fem;masc;permitiulle;estar;El permitiulle a ela estar un pouco * tralo disgusto.
+22;A;Ela;expresoulle;a;ela;estar;máis;*;co traballo;22;A;subject;match;ilusionada;ilusionado;fem;masc;expresoulle;estar;Ela expresoulle a ela estar máis * co traballo.
+22;A';El;expresoulle;a;el;estar;máis;*;co traballo;22;A';subject;match;ilusionado;ilusionada;masc;fem;expresoulle;estar;El expresoulle a el estar máis * co traballo.
+22;B;Ela;expresoulle;a;el;estar;máis;*;co traballo;22;B;subject;mismatch;ilusionada;ilusionado;fem;masc;expresoulle;estar;Ela expresoulle a el estar máis * co traballo.
+22;B';El;expresoulle;a;ela;estar;máis;*;co traballo;22;B';subject;mismatch;ilusionado;ilusionada;masc;fem;expresoulle;estar;El expresoulle a ela estar máis * co traballo.
+22;C;Ela;encargoulle;a;ela;estar;máis;*;co traballo;22;C;object;match;ilusionada;ilusionado;fem;masc;encargoulle;estar;Ela encargoulle a ela estar máis * co traballo.
+22;C';El;encargoulle;a;el;estar;máis;*;co traballo;22;C';object;match;ilusionado;ilusionada;masc;fem;encargoulle;estar;El encargoulle a el estar máis * co traballo.
+22;D;El;encargoulle;a;ela;estar;máis;*;co traballo;22;D;object;mismatch;ilusionada;ilusionado;fem;masc;encargoulle;estar;El encargoulle a ela estar máis * co traballo.
+22;D';Ela;encargoulle;a;el;estar;máis;*;co traballo;22;D';object;mismatch;ilusionado;ilusionada;masc;fem;encargoulle;estar;Ela encargoulle a el estar máis * co traballo.
+23;A;El;declaroulle;a;el;estar;máis;*;coa empresa;23;A;subject;match;comprometido;comprometida;masc;fem;declaroulle;estar;El declaroulle a el estar máis * coa empresa.
+23;A';Ela;declaroulle;a;ela;estar;máis;*;coa empresa;23;A';subject;match;comprometida;comprometido;fem;masc;declaroulle;estar;Ela declaroulle a ela estar máis * coa empresa.
+23;B;El;declaroulle;a;ela;estar;máis;*;coa empresa;23;B;subject;mismatch;comprometido;comprometida;masc;fem;declaroulle;estar;El declaroulle a ela estar máis * coa empresa.
+23;B';Ela;declaroulle;a;el;estar;máis;*;coa empresa;23;B';subject;mismatch;comprometida;comprometido;fem;masc;declaroulle;estar;Ela declaroulle a el estar máis * coa empresa.
+23;C;El;mandoulle;a;el;estar;máis;*;coa empresa;23;C;object;match;comprometido;comprometida;masc;fem;mandoulle;estar;El mandoulle a el estar máis * coa empresa.
+23;C';Ela;mandoulle;a;ela;estar;máis;*;coa empresa;23;C';object;match;comprometida;comprometido;fem;masc;mandoulle;estar;Ela mandoulle a ela estar máis * coa empresa.
+23;D;Ela;mandoulle;a;el;estar;máis;*;coa empresa;23;D;object;mismatch;comprometido;comprometida;masc;fem;mandoulle;estar;Ela mandoulle a el estar máis * coa empresa.
+23;D';El;mandoulle;a;ela;estar;máis;*;coa empresa;23;D';object;mismatch;comprometida;comprometido;fem;masc;mandoulle;estar;El mandoulle a ela estar máis * coa empresa.
+24;A;Ela;manifestoulle;a;ela;estar;algo menos;*;na causa;24;A;subject;match;implicada;implicado;fem;masc;manifestoulle;estar;Ela manifestoulle a ela estar algo menos * na causa.
+24;A';El;manifestoulle;a;el;estar;algo menos;*;na causa;24;A';subject;match;implicado;implicada;masc;fem;manifestoulle;estar;El manifestoulle a el estar algo menos * na causa.
+24;B;Ela;manifestoulle;a;el;estar;algo menos;*;na causa;24;B;subject;mismatch;implicada;implicado;fem;masc;manifestoulle;estar;Ela manifestoulle a el estar algo menos * na causa.
+24;B';El;manifestoulle;a;ela;estar;algo menos;*;na causa;24;B';subject;mismatch;implicado;implicada;masc;fem;manifestoulle;estar;El manifestoulle a ela estar algo menos * na causa.
+24;C;Ela;consentiulle;a;ela;estar;algo menos;*;na causa;24;C;object;match;implicada;implicado;fem;masc;consentiulle;estar;Ela consentiulle a ela estar algo menos * na causa.
+24;C';El;consentiulle;a;el;estar;algo menos;*;na causa;24;C';object;match;implicado;implicada;masc;fem;consentiulle;estar;El consentiulle a el estar algo menos * na causa.
+24;D;El;consentiulle;a;ela;estar;algo menos;*;na causa;24;D;object;mismatch;implicada;implicado;fem;masc;consentiulle;estar;El consentiulle a ela estar algo menos * na causa.
+24;D';Ela;consentiulle;a;el;estar;algo menos;*;na causa;24;D';object;mismatch;implicado;implicada;masc;fem;consentiulle;estar;Ela consentiulle a el estar algo menos * na causa.
+25;A;Ela;prometeulle;a;ela;ser;algo máis;*;cos libros;25;A;subject;match;coidadosa;coidadoso;fem;masc;prometeulle;ser;Ela prometeulle a ela ser algo máis * cos libros.
+25;A';El;prometeulle;a;el;ser;algo máis;*;cos libros;25;A';subject;match;coidadoso;coidadosa;masc;fem;prometeulle;ser;El prometeulle a el ser algo máis * cos libros.
+25;B;Ela;prometeulle;a;el;ser;algo máis;*;cos libros;25;B;subject;mismatch;coidadosa;coidadoso;fem;masc;prometeulle;ser;Ela prometeulle a el ser algo máis * cos libros.
+25;B';El;prometeulle;a;ela;ser;algo máis;*;cos libros;25;B';subject;mismatch;coidadoso;coidadosa;masc;fem;prometeulle;ser;El prometeulle a ela ser algo máis * cos libros.
+25;C;Ela;aconselloulle;a;ela;ser;algo máis;*;cos libros;25;C;object;match;coidadosa;coidadoso;fem;masc;aconselloulle;ser;Ela aconselloulle a ela ser algo máis * cos libros.
+25;C';El;aconselloulle;a;el;ser;algo máis;*;cos libros;25;C';object;match;coidadoso;coidadosa;masc;fem;aconselloulle;ser;El aconselloulle a el ser algo máis * cos libros.
+25;D;El;aconselloulle;a;ela;ser;algo máis;*;cos libros;25;D;object;mismatch;coidadosa;coidadoso;fem;masc;aconselloulle;ser;El aconselloulle a ela ser algo máis * cos libros.
+25;D';Ela;aconselloulle;a;el;ser;algo máis;*;cos libros;25;D';object;mismatch;coidadoso;coidadosa;masc;fem;aconselloulle;ser;Ela aconselloulle a el ser algo máis * cos libros.
+26;A;El;recoñeceulle;a;el;ser;moi;*;coas súas amizades;26;A;subject;match;descoidado;descoidada;masc;fem;recoñeceulle;ser;El recoñeceulle a el ser moi * coas súas amizades.
+26;A';Ela;recoñeceulle;a;ela;ser;moi;*;coas súas amizades;26;A';subject;match;descoidada;descoidado;fem;masc;recoñeceulle;ser;Ela recoñeceulle a ela ser moi * coas súas amizades.
+26;B;El;recoñeceulle;a;ela;ser;moi;*;coas súas amizades;26;B;subject;mismatch;descoidado;descoidada;masc;fem;recoñeceulle;ser;El recoñeceulle a ela ser moi * coas súas amizades.
+26;B';Ela;recoñeceulle;a;el;ser;moi;*;coas súas amizades;26;B';subject;mismatch;descoidada;descoidado;fem;masc;recoñeceulle;ser;Ela recoñeceulle a el ser moi * coas súas amizades.
+26;C;El;recriminoulle;a;el;ser;moi;*;coas súas amizades;26;C;object;match;descoidado;descoidada;masc;fem;recriminoulle;ser;El recriminoulle a el ser moi * coas súas amizades.
+26;C';Ela;recriminoulle;a;ela;ser;moi;*;coas súas amizades;26;C';object;match;descoidada;descoidado;fem;masc;recriminoulle;ser;Ela recriminoulle a ela ser moi * coas súas amizades.
+26;D;Ela;recriminoulle;a;el;ser;moi;*;coas súas amizades;26;D;object;mismatch;descoidado;descoidada;masc;fem;recriminoulle;ser;Ela recriminoulle a el ser moi * coas súas amizades.
+26;D';El;recriminoulle;a;ela;ser;moi;*;coas súas amizades;26;D';object;mismatch;descoidada;descoidado;fem;masc;recriminoulle;ser;El recriminoulle a ela ser moi * coas súas amizades.
+27;A;Ela;reveloulle;a;ela;ser;aínda;*;aos antidepresivos;27;A;subject;match;adicta;adicto;fem;masc;reveloulle;ser;Ela reveloulle a ela ser aínda * aos antidepresivos.
+27;A';El;reveloulle;a;el;ser;aínda;*;aos antidepresivos;27;A';subject;match;adicto;adicta;masc;fem;reveloulle;ser;El reveloulle a el ser aínda * aos antidepresivos.
+27;B;Ela;reveloulle;a;el;ser;aínda;*;aos antidepresivos;27;B;subject;mismatch;adicta;adicto;fem;masc;reveloulle;ser;Ela reveloulle a el ser aínda * aos antidepresivos.
+27;B';El;reveloulle;a;ela;ser;aínda;*;aos antidepresivos;27;B';subject;mismatch;adicto;adicta;masc;fem;reveloulle;ser;El reveloulle a ela ser aínda * aos antidepresivos.
+27;C;Ela;reprochoulle;a;ela;ser;aínda;*;aos antidepresivos;27;C;object;match;adicta;adicto;fem;masc;reprochoulle;ser;Ela reprochoulle a ela ser aínda * aos antidepresivos.
+27;C';El;reprochoulle;a;el;ser;aínda;*;aos antidepresivos;27;C';object;match;adicto;adicta;masc;fem;reprochoulle;ser;El reprochoulle a el ser aínda * aos antidepresivos.
+27;D;El;reprochoulle;a;ela;ser;aínda;*;aos antidepresivos;27;D;object;mismatch;adicta;adicto;fem;masc;reprochoulle;ser;El reprochoulle a ela ser aínda * aos antidepresivos.
+27;D';Ela;reprochoulle;a;el;ser;aínda;*;aos antidepresivos;27;D';object;mismatch;adicto;adicta;masc;fem;reprochoulle;ser;Ela reprochoulle a el ser aínda * aos antidepresivos.
+28;A;El;garantizoulle;a;el;ser;absolutamente;*;nas súas anotacións;28;A;subject;match;meticuloso;meticulosa;masc;fem;garantizoulle;ser;El garantizoulle a el ser absolutamente * nas súas anotacións.
+28;A';Ela;garantizoulle;a;ela;ser;absolutamente;*;nas súas anotacións;28;A';subject;match;meticulosa;meticuloso;fem;masc;garantizoulle;ser;Ela garantizoulle a ela ser absolutamente * nas súas anotacións.
+28;B;El;garantizoulle;a;ela;ser;absolutamente;*;nas súas anotacións;28;B;subject;mismatch;meticuloso;meticulosa;masc;fem;garantizoulle;ser;El garantizoulle a ela ser absolutamente * nas súas anotacións.
+28;B';Ela;garantizoulle;a;el;ser;absolutamente;*;nas súas anotacións;28;B';subject;mismatch;meticulosa;meticuloso;fem;masc;garantizoulle;ser;Ela garantizoulle a el ser absolutamente * nas súas anotacións.
+28;C;El;recomendoulle;a;el;ser;absolutamente;*;nas súas anotacións;28;C;object;match;meticuloso;meticulosa;masc;fem;recomendoulle;ser;El recomendoulle a el ser absolutamente * nas súas anotacións.
+28;C';Ela;recomendoulle;a;ela;ser;absolutamente;*;nas súas anotacións;28;C';object;match;meticulosa;meticuloso;fem;masc;recomendoulle;ser;Ela recomendoulle a ela ser absolutamente * nas súas anotacións.
+28;D;Ela;recomendoulle;a;el;ser;absolutamente;*;nas súas anotacións;28;D;object;mismatch;meticuloso;meticulosa;masc;fem;recomendoulle;ser;Ela recomendoulle a el ser absolutamente * nas súas anotacións.
+28;D';El;recomendoulle;a;ela;ser;absolutamente;*;nas súas anotacións;28;D';object;mismatch;meticulosa;meticuloso;fem;masc;recomendoulle;ser;El recomendoulle a ela ser absolutamente * nas súas anotacións.
+29;A;Ela;confirmoulle;a;ela;ser;abertamente;*;da tauromaquia;29;A;subject;match;partidaria;partidario;fem;masc;confirmoulle;ser;Ela confirmoulle a ela ser abertamente * da tauromaquia.
+29;A';El;confirmoulle;a;el;ser;abertamente;*;da tauromaquia;29;A';subject;match;partidario;partidaria;masc;fem;confirmoulle;ser;El confirmoulle a el ser abertamente * da tauromaquia.
+29;B;Ela;confirmoulle;a;el;ser;abertamente;*;da tauromaquia;29;B;subject;mismatch;partidaria;partidario;fem;masc;confirmoulle;ser;Ela confirmoulle a el ser abertamente * da tauromaquia.
+29;B';El;confirmoulle;a;ela;ser;abertamente;*;da tauromaquia;29;B';subject;mismatch;partidario;partidaria;masc;fem;confirmoulle;ser;El confirmoulle a ela ser abertamente * da tauromaquia.
+29;C;Ela;impediulle;a;ela;ser;abertamente;*;da tauromaquia;29;C;object;match;partidaria;partidario;fem;masc;impediulle;ser;Ela impediulle a ela ser abertamente * da tauromaquia.
+29;C';El;impediulle;a;el;ser;abertamente;*;da tauromaquia;29;C';object;match;partidario;partidaria;masc;fem;impediulle;ser;El impediulle a el ser abertamente * da tauromaquia.
+29;D;El;impediulle;a;ela;ser;abertamente;*;da tauromaquia;29;D;object;mismatch;partidaria;partidario;fem;masc;impediulle;ser;El impediulle a ela ser abertamente * da tauromaquia.
+29;D';Ela;impediulle;a;el;ser;abertamente;*;da tauromaquia;29;D';object;mismatch;partidario;partidaria;masc;fem;impediulle;ser;Ela impediulle a el ser abertamente * da tauromaquia.
+30;A;El;desmentiulle;a;el;ser;sempre tan;*;cos visitantes;30;A;subject;match;irrespetuoso;irrespetuosa;masc;fem;desmentiulle;ser;El desmentiulle a el ser sempre tan * cos visitantes.
+30;A';Ela;desmentiulle;a;ela;ser;sempre tan;*;cos visitantes;30;A';subject;match;irrespetuosa;irrespetuoso;fem;masc;desmentiulle;ser;Ela desmentiulle a ela ser sempre tan * cos visitantes.
+30;B;El;desmentiulle;a;ela;ser;sempre tan;*;cos visitantes;30;B;subject;mismatch;irrespetuoso;irrespetuosa;masc;fem;desmentiulle;ser;El desmentiulle a ela ser sempre tan * cos visitantes.
+30;B';Ela;desmentiulle;a;el;ser;sempre tan;*;cos visitantes;30;B';subject;mismatch;irrespetuosa;irrespetuoso;fem;masc;desmentiulle;ser;Ela desmentiulle a el ser sempre tan * cos visitantes.
+30;C;El;prohibiulle;a;el;ser;sempre tan;*;cos visitantes;30;C;object;match;irrespetuoso;irrespetuosa;masc;fem;prohibiulle;ser;El prohibiulle a el ser sempre tan * cos visitantes.
+30;C';Ela;prohibiulle;a;ela;ser;sempre tan;*;cos visitantes;30;C';object;match;irrespetuosa;irrespetuoso;fem;masc;prohibiulle;ser;Ela prohibiulle a ela ser sempre tan * cos visitantes.
+30;D;Ela;prohibiulle;a;el;ser;sempre tan;*;cos visitantes;30;D;object;mismatch;irrespetuoso;irrespetuosa;masc;fem;prohibiulle;ser;Ela prohibiulle a el ser sempre tan * cos visitantes.
+30;D';El;prohibiulle;a;ela;ser;sempre tan;*;cos visitantes;30;D';object;mismatch;irrespetuosa;irrespetuoso;fem;masc;prohibiulle;ser;El prohibiulle a ela ser sempre tan * cos visitantes.
+31;A;Ela;xuroulle;a;ela;ser;sumamente;*;cos pacientes;31;A;subject;match;delicada;delicado;fem;masc;xuroulle;ser;Ela xuroulle a ela ser sumamente * cos pacientes.
+31;A';El;xuroulle;a;el;ser;sumamente;*;cos pacientes;31;A';subject;match;delicado;delicada;masc;fem;xuroulle;ser;El xuroulle a el ser sumamente * cos pacientes.
+31;B;Ela;xuroulle;a;el;ser;sumamente;*;cos pacientes;31;B;subject;mismatch;delicada;delicado;fem;masc;xuroulle;ser;Ela xuroulle a el ser sumamente * cos pacientes.
+31;B';El;xuroulle;a;ela;ser;sumamente;*;cos pacientes;31;B';subject;mismatch;delicado;delicada;masc;fem;xuroulle;ser;El xuroulle a ela ser sumamente * cos pacientes.
+31;C;Ela;esixiulle;a;ela;ser;sumamente;*;cos pacientes;31;C;object;match;delicada;delicado;fem;masc;esixiulle;ser;Ela esixiulle a ela ser sumamente * cos pacientes.
+31;C';El;esixiulle;a;el;ser;sumamente;*;cos pacientes;31;C';object;match;delicado;delicada;masc;fem;esixiulle;ser;El esixiulle a el ser sumamente * cos pacientes.
+31;D;El;esixiulle;a;ela;ser;sumamente;*;cos pacientes;31;D;object;mismatch;delicada;delicado;fem;masc;esixiulle;ser;El esixiulle a ela ser sumamente * cos pacientes.
+31;D';Ela;esixiulle;a;el;ser;sumamente;*;cos pacientes;31;D';object;mismatch;delicado;delicada;masc;fem;esixiulle;ser;Ela esixiulle a el ser sumamente * cos pacientes.
+32;A;El;aseguroulle;a;el;ser;absolutamente;*;coas feridas;32;A;subject;match;pulcro;pulcra;masc;fem;aseguroulle;ser;El aseguroulle a el ser absolutamente * coas feridas.
+32;A';Ela;aseguroulle;a;ela;ser;absolutamente;*;coas feridas;32;A';subject;match;pulcra;pulcro;fem;masc;aseguroulle;ser;Ela aseguroulle a ela ser absolutamente * coas feridas.
+32;B;El;aseguroulle;a;ela;ser;absolutamente;*;coas feridas;32;B;subject;mismatch;pulcro;pulcra;masc;fem;aseguroulle;ser;El aseguroulle a ela ser absolutamente * coas feridas.
+32;B';Ela;aseguroulle;a;el;ser;absolutamente;*;coas feridas;32;B';subject;mismatch;pulcra;pulcro;fem;masc;aseguroulle;ser;Ela aseguroulle a el ser absolutamente * coas feridas.
+32;C;El;ordenoulle;a;el;ser;absolutamente;*;coas feridas;32;C;object;match;pulcro;pulcra;masc;fem;ordenoulle;ser;El ordenoulle a el ser absolutamente * coas feridas.
+32;C';Ela;ordenoulle;a;ela;ser;absolutamente;*;coas feridas;32;C';object;match;pulcra;pulcro;fem;masc;ordenoulle;ser;Ela ordenoulle a ela ser absolutamente * coas feridas.
+32;D;Ela;ordenoulle;a;el;ser;absolutamente;*;coas feridas;32;D;object;mismatch;pulcro;pulcra;masc;fem;ordenoulle;ser;Ela ordenoulle a el ser absolutamente * coas feridas.
+32;D';El;ordenoulle;a;ela;ser;absolutamente;*;coas feridas;32;D';object;mismatch;pulcra;pulcro;fem;masc;ordenoulle;ser;El ordenoulle a ela ser absolutamente * coas feridas.
+33;A;Ela;confesoulle;a;ela;ser;bastante;*;coas notas;33;A;subject;match;xenerosa;xeneroso;fem;masc;confesoulle;ser;Ela confesoulle a ela ser bastante * coas notas.
+33;A';El;confesoulle;a;el;ser;bastante;*;coas notas;33;A';subject;match;xeneroso;xenerosa;masc;fem;confesoulle;ser;El confesoulle a el ser bastante * coas notas.
+33;B;Ela;confesoulle;a;el;ser;bastante;*;coas notas;33;B;subject;mismatch;xenerosa;xeneroso;fem;masc;confesoulle;ser;Ela confesoulle a el ser bastante * coas notas.
+33;B';El;confesoulle;a;ela;ser;bastante;*;coas notas;33;B';subject;mismatch;xeneroso;xenerosa;masc;fem;confesoulle;ser;El confesoulle a ela ser bastante * coas notas.
+33;C;Ela;permitiulle;a;ela;ser;bastante;*;coas notas;33;C;object;match;xenerosa;xeneroso;fem;masc;permitiulle;ser;Ela permitiulle a ela ser bastante * coas notas.
+33;C';El;permitiulle;a;el;ser;bastante;*;coas notas;33;C';object;match;xeneroso;xenerosa;masc;fem;permitiulle;ser;El permitiulle a el ser bastante * coas notas.
+33;D;El;permitiulle;a;ela;ser;bastante;*;coas notas;33;D;object;mismatch;xenerosa;xeneroso;fem;masc;permitiulle;ser;El permitiulle a ela ser bastante * coas notas.
+33;D';Ela;permitiulle;a;el;ser;bastante;*;coas notas;33;D';object;mismatch;xeneroso;xenerosa;masc;fem;permitiulle;ser;Ela permitiulle a el ser bastante * coas notas.
+34;A;El;expresoulle;a;el;ser;totalmente;*;na xestión;34;A;subject;match;autónomo;autónoma;masc;fem;expresoulle;ser;El expresoulle a el ser totalmente * na xestión.
+34;A';Ela;expresoulle;a;ela;ser;totalmente;*;na xestión;34;A';subject;match;autónoma;autónomo;fem;masc;expresoulle;ser;Ela expresoulle a ela ser totalmente * na xestión.
+34;B;El;expresoulle;a;ela;ser;totalmente;*;na xestión;34;B;subject;mismatch;autónomo;autónoma;masc;fem;expresoulle;ser;El expresoulle a ela ser totalmente * na xestión.
+34;B';Ela;expresoulle;a;el;ser;totalmente;*;na xestión;34;B';subject;mismatch;autónoma;autónomo;fem;masc;expresoulle;ser;Ela expresoulle a el ser totalmente * na xestión.
+34;C;El;encargoulle;a;el;ser;totalmente;*;na xestión;34;C;object;match;autónomo;autónoma;masc;fem;encargoulle;ser;El encargoulle a el ser totalmente * na xestión.
+34;C';Ela;encargoulle;a;ela;ser;totalmente;*;na xestión;34;C';object;match;autónoma;autónomo;fem;masc;encargoulle;ser;Ela encargoulle a ela ser totalmente * na xestión.
+34;D;Ela;encargoulle;a;el;ser;totalmente;*;na xestión;34;D;object;mismatch;autónomo;autónoma;masc;fem;encargoulle;ser;Ela encargoulle a el ser totalmente * na xestión.
+34;D';El;encargoulle;a;ela;ser;totalmente;*;na xestión;34;D';object;mismatch;autónoma;autónomo;fem;masc;encargoulle;ser;El encargoulle a ela ser totalmente * na xestión.
+35;A;Ela;declaroulle;a;ela;ser;sumamente;*;no cargo;35;A;subject;match;honrada;honrado;fem;masc;declaroulle;ser;Ela declaroulle a ela ser sumamente * no cargo.
+35;A';El;declaroulle;a;el;ser;sumamente;*;no cargo;35;A';subject;match;honrado;honrada;masc;fem;declaroulle;ser;El declaroulle a el ser sumamente * no cargo.
+35;B;Ela;declaroulle;a;el;ser;sumamente;*;no cargo;35;B;subject;mismatch;honrada;honrado;fem;masc;declaroulle;ser;Ela declaroulle a el ser sumamente * no cargo.
+35;B';El;declaroulle;a;ela;ser;sumamente;*;no cargo;35;B';subject;mismatch;honrado;honrada;masc;fem;declaroulle;ser;El declaroulle a ela ser sumamente * no cargo.
+35;C;Ela;mandoulle;a;ela;ser;sumamente;*;no cargo;35;C;object;match;honrada;honrado;fem;masc;mandoulle;ser;Ela mandoulle a ela ser sumamente * no cargo.
+35;C';El;mandoulle;a;el;ser;sumamente;*;no cargo;35;C';object;match;honrado;honrada;masc;fem;mandoulle;ser;El mandoulle a el ser sumamente * no cargo.
+35;D;El;mandoulle;a;ela;ser;sumamente;*;no cargo;35;D;object;mismatch;honrada;honrado;fem;masc;mandoulle;ser;El mandoulle a ela ser sumamente * no cargo.
+35;D';Ela;mandoulle;a;el;ser;sumamente;*;no cargo;35;D';object;mismatch;honrado;honrada;masc;fem;mandoulle;ser;Ela mandoulle a el ser sumamente * no cargo.
+36;A;El;manifestoulle;a;el;ser;un pouco;*;coas normas;36;A;subject;match;anárquico;anárquica;masc;fem;manifestoulle;ser;El manifestoulle a el ser un pouco * coas normas.
+36;A';Ela;manifestoulle;a;ela;ser;un pouco;*;coas normas;36;A';subject;match;anárquica;anárquico;fem;masc;manifestoulle;ser;Ela manifestoulle a ela ser un pouco * coas normas.
+36;B;El;manifestoulle;a;ela;ser;un pouco;*;coas normas;36;B;subject;mismatch;anárquico;anárquica;masc;fem;manifestoulle;ser;El manifestoulle a ela ser un pouco * coas normas.
+36;B';Ela;manifestoulle;a;el;ser;un pouco;*;coas normas;36;B';subject;mismatch;anárquica;anárquico;fem;masc;manifestoulle;ser;Ela manifestoulle a el ser un pouco * coas normas.
+36;C;El;consentiulle;a;el;ser;un pouco;*;coas normas;36;C;object;match;anárquico;anárquica;masc;fem;consentiulle;ser;El consentiulle a el ser un pouco * coas normas.
+36;C';Ela;consentiulle;a;ela;ser;un pouco;*;coas normas;36;C';object;match;anárquica;anárquico;fem;masc;consentiulle;ser;Ela consentiulle a ela ser un pouco * coas normas.
+36;D;Ela;consentiulle;a;el;ser;un pouco;*;coas normas;36;D;object;mismatch;anárquico;anárquica;masc;fem;consentiulle;ser;Ela consentiulle a el ser un pouco * coas normas.
+36;D';El;consentiulle;a;ela;ser;un pouco;*;coas normas;36;D';object;mismatch;anárquica;anárquico;fem;masc;consentiulle;ser;El consentiulle a ela ser un pouco * coas normas.
+37;A;El;prometeulle;a;el;estar;máis;*;pola salud;37;A;subject;match;preocupado;preocupada;masc;fem;prometeulle;estar;El prometeulle a el estar máis * pola salud.
+37;A';Ela;prometeulle;a;ela;estar;máis;*;pola salud;37;A';subject;match;preocupada;preocupado;fem;masc;prometeulle;estar;Ela prometeulle a ela estar máis * pola salud.
+37;B;El;prometeulle;a;ela;estar;máis;*;pola salud;37;B;subject;mismatch;preocupado;preocupada;masc;fem;prometeulle;estar;El prometeulle a ela estar máis * pola salud.
+37;B';Ela;prometeulle;a;el;estar;máis;*;pola salud;37;B';subject;mismatch;preocupada;preocupado;fem;masc;prometeulle;estar;Ela prometeulle a el estar máis * pola salud.
+37;C;El;aconselloulle;a;el;estar;máis;*;pola salud;37;C;object;match;preocupado;preocupada;masc;fem;aconselloulle;estar;El aconselloulle a el estar máis * pola salud.
+37;C';Ela;aconselloulle;a;ela;estar;máis;*;pola salud;37;C';object;match;preocupada;preocupado;fem;masc;aconselloulle;estar;Ela aconselloulle a ela estar máis * pola salud.
+37;D;Ela;aconselloulle;a;el;estar;máis;*;pola salud;37;D;object;mismatch;preocupado;preocupada;masc;fem;aconselloulle;estar;Ela aconselloulle a el estar máis * pola salud.
+37;D';El;aconselloulle;a;ela;estar;máis;*;pola salud;37;D';object;mismatch;preocupada;preocupado;fem;masc;aconselloulle;estar;El aconselloulle a ela estar máis * pola salud.
+38;A;Ela;recoñeceulle;a;ela;estar;moi pouco;*;na política;38;A;subject;match;interesada;interesado;fem;masc;recoñeceulle;estar;Ela recoñeceulle a ela estar moi pouco * na política.
+38;A';El;recoñeceulle;a;el;estar;moi pouco;*;na política;38;A';subject;match;interesado;interesada;masc;fem;recoñeceulle;estar;El recoñeceulle a el estar moi pouco * na política.
+38;B;Ela;recoñeceulle;a;el;estar;moi pouco;*;na política;38;B;subject;mismatch;interesada;interesado;fem;masc;recoñeceulle;estar;Ela recoñeceulle a el estar moi pouco * na política.
+38;B';El;recoñeceulle;a;ela;estar;moi pouco;*;na política;38;B';subject;mismatch;interesado;interesada;masc;fem;recoñeceulle;estar;El recoñeceulle a ela estar moi pouco * na política.
+38;C;Ela;recriminoulle;a;ela;estar;moi pouco;*;na política;38;C;object;match;interesada;interesado;fem;masc;recriminoulle;estar;Ela recriminoulle a ela estar moi pouco * na política.
+38;C';El;recriminoulle;a;el;estar;moi pouco;*;na política;38;C';object;match;interesado;interesada;masc;fem;recriminoulle;estar;El recriminoulle a el estar moi pouco * na política.
+38;D;El;recriminoulle;a;ela;estar;moi pouco;*;na política;38;D;object;mismatch;interesada;interesado;fem;masc;recriminoulle;estar;El recriminoulle a ela estar moi pouco * na política.
+38;D';Ela;recriminoulle;a;el;estar;moi pouco;*;na política;38;D';object;mismatch;interesado;interesada;masc;fem;recriminoulle;estar;Ela recriminoulle a el estar moi pouco * na política.
+39;A;El;reveloulle;a;el;estar;aínda;*;pola ruptura;39;A;subject;match;deprimido;deprimida;masc;fem;reveloulle;estar;El reveloulle a el estar aínda * pola ruptura.
+39;A';Ela;reveloulle;a;ela;estar;aínda;*;pola ruptura;39;A';subject;match;deprimida;deprimido;fem;masc;reveloulle;estar;Ela reveloulle a ela estar aínda * pola ruptura.
+39;B;El;reveloulle;a;ela;estar;aínda;*;pola ruptura;39;B;subject;mismatch;deprimido;deprimida;masc;fem;reveloulle;estar;El reveloulle a ela estar aínda * pola ruptura.
+39;B';Ela;reveloulle;a;el;estar;aínda;*;pola ruptura;39;B';subject;mismatch;deprimida;deprimido;fem;masc;reveloulle;estar;Ela reveloulle a el estar aínda * pola ruptura.
+39;C;El;reprochoulle;a;el;estar;aínda;*;pola ruptura;39;C;object;match;deprimido;deprimida;masc;fem;reprochoulle;estar;El reprochoulle a el estar aínda * pola ruptura.
+39;C';Ela;reprochoulle;a;ela;estar;aínda;*;pola ruptura;39;C';object;match;deprimida;deprimido;fem;masc;reprochoulle;estar;Ela reprochoulle a ela estar aínda * pola ruptura.
+39;D;Ela;reprochoulle;a;el;estar;aínda;*;pola ruptura;39;D;object;mismatch;deprimido;deprimida;masc;fem;reprochoulle;estar;Ela reprochoulle a el estar aínda * pola ruptura.
+39;D';El;reprochoulle;a;ela;estar;aínda;*;pola ruptura;39;D';object;mismatch;deprimida;deprimido;fem;masc;reprochoulle;estar;El reprochoulle a ela estar aínda * pola ruptura.
+40;A;Ela;garantizoulle;a;ela;estar;menos;*;no debate;40;A;subject;match;agresiva;agresivo;fem;masc;garantizoulle;estar;Ela garantizoulle a ela estar menos * no debate.
+40;A';El;garantizoulle;a;el;estar;menos;*;no debate;40;A';subject;match;agresivo;agresiva;masc;fem;garantizoulle;estar;El garantizoulle a el estar menos * no debate.
+40;B;Ela;garantizoulle;a;el;estar;menos;*;no debate;40;B;subject;mismatch;agresiva;agresivo;fem;masc;garantizoulle;estar;Ela garantizoulle a el estar menos * no debate.
+40;B';El;garantizoulle;a;ela;estar;menos;*;no debate;40;B';subject;mismatch;agresivo;agresiva;masc;fem;garantizoulle;estar;El garantizoulle a ela estar menos * no debate.
+40;C;Ela;recomendoulle;a;ela;estar;menos;*;no debate;40;C;object;match;agresiva;agresivo;fem;masc;recomendoulle;estar;Ela recomendoulle a ela estar menos * no debate.
+40;C';El;recomendoulle;a;el;estar;menos;*;no debate;40;C';object;match;agresivo;agresiva;masc;fem;recomendoulle;estar;El recomendoulle a el estar menos * no debate.
+40;D;El;recomendoulle;a;ela;estar;menos;*;no debate;40;D;object;mismatch;agresiva;agresivo;fem;masc;recomendoulle;estar;El recomendoulle a ela estar menos * no debate.
+40;D';Ela;recomendoulle;a;el;estar;menos;*;no debate;40;D';object;mismatch;agresivo;agresiva;masc;fem;recomendoulle;estar;Ela recomendoulle a el estar menos * no debate.
+41;A;El;confirmoulle;a;el;estar;aínda;*;polas críticas;41;A;subject;match;doído;doída;masc;fem;confirmoulle;estar;El confirmoulle a el estar aínda * polas críticas.
+41;A';Ela;confirmoulle;a;ela;estar;aínda;*;polas críticas;41;A';subject;match;doída;doído;fem;masc;confirmoulle;estar;Ela confirmoulle a ela estar aínda * polas críticas.
+41;B;El;confirmoulle;a;ela;estar;aínda;*;polas críticas;41;B;subject;mismatch;doído;doída;masc;fem;confirmoulle;estar;El confirmoulle a ela estar aínda * polas críticas.
+41;B';Ela;confirmoulle;a;el;estar;aínda;*;polas críticas;41;B';subject;mismatch;doída;doído;fem;masc;confirmoulle;estar;Ela confirmoulle a el estar aínda * polas críticas.
+41;C;El;impediulle;a;el;estar;aínda;*;polas críticas;41;C;object;match;doído;doída;masc;fem;impediulle;estar;El impediulle a el estar aínda * polas críticas.
+41;C';Ela;impediulle;a;ela;estar;aínda;*;polas críticas;41;C';object;match;doída;doído;fem;masc;impediulle;estar;Ela impediulle a ela estar aínda * polas críticas.
+41;D;Ela;impediulle;a;el;estar;aínda;*;polas críticas;41;D;object;mismatch;doído;doída;masc;fem;impediulle;estar;Ela impediulle a el estar aínda * polas críticas.
+41;D';El;impediulle;a;ela;estar;aínda;*;polas críticas;41;D';object;mismatch;doída;doído;fem;masc;impediulle;estar;El impediulle a ela estar aínda * polas críticas.
+42;A;Ela;desmentiulle;a;ela;estar;sempre;*;cos resultados;42;A;subject;match;descontenta;descontento;fem;masc;desmentiulle;estar;Ela desmentiulle a ela estar sempre * cos resultados.
+42;A';El;desmentiulle;a;el;estar;sempre;*;cos resultados;42;A';subject;match;descontento;descontenta;masc;fem;desmentiulle;estar;El desmentiulle a el estar sempre * cos resultados.
+42;B;Ela;desmentiulle;a;el;estar;sempre;*;cos resultados;42;B;subject;mismatch;descontenta;descontento;fem;masc;desmentiulle;estar;Ela desmentiulle a el estar sempre * cos resultados.
+42;B';El;desmentiulle;a;ela;estar;sempre;*;cos resultados;42;B';subject;mismatch;descontento;descontenta;masc;fem;desmentiulle;estar;El desmentiulle a ela estar sempre * cos resultados.
+42;C;Ela;prohibiulle;a;ela;estar;sempre;*;cos resultados;42;C;object;match;descontenta;descontento;fem;masc;prohibiulle;estar;Ela prohibiulle a ela estar sempre * cos resultados.
+42;C';El;prohibiulle;a;el;estar;sempre;*;cos resultados;42;C';object;match;descontento;descontenta;masc;fem;prohibiulle;estar;El prohibiulle a el estar sempre * cos resultados.
+42;D;El;prohibiulle;a;ela;estar;sempre;*;cos resultados;42;D;object;mismatch;descontenta;descontento;fem;masc;prohibiulle;estar;El prohibiulle a ela estar sempre * cos resultados.
+42;D';Ela;prohibiulle;a;el;estar;sempre;*;cos resultados;42;D';object;mismatch;descontento;descontenta;masc;fem;prohibiulle;estar;Ela prohibiulle a el estar sempre * cos resultados.
+43;A;El;xuroulle;a;el;estar;moito máis;*;co medioambiente;43;A;subject;match;concienciado;concienciada;masc;fem;xuroulle;estar;El xuroulle a el estar moito máis * co medioambiente.
+43;A';Ela;xuroulle;a;ela;estar;moito máis;*;co medioambiente;43;A';subject;match;concienciada;concienciado;fem;masc;xuroulle;estar;Ela xuroulle a ela estar moito máis * co medioambiente.
+43;B;El;xuroulle;a;ela;estar;moito máis;*;co medioambiente;43;B;subject;mismatch;concienciado;concienciada;masc;fem;xuroulle;estar;El xuroulle a ela estar moito máis * co medioambiente.
+43;B';Ela;xuroulle;a;el;estar;moito máis;*;co medioambiente;43;B';subject;mismatch;concienciada;concienciado;fem;masc;xuroulle;estar;Ela xuroulle a el estar moito máis * co medioambiente.
+43;C;El;esixiulle;a;el;estar;moito máis;*;co medioambiente;43;C;object;match;concienciado;concienciada;masc;fem;esixiulle;estar;El esixiulle a el estar moito máis * co medioambiente.
+43;C';Ela;esixiulle;a;ela;estar;moito máis;*;co medioambiente;43;C';object;match;concienciada;concienciado;fem;masc;esixiulle;estar;Ela esixiulle a ela estar moito máis * co medioambiente.
+43;D;Ela;esixiulle;a;el;estar;moito máis;*;co medioambiente;43;D;object;mismatch;concienciado;concienciada;masc;fem;esixiulle;estar;Ela esixiulle a el estar moito máis * co medioambiente.
+43;D';El;esixiulle;a;ela;estar;moito máis;*;co medioambiente;43;D';object;mismatch;concienciada;concienciado;fem;masc;esixiulle;estar;El esixiulle a ela estar moito máis * co medioambiente.
+44;A;Ela;aseguroulle;a;ela;estar;totalmente;*;nos obxectivos;44;A;subject;match;centrada;centrado;fem;masc;aseguroulle;estar;Ela aseguroulle a ela estar totalmente * nos obxectivos.
+44;A';El;aseguroulle;a;el;estar;totalmente;*;nos obxectivos;44;A';subject;match;centrado;centrada;masc;fem;aseguroulle;estar;El aseguroulle a el estar totalmente * nos obxectivos.
+44;B;Ela;aseguroulle;a;el;estar;totalmente;*;nos obxectivos;44;B;subject;mismatch;centrada;centrado;fem;masc;aseguroulle;estar;Ela aseguroulle a el estar totalmente * nos obxectivos.
+44;B';El;aseguroulle;a;ela;estar;totalmente;*;nos obxectivos;44;B';subject;mismatch;centrado;centrada;masc;fem;aseguroulle;estar;El aseguroulle a ela estar totalmente * nos obxectivos.
+44;C;Ela;ordenoulle;a;ela;estar;totalmente;*;nos obxectivos;44;C;object;match;centrada;centrado;fem;masc;ordenoulle;estar;Ela ordenoulle a ela estar totalmente * nos obxectivos.
+44;C';El;ordenoulle;a;el;estar;totalmente;*;nos obxectivos;44;C';object;match;centrado;centrada;masc;fem;ordenoulle;estar;El ordenoulle a el estar totalmente * nos obxectivos.
+44;D;El;ordenoulle;a;ela;estar;totalmente;*;nos obxectivos;44;D;object;mismatch;centrada;centrado;fem;masc;ordenoulle;estar;El ordenoulle a ela estar totalmente * nos obxectivos.
+44;D';Ela;ordenoulle;a;el;estar;totalmente;*;nos obxectivos;44;D';object;mismatch;centrado;centrada;masc;fem;ordenoulle;estar;Ela ordenoulle a el estar totalmente * nos obxectivos.
+45;A;El;confesoulle;a;el;estar;un pouco;*;ante as críticas;45;A;subject;match;ofendido;ofendida;masc;fem;confesoulle;estar;El confesoulle a el estar un pouco * ante as críticas.
+45;A';Ela;confesoulle;a;ela;estar;un pouco;*;ante as críticas;45;A';subject;match;ofendida;ofendido;fem;masc;confesoulle;estar;Ela confesoulle a ela estar un pouco * ante as críticas.
+45;B;El;confesoulle;a;ela;estar;un pouco;*;ante as críticas;45;B;subject;mismatch;ofendido;ofendida;masc;fem;confesoulle;estar;El confesoulle a ela estar un pouco * ante as críticas.
+45;B';Ela;confesoulle;a;el;estar;un pouco;*;ante as críticas;45;B';subject;mismatch;ofendida;ofendido;fem;masc;confesoulle;estar;Ela confesoulle a el estar un pouco * ante as críticas.
+45;C;El;permitiulle;a;el;estar;un pouco;*;ante as críticas;45;C;object;match;ofendido;ofendida;masc;fem;permitiulle;estar;El permitiulle a el estar un pouco * ante as críticas.
+45;C';Ela;permitiulle;a;ela;estar;un pouco;*;ante as críticas;45;C';object;match;ofendida;ofendido;fem;masc;permitiulle;estar;Ela permitiulle a ela estar un pouco * ante as críticas.
+45;D;Ela;permitiulle;a;el;estar;un pouco;*;ante as críticas;45;D;object;mismatch;ofendido;ofendida;masc;fem;permitiulle;estar;Ela permitiulle a el estar un pouco * ante as críticas.
+45;D';El;permitiulle;a;ela;estar;un pouco;*;ante as críticas;45;D';object;mismatch;ofendida;ofendido;fem;masc;permitiulle;estar;El permitiulle a ela estar un pouco * ante as críticas.
+46;A;Ela;expresoulle;a;ela;estar;máis;*;tralas vacacións;46;A;subject;match;tranquila;tranquilo;fem;masc;expresoulle;estar;Ela expresoulle a ela estar máis * tralas vacacións.
+46;A';El;expresoulle;a;el;estar;máis;*;tralas vacacións;46;A';subject;match;tranquilo;tranquila;masc;fem;expresoulle;estar;El expresoulle a el estar máis * tralas vacacións.
+46;B;Ela;expresoulle;a;el;estar;máis;*;tralas vacacións;46;B;subject;mismatch;tranquila;tranquilo;fem;masc;expresoulle;estar;Ela expresoulle a el estar máis * tralas vacacións.
+46;B';El;expresoulle;a;ela;estar;máis;*;tralas vacacións;46;B';subject;mismatch;tranquilo;tranquila;masc;fem;expresoulle;estar;El expresoulle a ela estar máis * tralas vacacións.
+46;C;Ela;encargoulle;a;ela;estar;máis;*;tralas vacacións;46;C;object;match;tranquila;tranquilo;fem;masc;encargoulle;estar;Ela encargoulle a ela estar máis * tralas vacacións.
+46;C';El;encargoulle;a;el;estar;máis;*;tralas vacacións;46;C';object;match;tranquilo;tranquila;masc;fem;encargoulle;estar;El encargoulle a el estar máis * tralas vacacións.
+46;D;El;encargoulle;a;ela;estar;máis;*;tralas vacacións;46;D;object;mismatch;tranquila;tranquilo;fem;masc;encargoulle;estar;El encargoulle a ela estar máis * tralas vacacións.
+46;D';Ela;encargoulle;a;el;estar;máis;*;tralas vacacións;46;D';object;mismatch;tranquilo;tranquila;masc;fem;encargoulle;estar;Ela encargoulle a el estar máis * tralas vacacións.
+47;A;El;declaroulle;a;el;estar;absolutamente;*;das mentiras;47;A;subject;match;arrepentido;arrepentida;masc;fem;declaroulle;estar;El declaroulle a el estar absolutamente * das mentiras.
+47;A';Ela;declaroulle;a;ela;estar;absolutamente;*;das mentiras;47;A';subject;match;arrepentida;arrepentido;fem;masc;declaroulle;estar;Ela declaroulle a ela estar absolutamente * das mentiras.
+47;B;El;declaroulle;a;ela;estar;absolutamente;*;das mentiras;47;B;subject;mismatch;arrepentido;arrepentida;masc;fem;declaroulle;estar;El declaroulle a ela estar absolutamente * das mentiras.
+47;B';Ela;declaroulle;a;el;estar;absolutamente;*;das mentiras;47;B';subject;mismatch;arrepentida;arrepentido;fem;masc;declaroulle;estar;Ela declaroulle a el estar absolutamente * das mentiras.
+47;C;El;mandoulle;a;el;estar;absolutamente;*;das mentiras;47;C;object;match;arrepentido;arrepentida;masc;fem;mandoulle;estar;El mandoulle a el estar absolutamente * das mentiras.
+47;C';Ela;mandoulle;a;ela;estar;absolutamente;*;das mentiras;47;C';object;match;arrepentida;arrepentido;fem;masc;mandoulle;estar;Ela mandoulle a ela estar absolutamente * das mentiras.
+47;D;Ela;mandoulle;a;el;estar;absolutamente;*;das mentiras;47;D;object;mismatch;arrepentido;arrepentida;masc;fem;mandoulle;estar;Ela mandoulle a el estar absolutamente * das mentiras.
+47;D';El;mandoulle;a;ela;estar;absolutamente;*;das mentiras;47;D';object;mismatch;arrepentida;arrepentido;fem;masc;mandoulle;estar;El mandoulle a ela estar absolutamente * das mentiras.
+48;A;Ela;manifestoulle;a;ela;estar;lixeiramente;*;coa situación;48;A;subject;match;molesta;molesto;fem;masc;manifestoulle;estar;Ela manifestoulle a ela estar lixeiramente * coa situación.
+48;A';El;manifestoulle;a;el;estar;lixeiramente;*;coa situación;48;A';subject;match;molesto;molesta;masc;fem;manifestoulle;estar;El manifestoulle a el estar lixeiramente * coa situación.
+48;B;Ela;manifestoulle;a;el;estar;lixeiramente;*;coa situación;48;B;subject;mismatch;molesta;molesto;fem;masc;manifestoulle;estar;Ela manifestoulle a el estar lixeiramente * coa situación.
+48;B';El;manifestoulle;a;ela;estar;lixeiramente;*;coa situación;48;B';subject;mismatch;molesto;molesta;masc;fem;manifestoulle;estar;El manifestoulle a ela estar lixeiramente * coa situación.
+48;C;Ela;consentiulle;a;ela;estar;lixeiramente;*;coa situación;48;C;object;match;molesta;molesto;fem;masc;consentiulle;estar;Ela consentiulle a ela estar lixeiramente * coa situación.
+48;C';El;consentiulle;a;el;estar;lixeiramente;*;coa situación;48;C';object;match;molesto;molesta;masc;fem;consentiulle;estar;El consentiulle a el estar lixeiramente * coa situación.
+48;D;El;consentiulle;a;ela;estar;lixeiramente;*;coa situación;48;D;object;mismatch;molesta;molesto;fem;masc;consentiulle;estar;El consentiulle a ela estar lixeiramente * coa situación.
+48;D';Ela;consentiulle;a;el;estar;lixeiramente;*;coa situación;48;D';object;mismatch;molesto;molesta;masc;fem;consentiulle;estar;Ela consentiulle a el estar lixeiramente * coa situación.
+49;A;Ela;reveloulle;a;ela;estar;así de;*;polo sucedido;49;A;subject;match;indignada;indignado;fem;masc;reveloulle;estar;Ela reveloulle a ela estar así de * polo sucedido.
+49;A';El;reveloulle;a;el;estar;así de;*;polo sucedido;49;A';subject;match;indignado;indignada;masc;fem;reveloulle;estar;El reveloulle a el estar así de * polo sucedido.
+49;B;Ela;reveloulle;a;el;estar;así de;*;polo sucedido;49;B;subject;mismatch;indignada;indignado;fem;masc;reveloulle;estar;Ela reveloulle a el estar así de * polo sucedido.
+49;B';El;reveloulle;a;ela;estar;así de;*;polo sucedido;49;B';subject;mismatch;indignado;indignada;masc;fem;reveloulle;estar;El reveloulle a ela estar así de * polo sucedido.
+49;C;Ela;impediulle;a;ela;estar;así de;*;polo sucedido;49;C;object;match;indignada;indignado;fem;masc;impediulle;estar;Ela impediulle a ela estar así de * polo sucedido.
+49;C';El;impediulle;a;el;estar;así de;*;polo sucedido;49;C';object;match;indignado;indignada;masc;fem;impediulle;estar;El impediulle a el estar así de * polo sucedido.
+49;D;El;impediulle;a;ela;estar;así de;*;polo sucedido;49;D;object;mismatch;indignada;indignado;fem;masc;impediulle;estar;El impediulle a ela estar así de * polo sucedido.
+49;D';Ela;impediulle;a;el;estar;así de;*;polo sucedido;49;D';object;mismatch;indignado;indignada;masc;fem;impediulle;estar;Ela impediulle a el estar así de * polo sucedido.
+50;A;El;aseguroulle;a;el;estar;un pouco;*;tralo incidente;50;A;subject;match;cohibido;cohibida;masc;fem;aseguroulle;estar;El aseguroulle a el estar un pouco * tralo incidente.
+50;A';Ela;aseguroulle;a;ela;estar;un pouco;*;tralo incidente;50;A';subject;match;cohibida;cohibido;fem;masc;aseguroulle;estar;Ela aseguroulle a ela estar un pouco * tralo incidente.
+50;B;El;aseguroulle;a;ela;estar;un pouco;*;tralo incidente;50;B;subject;mismatch;cohibido;cohibida;masc;fem;aseguroulle;estar;El aseguroulle a ela estar un pouco * tralo incidente.
+50;B';Ela;aseguroulle;a;el;estar;un pouco;*;tralo incidente;50;B';subject;mismatch;cohibida;cohibido;fem;masc;aseguroulle;estar;Ela aseguroulle a el estar un pouco * tralo incidente.
+50;C;El;consentiulle;a;el;estar;un pouco;*;tralo incidente;50;C;object;match;cohibido;cohibida;masc;fem;consentiulle;estar;El consentiulle a el estar un pouco * tralo incidente.
+50;C';Ela;consentiulle;a;ela;estar;un pouco;*;tralo incidente;50;C';object;match;cohibida;cohibido;fem;masc;consentiulle;estar;Ela consentiulle a ela estar un pouco * tralo incidente.
+50;D;Ela;consentiulle;a;el;estar;un pouco;*;tralo incidente;50;D;object;mismatch;cohibido;cohibida;masc;fem;consentiulle;estar;Ela consentiulle a el estar un pouco * tralo incidente.
+50;D';El;consentiulle;a;ela;estar;un pouco;*;tralo incidente;50;D';object;mismatch;cohibida;cohibido;fem;masc;consentiulle;estar;El consentiulle a ela estar un pouco * tralo incidente.
+51;A;Ela;confesoulle;a;ela;estar;un pouco;*;cos estudios;51;A;subject;match;relaxada;relaxado;fem;masc;confesoulle;estar;Ela confesoulle a ela estar un pouco * cos estudios.
+51;A';El;confesoulle;a;el;estar;un pouco;*;cos estudios;51;A';subject;match;relaxado;relaxada;masc;fem;confesoulle;estar;El confesoulle a el estar un pouco * cos estudios.
+51;B;Ela;confesoulle;a;el;estar;un pouco;*;cos estudios;51;B;subject;mismatch;relaxada;relaxado;fem;masc;confesoulle;estar;Ela confesoulle a el estar un pouco * cos estudios.
+51;B';El;confesoulle;a;ela;estar;un pouco;*;cos estudios;51;B';subject;mismatch;relaxado;relaxada;masc;fem;confesoulle;estar;El confesoulle a ela estar un pouco * cos estudios.
+51;C;Ela;permitiulle;a;ela;estar;un pouco;*;cos estudios;51;C;object;match;relaxada;relaxado;fem;masc;permitiulle;estar;Ela permitiulle a ela estar un pouco * cos estudios.
+51;C';El;permitiulle;a;el;estar;un pouco;*;cos estudios;51;C';object;match;relaxado;relaxada;masc;fem;permitiulle;estar;El permitiulle a el estar un pouco * cos estudios.
+51;D;El;permitiulle;a;ela;estar;un pouco;*;cos estudios;51;D;object;mismatch;relaxada;relaxado;fem;masc;permitiulle;estar;El permitiulle a ela estar un pouco * cos estudios.
+51;D';Ela;permitiulle;a;el;estar;un pouco;*;cos estudios;51;D';object;mismatch;relaxado;relaxada;masc;fem;permitiulle;estar;Ela permitiulle a el estar un pouco * cos estudios.
+52;A;El;manifestoulle;a;el;estar;moi;*;pola visita;52;A;subject;match;ansioso;ansiosa;masc;fem;manifestoulle;estar;El manifestoulle a el estar moi * pola visita.
+52;A';Ela;manifestoulle;a;ela;estar;moi;*;pola visita;52;A';subject;match;ansiosa;ansioso;fem;masc;manifestoulle;estar;Ela manifestoulle a ela estar moi * pola visita.
+52;B;El;manifestoulle;a;ela;estar;moi;*;pola visita;52;B;subject;mismatch;ansioso;ansiosa;masc;fem;manifestoulle;estar;El manifestoulle a ela estar moi * pola visita.
+52;B';Ela;manifestoulle;a;el;estar;moi;*;pola visita;52;B';subject;mismatch;ansiosa;ansioso;fem;masc;manifestoulle;estar;Ela manifestoulle a el estar moi * pola visita.
+52;C;El;recriminoulle;a;el;estar;moi;*;pola visita;52;C;object;match;ansioso;ansiosa;masc;fem;recriminoulle;estar;El recriminoulle a el estar moi * pola visita.
+52;C';Ela;recriminoulle;a;ela;estar;moi;*;pola visita;52;C';object;match;ansiosa;ansioso;fem;masc;recriminoulle;estar;Ela recriminoulle a ela estar moi * pola visita.
+52;D;Ela;recriminoulle;a;el;estar;moi;*;pola visita;52;D;object;mismatch;ansioso;ansiosa;masc;fem;recriminoulle;estar;Ela recriminoulle a el estar moi * pola visita.
+52;D';El;recriminoulle;a;ela;estar;moi;*;pola visita;52;D';object;mismatch;ansiosa;ansioso;fem;masc;recriminoulle;estar;El recriminoulle a ela estar moi * pola visita.
+53;A;Ela;confirmoulle;a;ela;estar;pouco;*;coa voda;53;A;subject;match;entusiasmada;entusiasmado;fem;masc;confirmoulle;estar;Ela confirmoulle a ela estar pouco * coa voda.
+53;A';El;confirmoulle;a;el;estar;pouco;*;coa voda;53;A';subject;match;entusiasmado;entusiasmada;masc;fem;confirmoulle;estar;El confirmoulle a el estar pouco * coa voda.
+53;B;Ela;confirmoulle;a;el;estar;pouco;*;coa voda;53;B;subject;mismatch;entusiasmada;entusiasmado;fem;masc;confirmoulle;estar;Ela confirmoulle a el estar pouco * coa voda.
+53;B';El;confirmoulle;a;ela;estar;pouco;*;coa voda;53;B';subject;mismatch;entusiasmado;entusiasmada;masc;fem;confirmoulle;estar;El confirmoulle a ela estar pouco * coa voda.
+53;C;Ela;reprochoulle;a;ela;estar;pouco;*;coa voda;53;C;object;match;entusiasmada;entusiasmado;fem;masc;reprochoulle;estar;Ela reprochoulle a ela estar pouco * coa voda.
+53;C';El;reprochoulle;a;el;estar;pouco;*;coa voda;53;C';object;match;entusiasmado;entusiasmada;masc;fem;reprochoulle;estar;El reprochoulle a el estar pouco * coa voda.
+53;D;El;reprochoulle;a;ela;estar;pouco;*;coa voda;53;D;object;mismatch;entusiasmada;entusiasmado;fem;masc;reprochoulle;estar;El reprochoulle a ela estar pouco * coa voda.
+53;D';Ela;reprochoulle;a;el;estar;pouco;*;coa voda;53;D';object;mismatch;entusiasmado;entusiasmada;masc;fem;reprochoulle;estar;Ela reprochoulle a el estar pouco * coa voda.
+54;A;El;expresoulle;a;el;estar;algo máis;*;co persoal;54;A;subject;match;contento;contenta;masc;fem;expresoulle;estar;El expresoulle a el estar algo máis * co persoal.
+54;A';Ela;expresoulle;a;ela;estar;algo máis;*;co persoal;54;A';subject;match;contenta;contento;fem;masc;expresoulle;estar;Ela expresoulle a ela estar algo máis * co persoal.
+54;B;El;expresoulle;a;ela;estar;algo máis;*;co persoal;54;B;subject;mismatch;contento;contenta;masc;fem;expresoulle;estar;El expresoulle a ela estar algo máis * co persoal.
+54;B';Ela;expresoulle;a;el;estar;algo máis;*;co persoal;54;B';subject;mismatch;contenta;contento;fem;masc;expresoulle;estar;Ela expresoulle a el estar algo máis * co persoal.
+54;C;El;recomendoulle;a;el;estar;algo máis;*;co persoal;54;C;object;match;contento;contenta;masc;fem;recomendoulle;estar;El recomendoulle a el estar algo máis * co persoal.
+54;C';Ela;recomendoulle;a;ela;estar;algo máis;*;co persoal;54;C';object;match;contenta;contento;fem;masc;recomendoulle;estar;Ela recomendoulle a ela estar algo máis * co persoal.
+54;D;Ela;recomendoulle;a;el;estar;algo máis;*;co persoal;54;D;object;mismatch;contento;contenta;masc;fem;recomendoulle;estar;Ela recomendoulle a el estar algo máis * co persoal.
+54;D';El;recomendoulle;a;ela;estar;algo máis;*;co persoal;54;D';object;mismatch;contenta;contento;fem;masc;recomendoulle;estar;El recomendoulle a ela estar algo máis * co persoal.
+55;A;Ela;declaroulle;a;ela;estar;totalmente;*;da decisión;55;A;subject;match;segura;seguro;fem;masc;declaroulle;estar;Ela declaroulle a ela estar totalmente * da decisión.
+55;A';El;declaroulle;a;el;estar;totalmente;*;da decisión;55;A';subject;match;seguro;segura;masc;fem;declaroulle;estar;El declaroulle a el estar totalmente * da decisión.
+55;B;Ela;declaroulle;a;el;estar;totalmente;*;da decisión;55;B;subject;mismatch;segura;seguro;fem;masc;declaroulle;estar;Ela declaroulle a el estar totalmente * da decisión.
+55;B';El;declaroulle;a;ela;estar;totalmente;*;da decisión;55;B';subject;mismatch;seguro;segura;masc;fem;declaroulle;estar;El declaroulle a ela estar totalmente * da decisión.
+55;C;Ela;aconselloulle;a;ela;estar;totalmente;*;da decisión;55;C;object;match;segura;seguro;fem;masc;aconselloulle;estar;Ela aconselloulle a ela estar totalmente * da decisión.
+55;C';El;aconselloulle;a;el;estar;totalmente;*;da decisión;55;C';object;match;seguro;segura;masc;fem;aconselloulle;estar;El aconselloulle a el estar totalmente * da decisión.
+55;D;El;aconselloulle;a;ela;estar;totalmente;*;da decisión;55;D;object;mismatch;segura;seguro;fem;masc;aconselloulle;estar;El aconselloulle a ela estar totalmente * da decisión.
+55;D';Ela;aconselloulle;a;el;estar;totalmente;*;da decisión;55;D';object;mismatch;seguro;segura;masc;fem;aconselloulle;estar;Ela aconselloulle a el estar totalmente * da decisión.
+56;A;El;desmentiulle;a;el;estar;aínda;*;pola discusión;56;A;subject;match;contrariado;contrariada;masc;fem;desmentiulle;estar;El desmentiulle a el estar aínda * pola discusión.
+56;A';Ela;desmentiulle;a;ela;estar;aínda;*;pola discusión;56;A';subject;match;contrariada;contrariado;fem;masc;desmentiulle;estar;Ela desmentiulle a ela estar aínda * pola discusión.
+56;B;El;desmentiulle;a;ela;estar;aínda;*;pola discusión;56;B;subject;mismatch;contrariado;contrariada;masc;fem;desmentiulle;estar;El desmentiulle a ela estar aínda * pola discusión.
+56;B';Ela;desmentiulle;a;el;estar;aínda;*;pola discusión;56;B';subject;mismatch;contrariada;contrariado;fem;masc;desmentiulle;estar;Ela desmentiulle a el estar aínda * pola discusión.
+56;C;El;prohibiulle;a;el;estar;aínda;*;pola discusión;56;C;object;match;contrariado;contrariada;masc;fem;prohibiulle;estar;El prohibiulle a el estar aínda * pola discusión.
+56;C';Ela;prohibiulle;a;ela;estar;aínda;*;pola discusión;56;C';object;match;contrariada;contrariado;fem;masc;prohibiulle;estar;Ela prohibiulle a ela estar aínda * pola discusión.
+56;D;Ela;prohibiulle;a;el;estar;aínda;*;pola discusión;56;D;object;mismatch;contrariado;contrariada;masc;fem;prohibiulle;estar;Ela prohibiulle a el estar aínda * pola discusión.
+56;D';El;prohibiulle;a;ela;estar;aínda;*;pola discusión;56;D';object;mismatch;contrariada;contrariado;fem;masc;prohibiulle;estar;El prohibiulle a ela estar aínda * pola discusión.
+57;A;Ela;prometeulle;a;ela;estar;moito máis;*;no xogo;57;A;subject;match;concentrada;concentrado;fem;masc;prometeulle;estar;Ela prometeulle a ela estar moito máis * no xogo.
+57;A';El;prometeulle;a;el;estar;moito máis;*;no xogo;57;A';subject;match;concentrado;concentrada;masc;fem;prometeulle;estar;El prometeulle a el estar moito máis * no xogo.
+57;B;Ela;prometeulle;a;el;estar;moito máis;*;no xogo;57;B;subject;mismatch;concentrada;concentrado;fem;masc;prometeulle;estar;Ela prometeulle a el estar moito máis * no xogo.
+57;B';El;prometeulle;a;ela;estar;moito máis;*;no xogo;57;B';subject;mismatch;concentrado;concentrada;masc;fem;prometeulle;estar;El prometeulle a ela estar moito máis * no xogo.
+57;C;Ela;mandoulle;a;ela;estar;moito máis;*;no xogo;57;C;object;match;concentrada;concentrado;fem;masc;mandoulle;estar;Ela mandoulle a ela estar moito máis * no xogo.
+57;C';El;mandoulle;a;el;estar;moito máis;*;no xogo;57;C';object;match;concentrado;concentrada;masc;fem;mandoulle;estar;El mandoulle a el estar moito máis * no xogo.
+57;D;El;mandoulle;a;ela;estar;moito máis;*;no xogo;57;D;object;mismatch;concentrada;concentrado;fem;masc;mandoulle;estar;El mandoulle a ela estar moito máis * no xogo.
+57;D';Ela;mandoulle;a;el;estar;moito máis;*;no xogo;57;D';object;mismatch;concentrado;concentrada;masc;fem;mandoulle;estar;Ela mandoulle a el estar moito máis * no xogo.
+58;A;El;garantizoulle;a;el;estar;menos;*;a primeira hora;58;A;subject;match;dormido;dormida;masc;fem;garantizoulle;estar;El garantizoulle a el estar menos * a primeira hora.
+58;A';Ela;garantizoulle;a;ela;estar;menos;*;a primeira hora;58;A';subject;match;dormida;dormido;fem;masc;garantizoulle;estar;Ela garantizoulle a ela estar menos * a primeira hora.
+58;B;El;garantizoulle;a;ela;estar;menos;*;a primeira hora;58;B;subject;mismatch;dormido;dormida;masc;fem;garantizoulle;estar;El garantizoulle a ela estar menos * a primeira hora.
+58;B';Ela;garantizoulle;a;el;estar;menos;*;a primeira hora;58;B';subject;mismatch;dormida;dormido;fem;masc;garantizoulle;estar;Ela garantizoulle a el estar menos * a primeira hora.
+58;C;El;ordenoulle;a;el;estar;menos;*;a primeira hora;58;C;object;match;dormido;dormida;masc;fem;ordenoulle;estar;El ordenoulle a el estar menos * a primeira hora.
+58;C';Ela;ordenoulle;a;ela;estar;menos;*;a primeira hora;58;C';object;match;dormida;dormido;fem;masc;ordenoulle;estar;Ela ordenoulle a ela estar menos * a primeira hora.
+58;D;Ela;ordenoulle;a;el;estar;menos;*;a primeira hora;58;D;object;mismatch;dormido;dormida;masc;fem;ordenoulle;estar;Ela ordenoulle a el estar menos * a primeira hora.
+58;D';El;ordenoulle;a;ela;estar;menos;*;a primeira hora;58;D';object;mismatch;dormida;dormido;fem;masc;ordenoulle;estar;El ordenoulle a ela estar menos * a primeira hora.
+59;A;Ela;xuroulle;a;ela;estar;mellor;*;a próxima vez;59;A;subject;match;preparada;preparado;fem;masc;xuroulle;estar;Ela xuroulle a ela estar mellor * a próxima vez.
+59;A';El;xuroulle;a;el;estar;mellor;*;a próxima vez;59;A';subject;match;preparado;preparada;masc;fem;xuroulle;estar;El xuroulle a el estar mellor * a próxima vez.
+59;B;Ela;xuroulle;a;el;estar;mellor;*;a próxima vez;59;B;subject;mismatch;preparada;preparado;fem;masc;xuroulle;estar;Ela xuroulle a el estar mellor * a próxima vez.
+59;B';El;xuroulle;a;ela;estar;mellor;*;a próxima vez;59;B';subject;mismatch;preparado;preparada;masc;fem;xuroulle;estar;El xuroulle a ela estar mellor * a próxima vez.
+59;C;Ela;esixiulle;a;ela;estar;mellor;*;a próxima vez;59;C;object;match;preparada;preparado;fem;masc;esixiulle;estar;Ela esixiulle a ela estar mellor * a próxima vez.
+59;C';El;esixiulle;a;el;estar;mellor;*;a próxima vez;59;C';object;match;preparado;preparada;masc;fem;esixiulle;estar;El esixiulle a el estar mellor * a próxima vez.
+59;D;El;esixiulle;a;ela;estar;mellor;*;a próxima vez;59;D;object;mismatch;preparada;preparado;fem;masc;esixiulle;estar;El esixiulle a ela estar mellor * a próxima vez.
+59;D';Ela;esixiulle;a;el;estar;mellor;*;a próxima vez;59;D';object;mismatch;preparado;preparada;masc;fem;esixiulle;estar;Ela esixiulle a el estar mellor * a próxima vez.
+60;A;El;recoñeceulle;a;el;estar;moito máis;*;tralo ascenso;60;A;subject;match;motivado;motivada;masc;fem;recoñeceulle;estar;El recoñeceulle a el estar moito máis * tralo ascenso.
+60;A';Ela;recoñeceulle;a;ela;estar;moito máis;*;tralo ascenso;60;A';subject;match;motivada;motivado;fem;masc;recoñeceulle;estar;Ela recoñeceulle a ela estar moito máis * tralo ascenso.
+60;B;El;recoñeceulle;a;ela;estar;moito máis;*;tralo ascenso;60;B;subject;mismatch;motivado;motivada;masc;fem;recoñeceulle;estar;El recoñeceulle a ela estar moito máis * tralo ascenso.
+60;B';Ela;recoñeceulle;a;el;estar;moito máis;*;tralo ascenso;60;B';subject;mismatch;motivada;motivado;fem;masc;recoñeceulle;estar;Ela recoñeceulle a el estar moito máis * tralo ascenso.
+60;C;El;encargoulle;a;el;estar;moito máis;*;tralo ascenso;60;C;object;match;motivado;motivada;masc;fem;encargoulle;estar;El encargoulle a el estar moito máis * tralo ascenso.
+60;C';Ela;encargoulle;a;ela;estar;moito máis;*;tralo ascenso;60;C';object;match;motivada;motivado;fem;masc;encargoulle;estar;Ela encargoulle a ela estar moito máis * tralo ascenso.
+60;D;Ela;encargoulle;a;el;estar;moito máis;*;tralo ascenso;60;D;object;mismatch;motivado;motivada;masc;fem;encargoulle;estar;Ela encargoulle a el estar moito máis * tralo ascenso.
+60;D';El;encargoulle;a;ela;estar;moito máis;*;tralo ascenso;60;D';object;mismatch;motivada;motivado;fem;masc;encargoulle;estar;El encargoulle a ela estar moito máis * tralo ascenso.
+61;A;El;reveloulle;a;el;ser;abertamente;*;en cuestións espirituais;61;A;subject;match;ateo;atea;masc;fem;reveloulle;ser;El reveloulle a el ser abertamente * en cuestións espirituais.
+61;A';Ela;reveloulle;a;ela;ser;abertamente;*;en cuestións espirituais;61;A';subject;match;atea;ateo;fem;masc;reveloulle;ser;Ela reveloulle a ela ser abertamente * en cuestións espirituais.
+61;B;El;reveloulle;a;ela;ser;abertamente;*;en cuestións espirituais;61;B;subject;mismatch;ateo;atea;masc;fem;reveloulle;ser;El reveloulle a ela ser abertamente * en cuestións espirituais.
+61;B';Ela;reveloulle;a;el;ser;abertamente;*;en cuestións espirituais;61;B';subject;mismatch;atea;ateo;fem;masc;reveloulle;ser;Ela reveloulle a el ser abertamente * en cuestións espirituais.
+61;C;El;impediulle;a;el;ser;abertamente;*;en cuestións espirituais;61;C;object;match;ateo;atea;masc;fem;impediulle;ser;El impediulle a el ser abertamente * en cuestións espirituais.
+61;C';Ela;impediulle;a;ela;ser;abertamente;*;en cuestións espirituais;61;C';object;match;atea;ateo;fem;masc;impediulle;ser;Ela impediulle a ela ser abertamente * en cuestións espirituais.
+61;D;Ela;impediulle;a;el;ser;abertamente;*;en cuestións espirituais;61;D;object;mismatch;ateo;atea;masc;fem;impediulle;ser;Ela impediulle a el ser abertamente * en cuestións espirituais.
+61;D';El;impediulle;a;ela;ser;abertamente;*;en cuestións espirituais;61;D';object;mismatch;atea;ateo;fem;masc;impediulle;ser;El impediulle a ela ser abertamente * en cuestións espirituais.
+62;A;Ela;aseguroulle;a;ela;ser;moi;*;cos refuxiados;62;A;subject;match;solidaria;solidario;fem;masc;aseguroulle;ser;Ela aseguroulle a ela ser moi * cos refuxiados.
+62;A';El;aseguroulle;a;el;ser;moi;*;cos refuxiados;62;A';subject;match;solidario;solidaria;masc;fem;aseguroulle;ser;El aseguroulle a el ser moi * cos refuxiados.
+62;B;Ela;aseguroulle;a;el;ser;moi;*;cos refuxiados;62;B;subject;mismatch;solidaria;solidario;fem;masc;aseguroulle;ser;Ela aseguroulle a el ser moi * cos refuxiados.
+62;B';El;aseguroulle;a;ela;ser;moi;*;cos refuxiados;62;B';subject;mismatch;solidario;solidaria;masc;fem;aseguroulle;ser;El aseguroulle a ela ser moi * cos refuxiados.
+62;C;Ela;consentiulle;a;ela;ser;moi;*;cos refuxiados;62;C;object;match;solidaria;solidario;fem;masc;consentiulle;ser;Ela consentiulle a ela ser moi * cos refuxiados.
+62;C';El;consentiulle;a;el;ser;moi;*;cos refuxiados;62;C';object;match;solidario;solidaria;masc;fem;consentiulle;ser;El consentiulle a el ser moi * cos refuxiados.
+62;D;El;consentiulle;a;ela;ser;moi;*;cos refuxiados;62;D;object;mismatch;solidaria;solidario;fem;masc;consentiulle;ser;El consentiulle a ela ser moi * cos refuxiados.
+62;D';Ela;consentiulle;a;el;ser;moi;*;cos refuxiados;62;D';object;mismatch;solidario;solidaria;masc;fem;consentiulle;ser;Ela consentiulle a el ser moi * cos refuxiados.
+63;A;El;confesoulle;a;el;ser;bastante;*;co sistema;63;A;subject;match;crítico;crítica;masc;fem;confesoulle;ser;El confesoulle a el ser bastante * co sistema.
+63;A';Ela;confesoulle;a;ela;ser;bastante;*;co sistema;63;A';subject;match;crítica;crítico;fem;masc;confesoulle;ser;Ela confesoulle a ela ser bastante * co sistema.
+63;B;El;confesoulle;a;ela;ser;bastante;*;co sistema;63;B;subject;mismatch;crítico;crítica;masc;fem;confesoulle;ser;El confesoulle a ela ser bastante * co sistema.
+63;B';Ela;confesoulle;a;el;ser;bastante;*;co sistema;63;B';subject;mismatch;crítica;crítico;fem;masc;confesoulle;ser;Ela confesoulle a el ser bastante * co sistema.
+63;C;El;permitiulle;a;el;ser;bastante;*;co sistema;63;C;object;match;crítico;crítica;masc;fem;permitiulle;ser;El permitiulle a el ser bastante * co sistema.
+63;C';Ela;permitiulle;a;ela;ser;bastante;*;co sistema;63;C';object;match;crítica;crítico;fem;masc;permitiulle;ser;Ela permitiulle a ela ser bastante * co sistema.
+63;D;Ela;permitiulle;a;el;ser;bastante;*;co sistema;63;D;object;mismatch;crítico;crítica;masc;fem;permitiulle;ser;Ela permitiulle a el ser bastante * co sistema.
+63;D';El;permitiulle;a;ela;ser;bastante;*;co sistema;63;D';object;mismatch;crítica;crítico;fem;masc;permitiulle;ser;El permitiulle a ela ser bastante * co sistema.
+64;A;Ela;manifestoulle;a;ela;ser;abertamente;*;ao cambio lexislativo;64;A;subject;match;contraria;contrario;fem;masc;manifestoulle;ser;Ela manifestoulle a ela ser abertamente * ao cambio lexislativo.
+64;A';El;manifestoulle;a;el;ser;abertamente;*;ao cambio lexislativo;64;A';subject;match;contrario;contraria;masc;fem;manifestoulle;ser;El manifestoulle a el ser abertamente * ao cambio lexislativo.
+64;B;Ela;manifestoulle;a;el;ser;abertamente;*;ao cambio lexislativo;64;B;subject;mismatch;contraria;contrario;fem;masc;manifestoulle;ser;Ela manifestoulle a el ser abertamente * ao cambio lexislativo.
+64;B';El;manifestoulle;a;ela;ser;abertamente;*;ao cambio lexislativo;64;B';subject;mismatch;contrario;contraria;masc;fem;manifestoulle;ser;El manifestoulle a ela ser abertamente * ao cambio lexislativo.
+64;C;Ela;recriminoulle;a;ela;ser;abertamente;*;ao cambio lexislativo;64;C;object;match;contraria;contrario;fem;masc;recriminoulle;ser;Ela recriminoulle a ela ser abertamente * ao cambio lexislativo.
+64;C';El;recriminoulle;a;el;ser;abertamente;*;ao cambio lexislativo;64;C';object;match;contrario;contraria;masc;fem;recriminoulle;ser;El recriminoulle a el ser abertamente * ao cambio lexislativo.
+64;D;El;recriminoulle;a;ela;ser;abertamente;*;ao cambio lexislativo;64;D;object;mismatch;contraria;contrario;fem;masc;recriminoulle;ser;El recriminoulle a ela ser abertamente * ao cambio lexislativo.
+64;D';Ela;recriminoulle;a;el;ser;abertamente;*;ao cambio lexislativo;64;D';object;mismatch;contrario;contraria;masc;fem;recriminoulle;ser;Ela recriminoulle a el ser abertamente * ao cambio lexislativo.
+65;A;El;confirmoulle;a;el;ser;moi;*;coa orde;65;A;subject;match;quisquilloso;quisquillosa;masc;fem;confirmoulle;ser;El confirmoulle a el ser moi * coa orde.
+65;A';Ela;confirmoulle;a;ela;ser;moi;*;coa orde;65;A';subject;match;quisquillosa;quisquilloso;fem;masc;confirmoulle;ser;Ela confirmoulle a ela ser moi * coa orde.
+65;B;El;confirmoulle;a;ela;ser;moi;*;coa orde;65;B;subject;mismatch;quisquilloso;quisquillosa;masc;fem;confirmoulle;ser;El confirmoulle a ela ser moi * coa orde.
+65;B';Ela;confirmoulle;a;el;ser;moi;*;coa orde;65;B';subject;mismatch;quisquillosa;quisquilloso;fem;masc;confirmoulle;ser;Ela confirmoulle a el ser moi * coa orde.
+65;C;El;reprochoulle;a;el;ser;moi;*;coa orde;65;C;object;match;quisquilloso;quisquillosa;masc;fem;reprochoulle;ser;El reprochoulle a el ser moi * coa orde.
+65;C';Ela;reprochoulle;a;ela;ser;moi;*;coa orde;65;C';object;match;quisquillosa;quisquilloso;fem;masc;reprochoulle;ser;Ela reprochoulle a ela ser moi * coa orde.
+65;D;Ela;reprochoulle;a;el;ser;moi;*;coa orde;65;D;object;mismatch;quisquilloso;quisquillosa;masc;fem;reprochoulle;ser;Ela reprochoulle a el ser moi * coa orde.
+65;D';El;reprochoulle;a;ela;ser;moi;*;coa orde;65;D';object;mismatch;quisquillosa;quisquilloso;fem;masc;reprochoulle;ser;El reprochoulle a ela ser moi * coa orde.
+66;A;Ela;expresoulle;a;ela;ser;menos;*;cos descoñecidos;66;A;subject;match;extrovertida;extrovertido;fem;masc;expresoulle;ser;Ela expresoulle a ela ser menos * cos descoñecidos.
+66;A';El;expresoulle;a;el;ser;menos;*;cos descoñecidos;66;A';subject;match;extrovertido;extrovertida;masc;fem;expresoulle;ser;El expresoulle a el ser menos * cos descoñecidos.
+66;B;Ela;expresoulle;a;el;ser;menos;*;cos descoñecidos;66;B;subject;mismatch;extrovertida;extrovertido;fem;masc;expresoulle;ser;Ela expresoulle a el ser menos * cos descoñecidos.
+66;B';El;expresoulle;a;ela;ser;menos;*;cos descoñecidos;66;B';subject;mismatch;extrovertido;extrovertida;masc;fem;expresoulle;ser;El expresoulle a ela ser menos * cos descoñecidos.
+66;C;Ela;recomendoulle;a;ela;ser;menos;*;cos descoñecidos;66;C;object;match;extrovertida;extrovertido;fem;masc;recomendoulle;ser;Ela recomendoulle a ela ser menos * cos descoñecidos.
+66;C';El;recomendoulle;a;el;ser;menos;*;cos descoñecidos;66;C';object;match;extrovertido;extrovertida;masc;fem;recomendoulle;ser;El recomendoulle a el ser menos * cos descoñecidos.
+66;D;El;recomendoulle;a;ela;ser;menos;*;cos descoñecidos;66;D;object;mismatch;extrovertida;extrovertido;fem;masc;recomendoulle;ser;El recomendoulle a ela ser menos * cos descoñecidos.
+66;D';Ela;recomendoulle;a;el;ser;menos;*;cos descoñecidos;66;D';object;mismatch;extrovertido;extrovertida;masc;fem;recomendoulle;ser;Ela recomendoulle a el ser menos * cos descoñecidos.
+67;A;El;declaroulle;a;el;ser;máis;*;nas inversións;67;A;subject;match;arriscado;arriscada;masc;fem;declaroulle;ser;El declaroulle a el ser máis * nas inversións.
+67;A';Ela;declaroulle;a;ela;ser;máis;*;nas inversións;67;A';subject;match;arriscada;arriscado;fem;masc;declaroulle;ser;Ela declaroulle a ela ser máis * nas inversións.
+67;B;El;declaroulle;a;ela;ser;máis;*;nas inversións;67;B;subject;mismatch;arriscado;arriscada;masc;fem;declaroulle;ser;El declaroulle a ela ser máis * nas inversións.
+67;B';Ela;declaroulle;a;el;ser;máis;*;nas inversións;67;B';subject;mismatch;arriscada;arriscado;fem;masc;declaroulle;ser;Ela declaroulle a el ser máis * nas inversións.
+67;C;El;aconselloulle;a;el;ser;máis;*;nas inversións;67;C;object;match;arriscado;arriscada;masc;fem;aconselloulle;ser;El aconselloulle a el ser máis * nas inversións.
+67;C';Ela;aconselloulle;a;ela;ser;máis;*;nas inversións;67;C';object;match;arriscada;arriscado;fem;masc;aconselloulle;ser;Ela aconselloulle a ela ser máis * nas inversións.
+67;D;Ela;aconselloulle;a;el;ser;máis;*;nas inversións;67;D;object;mismatch;arriscado;arriscada;masc;fem;aconselloulle;ser;Ela aconselloulle a el ser máis * nas inversións.
+67;D';El;aconselloulle;a;ela;ser;máis;*;nas inversións;67;D';object;mismatch;arriscada;arriscado;fem;masc;aconselloulle;ser;El aconselloulle a ela ser máis * nas inversións.
+68;A;Ela;desmentiulle;a;ela;ser;sempre tan;*;nas discusións;68;A;subject;match;orgullosa;orgulloso;fem;masc;desmentiulle;ser;Ela desmentiulle a ela ser sempre tan * nas discusións.
+68;A';El;desmentiulle;a;el;ser;sempre tan;*;nas discusións;68;A';subject;match;orgulloso;orgullosa;masc;fem;desmentiulle;ser;El desmentiulle a el ser sempre tan * nas discusións.
+68;B;Ela;desmentiulle;a;el;ser;sempre tan;*;nas discusións;68;B;subject;mismatch;orgullosa;orgulloso;fem;masc;desmentiulle;ser;Ela desmentiulle a el ser sempre tan * nas discusións.
+68;B';El;desmentiulle;a;ela;ser;sempre tan;*;nas discusións;68;B';subject;mismatch;orgulloso;orgullosa;masc;fem;desmentiulle;ser;El desmentiulle a ela ser sempre tan * nas discusións.
+68;C;Ela;prohibiulle;a;ela;ser;sempre tan;*;nas discusións;68;C;object;match;orgullosa;orgulloso;fem;masc;prohibiulle;ser;Ela prohibiulle a ela ser sempre tan * nas discusións.
+68;C';El;prohibiulle;a;el;ser;sempre tan;*;nas discusións;68;C';object;match;orgulloso;orgullosa;masc;fem;prohibiulle;ser;El prohibiulle a el ser sempre tan * nas discusións.
+68;D;El;prohibiulle;a;ela;ser;sempre tan;*;nas discusións;68;D;object;mismatch;orgullosa;orgulloso;fem;masc;prohibiulle;ser;El prohibiulle a ela ser sempre tan * nas discusións.
+68;D';Ela;prohibiulle;a;el;ser;sempre tan;*;nas discusións;68;D';object;mismatch;orgulloso;orgullosa;masc;fem;prohibiulle;ser;Ela prohibiulle a el ser sempre tan * nas discusións.
+69;A;El;prometeulle;a;el;ser;moito máis;*;cos cartos;69;A;subject;match;precavido;precavida;masc;fem;prometeulle;ser;El prometeulle a el ser moito máis * cos cartos.
+69;A';Ela;prometeulle;a;ela;ser;moito máis;*;cos cartos;69;A';subject;match;precavida;precavido;fem;masc;prometeulle;ser;Ela prometeulle a ela ser moito máis * cos cartos.
+69;B;El;prometeulle;a;ela;ser;moito máis;*;cos cartos;69;B;subject;mismatch;precavido;precavida;masc;fem;prometeulle;ser;El prometeulle a ela ser moito máis * cos cartos.
+69;B';Ela;prometeulle;a;el;ser;moito máis;*;cos cartos;69;B';subject;mismatch;precavida;precavido;fem;masc;prometeulle;ser;Ela prometeulle a el ser moito máis * cos cartos.
+69;C;El;mandoulle;a;el;ser;moito máis;*;cos cartos;69;C;object;match;precavido;precavida;masc;fem;mandoulle;ser;El mandoulle a el ser moito máis * cos cartos.
+69;C';Ela;mandoulle;a;ela;ser;moito máis;*;cos cartos;69;C';object;match;precavida;precavido;fem;masc;mandoulle;ser;Ela mandoulle a ela ser moito máis * cos cartos.
+69;D;Ela;mandoulle;a;el;ser;moito máis;*;cos cartos;69;D;object;mismatch;precavido;precavida;masc;fem;mandoulle;ser;Ela mandoulle a el ser moito máis * cos cartos.
+69;D';El;mandoulle;a;ela;ser;moito máis;*;cos cartos;69;D';object;mismatch;precavida;precavido;fem;masc;mandoulle;ser;El mandoulle a ela ser moito máis * cos cartos.
+70;A;Ela;garantizoulle;a;ela;ser;sumamente;*;na acta;70;A;subject;match;precisa;preciso;fem;masc;garantizoulle;ser;Ela garantizoulle a ela ser sumamente * na acta.
+70;A';El;garantizoulle;a;el;ser;sumamente;*;na acta;70;A';subject;match;preciso;precisa;masc;fem;garantizoulle;ser;El garantizoulle a el ser sumamente * na acta.
+70;B;Ela;garantizoulle;a;el;ser;sumamente;*;na acta;70;B;subject;mismatch;precisa;preciso;fem;masc;garantizoulle;ser;Ela garantizoulle a el ser sumamente * na acta.
+70;B';El;garantizoulle;a;ela;ser;sumamente;*;na acta;70;B';subject;mismatch;preciso;precisa;masc;fem;garantizoulle;ser;El garantizoulle a ela ser sumamente * na acta.
+70;C;Ela;ordenoulle;a;ela;ser;sumamente;*;na acta;70;C;object;match;precisa;preciso;fem;masc;ordenoulle;ser;Ela ordenoulle a ela ser sumamente * na acta.
+70;C';El;ordenoulle;a;el;ser;sumamente;*;na acta;70;C';object;match;preciso;precisa;masc;fem;ordenoulle;ser;El ordenoulle a el ser sumamente * na acta.
+70;D;El;ordenoulle;a;ela;ser;sumamente;*;na acta;70;D;object;mismatch;precisa;preciso;fem;masc;ordenoulle;ser;El ordenoulle a ela ser sumamente * na acta.
+70;D';Ela;ordenoulle;a;el;ser;sumamente;*;na acta;70;D';object;mismatch;preciso;precisa;masc;fem;ordenoulle;ser;Ela ordenoulle a el ser sumamente * na acta.
+71;A;El;xuroulle;a;el;ser;totalmente;*;na avaliación;71;A;subject;match;obxectivo;obxectiva;masc;fem;xuroulle;ser;El xuroulle a el ser totalmente * na avaliación.
+71;A';Ela;xuroulle;a;ela;ser;totalmente;*;na avaliación;71;A';subject;match;obxectiva;obxectivo;fem;masc;xuroulle;ser;Ela xuroulle a ela ser totalmente * na avaliación.
+71;B;El;xuroulle;a;ela;ser;totalmente;*;na avaliación;71;B;subject;mismatch;obxectivo;obxectiva;masc;fem;xuroulle;ser;El xuroulle a ela ser totalmente * na avaliación.
+71;B';Ela;xuroulle;a;el;ser;totalmente;*;na avaliación;71;B';subject;mismatch;obxectiva;obxectivo;fem;masc;xuroulle;ser;Ela xuroulle a el ser totalmente * na avaliación.
+71;C;El;esixiulle;a;el;ser;totalmente;*;na avaliación;71;C;object;match;obxectivo;obxectiva;masc;fem;esixiulle;ser;El esixiulle a el ser totalmente * na avaliación.
+71;C';Ela;esixiulle;a;ela;ser;totalmente;*;na avaliación;71;C';object;match;obxectiva;obxectivo;fem;masc;esixiulle;ser;Ela esixiulle a ela ser totalmente * na avaliación.
+71;D;Ela;esixiulle;a;el;ser;totalmente;*;na avaliación;71;D;object;mismatch;obxectivo;obxectiva;masc;fem;esixiulle;ser;Ela esixiulle a el ser totalmente * na avaliación.
+71;D';El;esixiulle;a;ela;ser;totalmente;*;na avaliación;71;D';object;mismatch;obxectiva;obxectivo;fem;masc;esixiulle;ser;El esixiulle a ela ser totalmente * na avaliación.
+72;A;Ela;recoñeceulle;a;ela;ser;moi;*;cos empregados;72;A;subject;match;ríxida;ríxido;fem;masc;recoñeceulle;ser;Ela recoñeceulle a ela ser moi * cos empregados.
+72;A';El;recoñeceulle;a;el;ser;moi;*;cos empregados;72;A';subject;match;ríxido;ríxida;masc;fem;recoñeceulle;ser;El recoñeceulle a el ser moi * cos empregados.
+72;B;Ela;recoñeceulle;a;el;ser;moi;*;cos empregados;72;B;subject;mismatch;ríxida;ríxido;fem;masc;recoñeceulle;ser;Ela recoñeceulle a el ser moi * cos empregados.
+72;B';El;recoñeceulle;a;ela;ser;moi;*;cos empregados;72;B';subject;mismatch;ríxido;ríxida;masc;fem;recoñeceulle;ser;El recoñeceulle a ela ser moi * cos empregados.
+72;C;Ela;encargoulle;a;ela;ser;moi;*;cos empregados;72;C;object;match;ríxida;ríxido;fem;masc;encargoulle;ser;Ela encargoulle a ela ser moi * cos empregados.
+72;C';El;encargoulle;a;el;ser;moi;*;cos empregados;72;C';object;match;ríxido;ríxida;masc;fem;encargoulle;ser;El encargoulle a el ser moi * cos empregados.
+72;D;El;encargoulle;a;ela;ser;moi;*;cos empregados;72;D;object;mismatch;ríxida;ríxido;fem;masc;encargoulle;ser;El encargoulle a ela ser moi * cos empregados.
+72;D';Ela;encargoulle;a;el;ser;moi;*;cos empregados;72;D';object;mismatch;ríxido;ríxida;masc;fem;encargoulle;ser;Ela encargoulle a el ser moi * cos empregados.
+73;A;Ela;reveloulle;a;ela;estar;sempre;*;co xefe;73;A;subject;match;tensa;tenso;fem;masc;reveloulle;estar;Ela reveloulle a ela estar sempre * co xefe.
+73;A';El;reveloulle;a;el;estar;sempre;*;co xefe;73;A';subject;match;tenso;tensa;masc;fem;reveloulle;estar;El reveloulle a el estar sempre * co xefe.
+73;B;Ela;reveloulle;a;el;estar;sempre;*;co xefe;73;B;subject;mismatch;tensa;tenso;fem;masc;reveloulle;estar;Ela reveloulle a el estar sempre * co xefe.
+73;B';El;reveloulle;a;ela;estar;sempre;*;co xefe;73;B';subject;mismatch;tenso;tensa;masc;fem;reveloulle;estar;El reveloulle a ela estar sempre * co xefe.
+73;C;Ela;impediulle;a;ela;estar;sempre;*;co xefe;73;C;object;match;tensa;tenso;fem;masc;impediulle;estar;Ela impediulle a ela estar sempre * co xefe.
+73;C';El;impediulle;a;el;estar;sempre;*;co xefe;73;C';object;match;tenso;tensa;masc;fem;impediulle;estar;El impediulle a el estar sempre * co xefe.
+73;D;El;impediulle;a;ela;estar;sempre;*;co xefe;73;D;object;mismatch;tensa;tenso;fem;masc;impediulle;estar;El impediulle a ela estar sempre * co xefe.
+73;D';Ela;impediulle;a;el;estar;sempre;*;co xefe;73;D';object;mismatch;tenso;tensa;masc;fem;impediulle;estar;Ela impediulle a el estar sempre * co xefe.
+74;A;El;aseguroulle;a;el;estar;un pouco;*;ante as cámaras;74;A;subject;match;nervioso;nerviosa;masc;fem;aseguroulle;estar;El aseguroulle a el estar un pouco * ante as cámaras.
+74;A';Ela;aseguroulle;a;ela;estar;un pouco;*;ante as cámaras;74;A';subject;match;nerviosa;nervioso;fem;masc;aseguroulle;estar;Ela aseguroulle a ela estar un pouco * ante as cámaras.
+74;B;El;aseguroulle;a;ela;estar;un pouco;*;ante as cámaras;74;B;subject;mismatch;nervioso;nerviosa;masc;fem;aseguroulle;estar;El aseguroulle a ela estar un pouco * ante as cámaras.
+74;B';Ela;aseguroulle;a;el;estar;un pouco;*;ante as cámaras;74;B';subject;mismatch;nerviosa;nervioso;fem;masc;aseguroulle;estar;Ela aseguroulle a el estar un pouco * ante as cámaras.
+74;C;El;consentiulle;a;el;estar;un pouco;*;ante as cámaras;74;C;object;match;nervioso;nerviosa;masc;fem;consentiulle;estar;El consentiulle a el estar un pouco * ante as cámaras.
+74;C';Ela;consentiulle;a;ela;estar;un pouco;*;ante as cámaras;74;C';object;match;nerviosa;nervioso;fem;masc;consentiulle;estar;Ela consentiulle a ela estar un pouco * ante as cámaras.
+74;D;Ela;consentiulle;a;el;estar;un pouco;*;ante as cámaras;74;D;object;mismatch;nervioso;nerviosa;masc;fem;consentiulle;estar;Ela consentiulle a el estar un pouco * ante as cámaras.
+74;D';El;consentiulle;a;ela;estar;un pouco;*;ante as cámaras;74;D';object;mismatch;nerviosa;nervioso;fem;masc;consentiulle;estar;El consentiulle a ela estar un pouco * ante as cámaras.
+75;A;Ela;confesoulle;a;ela;estar;un pouco;*;dos seus irmáns;75;A;subject;match;celosa;celoso;fem;masc;confesoulle;estar;Ela confesoulle a ela estar un pouco * dos seus irmáns.
+75;A';El;confesoulle;a;el;estar;un pouco;*;dos seus irmáns;75;A';subject;match;celoso;celosa;masc;fem;confesoulle;estar;El confesoulle a el estar un pouco * dos seus irmáns.
+75;B;Ela;confesoulle;a;el;estar;un pouco;*;dos seus irmáns;75;B;subject;mismatch;celosa;celoso;fem;masc;confesoulle;estar;Ela confesoulle a el estar un pouco * dos seus irmáns.
+75;B';El;confesoulle;a;ela;estar;un pouco;*;dos seus irmáns;75;B';subject;mismatch;celoso;celosa;masc;fem;confesoulle;estar;El confesoulle a ela estar un pouco * dos seus irmáns.
+75;C;Ela;permitiulle;a;ela;estar;un pouco;*;dos seus irmáns;75;C;object;match;celosa;celoso;fem;masc;permitiulle;estar;Ela permitiulle a ela estar un pouco * dos seus irmáns.
+75;C';El;permitiulle;a;el;estar;un pouco;*;dos seus irmáns;75;C';object;match;celoso;celosa;masc;fem;permitiulle;estar;El permitiulle a el estar un pouco * dos seus irmáns.
+75;D;El;permitiulle;a;ela;estar;un pouco;*;dos seus irmáns;75;D;object;mismatch;celosa;celoso;fem;masc;permitiulle;estar;El permitiulle a ela estar un pouco * dos seus irmáns.
+75;D';Ela;permitiulle;a;el;estar;un pouco;*;dos seus irmáns;75;D';object;mismatch;celoso;celosa;masc;fem;permitiulle;estar;Ela permitiulle a el estar un pouco * dos seus irmáns.
+76;A;El;manifestoulle;a;el;estar;moi;*;pola derrota;76;A;subject;match;cabreado;cabreada;masc;fem;manifestoulle;estar;El manifestoulle a el estar moi * pola derrota.
+76;A';Ela;manifestoulle;a;ela;estar;moi;*;pola derrota;76;A';subject;match;cabreada;cabreado;fem;masc;manifestoulle;estar;Ela manifestoulle a ela estar moi * pola derrota.
+76;B;El;manifestoulle;a;ela;estar;moi;*;pola derrota;76;B;subject;mismatch;cabreado;cabreada;masc;fem;manifestoulle;estar;El manifestoulle a ela estar moi * pola derrota.
+76;B';Ela;manifestoulle;a;el;estar;moi;*;pola derrota;76;B';subject;mismatch;cabreada;cabreado;fem;masc;manifestoulle;estar;Ela manifestoulle a el estar moi * pola derrota.
+76;C;El;recriminoulle;a;el;estar;moi;*;pola derrota;76;C;object;match;cabreado;cabreada;masc;fem;recriminoulle;estar;El recriminoulle a el estar moi * pola derrota.
+76;C';Ela;recriminoulle;a;ela;estar;moi;*;pola derrota;76;C';object;match;cabreada;cabreado;fem;masc;recriminoulle;estar;Ela recriminoulle a ela estar moi * pola derrota.
+76;D;Ela;recriminoulle;a;el;estar;moi;*;pola derrota;76;D;object;mismatch;cabreado;cabreada;masc;fem;recriminoulle;estar;Ela recriminoulle a el estar moi * pola derrota.
+76;D';El;recriminoulle;a;ela;estar;moi;*;pola derrota;76;D';object;mismatch;cabreada;cabreado;fem;masc;recriminoulle;estar;El recriminoulle a ela estar moi * pola derrota.
+77;A;Ela;confirmoulle;a;ela;estar;aínda;*;polo engano;77;A;subject;match;defraudada;defraudado;fem;masc;confirmoulle;estar;Ela confirmoulle a ela estar aínda * polo engano.
+77;A';El;confirmoulle;a;el;estar;aínda;*;polo engano;77;A';subject;match;defraudado;defraudada;masc;fem;confirmoulle;estar;El confirmoulle a el estar aínda * polo engano.
+77;B;Ela;confirmoulle;a;el;estar;aínda;*;polo engano;77;B;subject;mismatch;defraudada;defraudado;fem;masc;confirmoulle;estar;Ela confirmoulle a el estar aínda * polo engano.
+77;B';El;confirmoulle;a;ela;estar;aínda;*;polo engano;77;B';subject;mismatch;defraudado;defraudada;masc;fem;confirmoulle;estar;El confirmoulle a ela estar aínda * polo engano.
+77;C;Ela;reprochoulle;a;ela;estar;aínda;*;polo engano;77;C;object;match;defraudada;defraudado;fem;masc;reprochoulle;estar;Ela reprochoulle a ela estar aínda * polo engano.
+77;C';El;reprochoulle;a;el;estar;aínda;*;polo engano;77;C';object;match;defraudado;defraudada;masc;fem;reprochoulle;estar;El reprochoulle a el estar aínda * polo engano.
+77;D;El;reprochoulle;a;ela;estar;aínda;*;polo engano;77;D;object;mismatch;defraudada;defraudado;fem;masc;reprochoulle;estar;El reprochoulle a ela estar aínda * polo engano.
+77;D';Ela;reprochoulle;a;el;estar;aínda;*;polo engano;77;D';object;mismatch;defraudado;defraudada;masc;fem;reprochoulle;estar;Ela reprochoulle a el estar aínda * polo engano.
+78;A;El;expresoulle;a;el;estar;algo máis;*;co tratamento;78;A;subject;match;animado;animada;masc;fem;expresoulle;estar;El expresoulle a el estar algo máis * co tratamento.
+78;A';Ela;expresoulle;a;ela;estar;algo máis;*;co tratamento;78;A';subject;match;animada;animado;fem;masc;expresoulle;estar;Ela expresoulle a ela estar algo máis * co tratamento.
+78;B;El;expresoulle;a;ela;estar;algo máis;*;co tratamento;78;B;subject;mismatch;animado;animada;masc;fem;expresoulle;estar;El expresoulle a ela estar algo máis * co tratamento.
+78;B';Ela;expresoulle;a;el;estar;algo máis;*;co tratamento;78;B';subject;mismatch;animada;animado;fem;masc;expresoulle;estar;Ela expresoulle a el estar algo máis * co tratamento.
+78;C;El;recomendoulle;a;el;estar;algo máis;*;co tratamento;78;C;object;match;animado;animada;masc;fem;recomendoulle;estar;El recomendoulle a el estar algo máis * co tratamento.
+78;C';Ela;recomendoulle;a;ela;estar;algo máis;*;co tratamento;78;C';object;match;animada;animado;fem;masc;recomendoulle;estar;Ela recomendoulle a ela estar algo máis * co tratamento.
+78;D;Ela;recomendoulle;a;el;estar;algo máis;*;co tratamento;78;D;object;mismatch;animado;animada;masc;fem;recomendoulle;estar;Ela recomendoulle a el estar algo máis * co tratamento.
+78;D';El;recomendoulle;a;ela;estar;algo máis;*;co tratamento;78;D';object;mismatch;animada;animado;fem;masc;recomendoulle;estar;El recomendoulle a ela estar algo máis * co tratamento.
+79;A;Ela;declaroulle;a;ela;estar;totalmente;*;da proposta;79;A;subject;match;convencida;convencido;fem;masc;declaroulle;estar;Ela declaroulle a ela estar totalmente * da proposta.
+79;A';El;declaroulle;a;el;estar;totalmente;*;da proposta;79;A';subject;match;convencido;convencida;masc;fem;declaroulle;estar;El declaroulle a el estar totalmente * da proposta.
+79;B;Ela;declaroulle;a;el;estar;totalmente;*;da proposta;79;B;subject;mismatch;convencida;convencido;fem;masc;declaroulle;estar;Ela declaroulle a el estar totalmente * da proposta.
+79;B';El;declaroulle;a;ela;estar;totalmente;*;da proposta;79;B';subject;mismatch;convencido;convencida;masc;fem;declaroulle;estar;El declaroulle a ela estar totalmente * da proposta.
+79;C;Ela;aconselloulle;a;ela;estar;totalmente;*;da proposta;79;C;object;match;convencida;convencido;fem;masc;aconselloulle;estar;Ela aconselloulle a ela estar totalmente * da proposta.
+79;C';El;aconselloulle;a;el;estar;totalmente;*;da proposta;79;C';object;match;convencido;convencida;masc;fem;aconselloulle;estar;El aconselloulle a el estar totalmente * da proposta.
+79;D;El;aconselloulle;a;ela;estar;totalmente;*;da proposta;79;D;object;mismatch;convencida;convencido;fem;masc;aconselloulle;estar;El aconselloulle a ela estar totalmente * da proposta.
+79;D';Ela;aconselloulle;a;el;estar;totalmente;*;da proposta;79;D';object;mismatch;convencido;convencida;masc;fem;aconselloulle;estar;Ela aconselloulle a el estar totalmente * da proposta.
+80;A;El;desmentiulle;a;el;estar;sempre;*;cos demais;80;A;subject;match;malhumorado;malhumorada;masc;fem;desmentiulle;estar;El desmentiulle a el estar sempre * cos demais.
+80;A';Ela;desmentiulle;a;ela;estar;sempre;*;cos demais;80;A';subject;match;malhumorada;malhumorado;fem;masc;desmentiulle;estar;Ela desmentiulle a ela estar sempre * cos demais.
+80;B;El;desmentiulle;a;ela;estar;sempre;*;cos demais;80;B;subject;mismatch;malhumorado;malhumorada;masc;fem;desmentiulle;estar;El desmentiulle a ela estar sempre * cos demais.
+80;B';Ela;desmentiulle;a;el;estar;sempre;*;cos demais;80;B';subject;mismatch;malhumorada;malhumorado;fem;masc;desmentiulle;estar;Ela desmentiulle a el estar sempre * cos demais.
+80;C;El;prohibiulle;a;el;estar;sempre;*;cos demais;80;C;object;match;malhumorado;malhumorada;masc;fem;prohibiulle;estar;El prohibiulle a el estar sempre * cos demais.
+80;C';Ela;prohibiulle;a;ela;estar;sempre;*;cos demais;80;C';object;match;malhumorada;malhumorado;fem;masc;prohibiulle;estar;Ela prohibiulle a ela estar sempre * cos demais.
+80;D;Ela;prohibiulle;a;el;estar;sempre;*;cos demais;80;D;object;mismatch;malhumorado;malhumorada;masc;fem;prohibiulle;estar;Ela prohibiulle a el estar sempre * cos demais.
+80;D';El;prohibiulle;a;ela;estar;sempre;*;cos demais;80;D';object;mismatch;malhumorada;malhumorado;fem;masc;prohibiulle;estar;El prohibiulle a ela estar sempre * cos demais.
+81;A;Ela;prometeulle;a;ela;estar;máis;*;aos emails;81;A;subject;match;atenta;atento;fem;masc;prometeulle;estar;Ela prometeulle a ela estar máis * aos emails.
+81;A';El;prometeulle;a;el;estar;máis;*;aos emails;81;A';subject;match;atento;atenta;masc;fem;prometeulle;estar;El prometeulle a el estar máis * aos emails.
+81;B;Ela;prometeulle;a;el;estar;máis;*;aos emails;81;B;subject;mismatch;atenta;atento;fem;masc;prometeulle;estar;Ela prometeulle a el estar máis * aos emails.
+81;B';El;prometeulle;a;ela;estar;máis;*;aos emails;81;B';subject;mismatch;atento;atenta;masc;fem;prometeulle;estar;El prometeulle a ela estar máis * aos emails.
+81;C;Ela;mandoulle;a;ela;estar;máis;*;aos emails;81;C;object;match;atenta;atento;fem;masc;mandoulle;estar;Ela mandoulle a ela estar máis * aos emails.
+81;C';El;mandoulle;a;el;estar;máis;*;aos emails;81;C';object;match;atento;atenta;masc;fem;mandoulle;estar;El mandoulle a el estar máis * aos emails.
+81;D;El;mandoulle;a;ela;estar;máis;*;aos emails;81;D;object;mismatch;atenta;atento;fem;masc;mandoulle;estar;El mandoulle a ela estar máis * aos emails.
+81;D';Ela;mandoulle;a;el;estar;máis;*;aos emails;81;D';object;mismatch;atento;atenta;masc;fem;mandoulle;estar;Ela mandoulle a el estar máis * aos emails.
+82;A;El;garantizoulle;a;el;estar;sempre;*;ao diálogo político;82;A;subject;match;aberto;aberta;masc;fem;garantizoulle;estar;El garantizoulle a el estar sempre * ao diálogo político.
+82;A';Ela;garantizoulle;a;ela;estar;sempre;*;ao diálogo político;82;A';subject;match;aberta;aberto;fem;masc;garantizoulle;estar;Ela garantizoulle a ela estar sempre * ao diálogo político.
+82;B;El;garantizoulle;a;ela;estar;sempre;*;ao diálogo político;82;B;subject;mismatch;aberto;aberta;masc;fem;garantizoulle;estar;El garantizoulle a ela estar sempre * ao diálogo político.
+82;B';Ela;garantizoulle;a;el;estar;sempre;*;ao diálogo político;82;B';subject;mismatch;aberta;aberto;fem;masc;garantizoulle;estar;Ela garantizoulle a el estar sempre * ao diálogo político.
+82;C;El;ordenoulle;a;el;estar;sempre;*;ao diálogo político;82;C;object;match;aberto;aberta;masc;fem;ordenoulle;estar;El ordenoulle a el estar sempre * ao diálogo político.
+82;C';Ela;ordenoulle;a;ela;estar;sempre;*;ao diálogo político;82;C';object;match;aberta;aberto;fem;masc;ordenoulle;estar;Ela ordenoulle a ela estar sempre * ao diálogo político.
+82;D;Ela;ordenoulle;a;el;estar;sempre;*;ao diálogo político;82;D;object;mismatch;aberto;aberta;masc;fem;ordenoulle;estar;Ela ordenoulle a el estar sempre * ao diálogo político.
+82;D';El;ordenoulle;a;ela;estar;sempre;*;ao diálogo político;82;D';object;mismatch;aberta;aberto;fem;masc;ordenoulle;estar;El ordenoulle a ela estar sempre * ao diálogo político.
+83;A;Ela;xuroulle;a;ela;estar;absolutamente;*;a calquera cousa;83;A;subject;match;disposta;disposto;fem;masc;xuroulle;estar;Ela xuroulle a ela estar absolutamente * a calquera cousa.
+83;A';El;xuroulle;a;el;estar;absolutamente;*;a calquera cousa;83;A';subject;match;disposto;disposta;masc;fem;xuroulle;estar;El xuroulle a el estar absolutamente * a calquera cousa.
+83;B;Ela;xuroulle;a;el;estar;absolutamente;*;a calquera cousa;83;B;subject;mismatch;disposta;disposto;fem;masc;xuroulle;estar;Ela xuroulle a el estar absolutamente * a calquera cousa.
+83;B';El;xuroulle;a;ela;estar;absolutamente;*;a calquera cousa;83;B';subject;mismatch;disposto;disposta;masc;fem;xuroulle;estar;El xuroulle a ela estar absolutamente * a calquera cousa.
+83;C;Ela;esixiulle;a;ela;estar;absolutamente;*;a calquera cousa;83;C;object;match;disposta;disposto;fem;masc;esixiulle;estar;Ela esixiulle a ela estar absolutamente * a calquera cousa.
+83;C';El;esixiulle;a;el;estar;absolutamente;*;a calquera cousa;83;C';object;match;disposto;disposta;masc;fem;esixiulle;estar;El esixiulle a el estar absolutamente * a calquera cousa.
+83;D;El;esixiulle;a;ela;estar;absolutamente;*;a calquera cousa;83;D;object;mismatch;disposta;disposto;fem;masc;esixiulle;estar;El esixiulle a ela estar absolutamente * a calquera cousa.
+83;D';Ela;esixiulle;a;el;estar;absolutamente;*;a calquera cousa;83;D';object;mismatch;disposto;disposta;masc;fem;esixiulle;estar;Ela esixiulle a el estar absolutamente * a calquera cousa.
+84;A;El;recoñeceulle;a;el;estar;menos;*;á familia;84;A;subject;match;apegado;apegada;masc;fem;recoñeceulle;estar;El recoñeceulle a el estar menos * á familia.
+84;A';Ela;recoñeceulle;a;ela;estar;menos;*;á familia;84;A';subject;match;apegada;apegado;fem;masc;recoñeceulle;estar;Ela recoñeceulle a ela estar menos * á familia.
+84;B;El;recoñeceulle;a;ela;estar;menos;*;á familia;84;B;subject;mismatch;apegado;apegada;masc;fem;recoñeceulle;estar;El recoñeceulle a ela estar menos * á familia.
+84;B';Ela;recoñeceulle;a;el;estar;menos;*;á familia;84;B';subject;mismatch;apegada;apegado;fem;masc;recoñeceulle;estar;Ela recoñeceulle a el estar menos * á familia.
+84;C;El;encargoulle;a;el;estar;menos;*;á familia;84;C;object;match;apegado;apegada;masc;fem;encargoulle;estar;El encargoulle a el estar menos * á familia.
+84;C';Ela;encargoulle;a;ela;estar;menos;*;á familia;84;C';object;match;apegada;apegado;fem;masc;encargoulle;estar;Ela encargoulle a ela estar menos * á familia.
+84;D;Ela;encargoulle;a;el;estar;menos;*;á familia;84;D;object;mismatch;apegado;apegada;masc;fem;encargoulle;estar;Ela encargoulle a el estar menos * á familia.
+84;D';El;encargoulle;a;ela;estar;menos;*;á familia;84;D';object;mismatch;apegada;apegado;fem;masc;encargoulle;estar;El encargoulle a ela estar menos * á familia.
+85;A;El;reveloulle;a;el;ser;totalmente;*;en cuestións ideolóxicas;85;A;subject;match;libertario;libertaria;masc;fem;reveloulle;ser;El reveloulle a el ser totalmente * en cuestións ideolóxicas.
+85;A';Ela;reveloulle;a;ela;ser;totalmente;*;en cuestións ideolóxicas;85;A';subject;match;libertaria;libertario;fem;masc;reveloulle;ser;Ela reveloulle a ela ser totalmente * en cuestións ideolóxicas.
+85;B;El;reveloulle;a;ela;ser;totalmente;*;en cuestións ideolóxicas;85;B;subject;mismatch;libertario;libertaria;masc;fem;reveloulle;ser;El reveloulle a ela ser totalmente * en cuestións ideolóxicas.
+85;B';Ela;reveloulle;a;el;ser;totalmente;*;en cuestións ideolóxicas;85;B';subject;mismatch;libertaria;libertario;fem;masc;reveloulle;ser;Ela reveloulle a el ser totalmente * en cuestións ideolóxicas.
+85;C;El;impediulle;a;el;ser;totalmente;*;en cuestións ideolóxicas;85;C;object;match;libertario;libertaria;masc;fem;impediulle;ser;El impediulle a el ser totalmente * en cuestións ideolóxicas.
+85;C';Ela;impediulle;a;ela;ser;totalmente;*;en cuestións ideolóxicas;85;C';object;match;libertaria;libertario;fem;masc;impediulle;ser;Ela impediulle a ela ser totalmente * en cuestións ideolóxicas.
+85;D;Ela;impediulle;a;el;ser;totalmente;*;en cuestións ideolóxicas;85;D;object;mismatch;libertario;libertaria;masc;fem;impediulle;ser;Ela impediulle a el ser totalmente * en cuestións ideolóxicas.
+85;D';El;impediulle;a;ela;ser;totalmente;*;en cuestións ideolóxicas;85;D';object;mismatch;libertaria;libertario;fem;masc;impediulle;ser;El impediulle a ela ser totalmente * en cuestións ideolóxicas.
+86;A;Ela;aseguroulle;a;ela;ser;sumamente;*;no traballo;86;A;subject;match;reservada;reservado;fem;masc;aseguroulle;ser;Ela aseguroulle a ela ser sumamente * no traballo.
+86;A';El;aseguroulle;a;el;ser;sumamente;*;no traballo;86;A';subject;match;reservado;reservada;masc;fem;aseguroulle;ser;El aseguroulle a el ser sumamente * no traballo.
+86;B;Ela;aseguroulle;a;el;ser;sumamente;*;no traballo;86;B;subject;mismatch;reservada;reservado;fem;masc;aseguroulle;ser;Ela aseguroulle a el ser sumamente * no traballo.
+86;B';El;aseguroulle;a;ela;ser;sumamente;*;no traballo;86;B';subject;mismatch;reservado;reservada;masc;fem;aseguroulle;ser;El aseguroulle a ela ser sumamente * no traballo.
+86;C;Ela;consentiulle;a;ela;ser;sumamente;*;no traballo;86;C;object;match;reservada;reservado;fem;masc;consentiulle;ser;Ela consentiulle a ela ser sumamente * no traballo.
+86;C';El;consentiulle;a;el;ser;sumamente;*;no traballo;86;C';object;match;reservado;reservada;masc;fem;consentiulle;ser;El consentiulle a el ser sumamente * no traballo.
+86;D;El;consentiulle;a;ela;ser;sumamente;*;no traballo;86;D;object;mismatch;reservada;reservado;fem;masc;consentiulle;ser;El consentiulle a ela ser sumamente * no traballo.
+86;D';Ela;consentiulle;a;el;ser;sumamente;*;no traballo;86;D';object;mismatch;reservado;reservada;masc;fem;consentiulle;ser;Ela consentiulle a el ser sumamente * no traballo.
+87;A;El;confesoulle;a;el;ser;bastante;*;co alumnado;87;A;subject;match;próximo;próxima;masc;fem;confesoulle;ser;El confesoulle a el ser bastante * co alumnado.
+87;A';Ela;confesoulle;a;ela;ser;bastante;*;co alumnado;87;A';subject;match;próxima;próximo;fem;masc;confesoulle;ser;Ela confesoulle a ela ser bastante * co alumnado.
+87;B;El;confesoulle;a;ela;ser;bastante;*;co alumnado;87;B;subject;mismatch;próximo;próxima;masc;fem;confesoulle;ser;El confesoulle a ela ser bastante * co alumnado.
+87;B';Ela;confesoulle;a;el;ser;bastante;*;co alumnado;87;B';subject;mismatch;próxima;próximo;fem;masc;confesoulle;ser;Ela confesoulle a el ser bastante * co alumnado.
+87;C;El;permitiulle;a;el;ser;bastante;*;co alumnado;87;C;object;match;próximo;próxima;masc;fem;permitiulle;ser;El permitiulle a el ser bastante * co alumnado.
+87;C';Ela;permitiulle;a;ela;ser;bastante;*;co alumnado;87;C';object;match;próxima;próximo;fem;masc;permitiulle;ser;Ela permitiulle a ela ser bastante * co alumnado.
+87;D;Ela;permitiulle;a;el;ser;bastante;*;co alumnado;87;D;object;mismatch;próximo;próxima;masc;fem;permitiulle;ser;Ela permitiulle a el ser bastante * co alumnado.
+87;D';El;permitiulle;a;ela;ser;bastante;*;co alumnado;87;D';object;mismatch;próxima;próximo;fem;masc;permitiulle;ser;El permitiulle a ela ser bastante * co alumnado.
+88;A;Ela;manifestoulle;a;ela;ser;moi;*;coa homeopatía;88;A;subject;match;escéptica;escéptico;fem;masc;manifestoulle;ser;Ela manifestoulle a ela ser moi * coa homeopatía.
+88;A';El;manifestoulle;a;el;ser;moi;*;coa homeopatía;88;A';subject;match;escéptico;escéptica;masc;fem;manifestoulle;ser;El manifestoulle a el ser moi * coa homeopatía.
+88;B;Ela;manifestoulle;a;el;ser;moi;*;coa homeopatía;88;B;subject;mismatch;escéptica;escéptico;fem;masc;manifestoulle;ser;Ela manifestoulle a el ser moi * coa homeopatía.
+88;B';El;manifestoulle;a;ela;ser;moi;*;coa homeopatía;88;B';subject;mismatch;escéptico;escéptica;masc;fem;manifestoulle;ser;El manifestoulle a ela ser moi * coa homeopatía.
+88;C;Ela;recriminoulle;a;ela;ser;moi;*;coa homeopatía;88;C;object;match;escéptica;escéptico;fem;masc;recriminoulle;ser;Ela recriminoulle a ela ser moi * coa homeopatía.
+88;C';El;recriminoulle;a;el;ser;moi;*;coa homeopatía;88;C';object;match;escéptico;escéptica;masc;fem;recriminoulle;ser;El recriminoulle a el ser moi * coa homeopatía.
+88;D;El;recriminoulle;a;ela;ser;moi;*;coa homeopatía;88;D;object;mismatch;escéptica;escéptico;fem;masc;recriminoulle;ser;El recriminoulle a ela ser moi * coa homeopatía.
+88;D';Ela;recriminoulle;a;el;ser;moi;*;coa homeopatía;88;D';object;mismatch;escéptico;escéptica;masc;fem;recriminoulle;ser;Ela recriminoulle a el ser moi * coa homeopatía.
+89;A;El;confirmoulle;a;el;ser;totalmente;*;ao aumento salarial;89;A;subject;match;remiso;remisa;masc;fem;confirmoulle;ser;El confirmoulle a el ser totalmente * ao aumento salarial.
+89;A';Ela;confirmoulle;a;ela;ser;totalmente;*;ao aumento salarial;89;A';subject;match;remisa;remiso;fem;masc;confirmoulle;ser;Ela confirmoulle a ela ser totalmente * ao aumento salarial.
+89;B;El;confirmoulle;a;ela;ser;totalmente;*;ao aumento salarial;89;B;subject;mismatch;remiso;remisa;masc;fem;confirmoulle;ser;El confirmoulle a ela ser totalmente * ao aumento salarial.
+89;B';Ela;confirmoulle;a;el;ser;totalmente;*;ao aumento salarial;89;B';subject;mismatch;remisa;remiso;fem;masc;confirmoulle;ser;Ela confirmoulle a el ser totalmente * ao aumento salarial.
+89;C;El;reprochoulle;a;el;ser;totalmente;*;ao aumento salarial;89;C;object;match;remiso;remisa;masc;fem;reprochoulle;ser;El reprochoulle a el ser totalmente * ao aumento salarial.
+89;C';Ela;reprochoulle;a;ela;ser;totalmente;*;ao aumento salarial;89;C';object;match;remisa;remiso;fem;masc;reprochoulle;ser;Ela reprochoulle a ela ser totalmente * ao aumento salarial.
+89;D;Ela;reprochoulle;a;el;ser;totalmente;*;ao aumento salarial;89;D;object;mismatch;remiso;remisa;masc;fem;reprochoulle;ser;Ela reprochoulle a el ser totalmente * ao aumento salarial.
+89;D';El;reprochoulle;a;ela;ser;totalmente;*;ao aumento salarial;89;D';object;mismatch;remisa;remiso;fem;masc;reprochoulle;ser;El reprochoulle a ela ser totalmente * ao aumento salarial.
+90;A;Ela;expresoulle;a;ela;ser;máis;*;ante os problemas;90;A;subject;match;positiva;positivo;fem;masc;expresoulle;ser;Ela expresoulle a ela ser máis * ante os problemas.
+90;A';El;expresoulle;a;el;ser;máis;*;ante os problemas;90;A';subject;match;positivo;positiva;masc;fem;expresoulle;ser;El expresoulle a el ser máis * ante os problemas.
+90;B;Ela;expresoulle;a;el;ser;máis;*;ante os problemas;90;B;subject;mismatch;positiva;positivo;fem;masc;expresoulle;ser;Ela expresoulle a el ser máis * ante os problemas.
+90;B';El;expresoulle;a;ela;ser;máis;*;ante os problemas;90;B';subject;mismatch;positivo;positiva;masc;fem;expresoulle;ser;El expresoulle a ela ser máis * ante os problemas.
+90;C;Ela;recomendoulle;a;ela;ser;máis;*;ante os problemas;90;C;object;match;positiva;positivo;fem;masc;recomendoulle;ser;Ela recomendoulle a ela ser máis * ante os problemas.
+90;C';El;recomendoulle;a;el;ser;máis;*;ante os problemas;90;C';object;match;positivo;positiva;masc;fem;recomendoulle;ser;El recomendoulle a el ser máis * ante os problemas.
+90;D;El;recomendoulle;a;ela;ser;máis;*;ante os problemas;90;D;object;mismatch;positiva;positivo;fem;masc;recomendoulle;ser;El recomendoulle a ela ser máis * ante os problemas.
+90;D';Ela;recomendoulle;a;el;ser;máis;*;ante os problemas;90;D';object;mismatch;positivo;positiva;masc;fem;recomendoulle;ser;Ela recomendoulle a el ser máis * ante os problemas.
+91;A;El;declaroulle;a;el;ser;moi;*;cos rumores;91;A;subject;match;cauto;cauta;masc;fem;declaroulle;ser;El declaroulle a el ser moi * cos rumores.
+91;A';Ela;declaroulle;a;ela;ser;moi;*;cos rumores;91;A';subject;match;cauta;cauto;fem;masc;declaroulle;ser;Ela declaroulle a ela ser moi * cos rumores.
+91;B;El;declaroulle;a;ela;ser;moi;*;cos rumores;91;B;subject;mismatch;cauto;cauta;masc;fem;declaroulle;ser;El declaroulle a ela ser moi * cos rumores.
+91;B';Ela;declaroulle;a;el;ser;moi;*;cos rumores;91;B';subject;mismatch;cauta;cauto;fem;masc;declaroulle;ser;Ela declaroulle a el ser moi * cos rumores.
+91;C;El;aconselloulle;a;el;ser;moi;*;cos rumores;91;C;object;match;cauto;cauta;masc;fem;aconselloulle;ser;El aconselloulle a el ser moi * cos rumores.
+91;C';Ela;aconselloulle;a;ela;ser;moi;*;cos rumores;91;C';object;match;cauta;cauto;fem;masc;aconselloulle;ser;Ela aconselloulle a ela ser moi * cos rumores.
+91;D;Ela;aconselloulle;a;el;ser;moi;*;cos rumores;91;D;object;mismatch;cauto;cauta;masc;fem;aconselloulle;ser;Ela aconselloulle a el ser moi * cos rumores.
+91;D';El;aconselloulle;a;ela;ser;moi;*;cos rumores;91;D';object;mismatch;cauta;cauto;fem;masc;aconselloulle;ser;El aconselloulle a ela ser moi * cos rumores.
+92;A;Ela;desmentiulle;a;ela;ser;sempre tan;*;cos convidados;92;A;subject;match;maleducada;maleducado;fem;masc;desmentiulle;ser;Ela desmentiulle a ela ser sempre tan * cos convidados.
+92;A';El;desmentiulle;a;el;ser;sempre tan;*;cos convidados;92;A';subject;match;maleducado;maleducada;masc;fem;desmentiulle;ser;El desmentiulle a el ser sempre tan * cos convidados.
+92;B;Ela;desmentiulle;a;el;ser;sempre tan;*;cos convidados;92;B;subject;mismatch;maleducada;maleducado;fem;masc;desmentiulle;ser;Ela desmentiulle a el ser sempre tan * cos convidados.
+92;B';El;desmentiulle;a;ela;ser;sempre tan;*;cos convidados;92;B';subject;mismatch;maleducado;maleducada;masc;fem;desmentiulle;ser;El desmentiulle a ela ser sempre tan * cos convidados.
+92;C;Ela;prohibiulle;a;ela;ser;sempre tan;*;cos convidados;92;C;object;match;maleducada;maleducado;fem;masc;prohibiulle;ser;Ela prohibiulle a ela ser sempre tan * cos convidados.
+92;C';El;prohibiulle;a;el;ser;sempre tan;*;cos convidados;92;C';object;match;maleducado;maleducada;masc;fem;prohibiulle;ser;El prohibiulle a el ser sempre tan * cos convidados.
+92;D;El;prohibiulle;a;ela;ser;sempre tan;*;cos convidados;92;D;object;mismatch;maleducada;maleducado;fem;masc;prohibiulle;ser;El prohibiulle a ela ser sempre tan * cos convidados.
+92;D';Ela;prohibiulle;a;el;ser;sempre tan;*;cos convidados;92;D';object;mismatch;maleducado;maleducada;masc;fem;prohibiulle;ser;Ela prohibiulle a el ser sempre tan * cos convidados.
+93;A;El;prometeulle;a;el;ser;moito máis;*;cos segredos;93;A;subject;match;discreto;discreta;masc;fem;prometeulle;ser;El prometeulle a el ser moito máis * cos segredos.
+93;A';Ela;prometeulle;a;ela;ser;moito máis;*;cos segredos;93;A';subject;match;discreta;discreto;fem;masc;prometeulle;ser;Ela prometeulle a ela ser moito máis * cos segredos.
+93;B;El;prometeulle;a;ela;ser;moito máis;*;cos segredos;93;B;subject;mismatch;discreto;discreta;masc;fem;prometeulle;ser;El prometeulle a ela ser moito máis * cos segredos.
+93;B';Ela;prometeulle;a;el;ser;moito máis;*;cos segredos;93;B';subject;mismatch;discreta;discreto;fem;masc;prometeulle;ser;Ela prometeulle a el ser moito máis * cos segredos.
+93;C;El;mandoulle;a;el;ser;moito máis;*;cos segredos;93;C;object;match;discreto;discreta;masc;fem;mandoulle;ser;El mandoulle a el ser moito máis * cos segredos.
+93;C';Ela;mandoulle;a;ela;ser;moito máis;*;cos segredos;93;C';object;match;discreta;discreto;fem;masc;mandoulle;ser;Ela mandoulle a ela ser moito máis * cos segredos.
+93;D;Ela;mandoulle;a;el;ser;moito máis;*;cos segredos;93;D;object;mismatch;discreto;discreta;masc;fem;mandoulle;ser;Ela mandoulle a el ser moito máis * cos segredos.
+93;D';El;mandoulle;a;ela;ser;moito máis;*;cos segredos;93;D';object;mismatch;discreta;discreto;fem;masc;mandoulle;ser;El mandoulle a ela ser moito máis * cos segredos.
+94;A;Ela;garantizoulle;a;ela;ser;moi;*;co alcohol;94;A;subject;match;sensata;sensato;fem;masc;garantizoulle;ser;Ela garantizoulle a ela ser moi * co alcohol.
+94;A';El;garantizoulle;a;el;ser;moi;*;co alcohol;94;A';subject;match;sensato;sensata;masc;fem;garantizoulle;ser;El garantizoulle a el ser moi * co alcohol.
+94;B;Ela;garantizoulle;a;el;ser;moi;*;co alcohol;94;B;subject;mismatch;sensata;sensato;fem;masc;garantizoulle;ser;Ela garantizoulle a el ser moi * co alcohol.
+94;B';El;garantizoulle;a;ela;ser;moi;*;co alcohol;94;B';subject;mismatch;sensato;sensata;masc;fem;garantizoulle;ser;El garantizoulle a ela ser moi * co alcohol.
+94;C;Ela;ordenoulle;a;ela;ser;moi;*;co alcohol;94;C;object;match;sensata;sensato;fem;masc;ordenoulle;ser;Ela ordenoulle a ela ser moi * co alcohol.
+94;C';El;ordenoulle;a;el;ser;moi;*;co alcohol;94;C';object;match;sensato;sensata;masc;fem;ordenoulle;ser;El ordenoulle a el ser moi * co alcohol.
+94;D;El;ordenoulle;a;ela;ser;moi;*;co alcohol;94;D;object;mismatch;sensata;sensato;fem;masc;ordenoulle;ser;El ordenoulle a ela ser moi * co alcohol.
+94;D';Ela;ordenoulle;a;el;ser;moi;*;co alcohol;94;D';object;mismatch;sensato;sensata;masc;fem;ordenoulle;ser;Ela ordenoulle a el ser moi * co alcohol.
+95;A;El;xuroulle;a;el;ser;sumamente;*;no reparto;95;A;subject;match;equitativo;equitativa;masc;fem;xuroulle;ser;El xuroulle a el ser sumamente * no reparto.
+95;A';Ela;xuroulle;a;ela;ser;sumamente;*;no reparto;95;A';subject;match;equitativa;equitativo;fem;masc;xuroulle;ser;Ela xuroulle a ela ser sumamente * no reparto.
+95;B;El;xuroulle;a;ela;ser;sumamente;*;no reparto;95;B;subject;mismatch;equitativo;equitativa;masc;fem;xuroulle;ser;El xuroulle a ela ser sumamente * no reparto.
+95;B';Ela;xuroulle;a;el;ser;sumamente;*;no reparto;95;B';subject;mismatch;equitativa;equitativo;fem;masc;xuroulle;ser;Ela xuroulle a el ser sumamente * no reparto.
+95;C;El;esixiulle;a;el;ser;sumamente;*;no reparto;95;C;object;match;equitativo;equitativa;masc;fem;esixiulle;ser;El esixiulle a el ser sumamente * no reparto.
+95;C';Ela;esixiulle;a;ela;ser;sumamente;*;no reparto;95;C';object;match;equitativa;equitativo;fem;masc;esixiulle;ser;Ela esixiulle a ela ser sumamente * no reparto.
+95;D;Ela;esixiulle;a;el;ser;sumamente;*;no reparto;95;D;object;mismatch;equitativo;equitativa;masc;fem;esixiulle;ser;Ela esixiulle a el ser sumamente * no reparto.
+95;D';El;esixiulle;a;ela;ser;sumamente;*;no reparto;95;D';object;mismatch;equitativa;equitativo;fem;masc;esixiulle;ser;El esixiulle a ela ser sumamente * no reparto.
+96;A;Ela;recoñeceulle;a;ela;ser;moito máis;*;tralo accidente;96;A;subject;match;cautelosa;cauteloso;fem;masc;recoñeceulle;ser;Ela recoñeceulle a ela ser moito máis * tralo accidente.
+96;A';El;recoñeceulle;a;el;ser;moito máis;*;tralo accidente;96;A';subject;match;cauteloso;cautelosa;masc;fem;recoñeceulle;ser;El recoñeceulle a el ser moito máis * tralo accidente.
+96;B;Ela;recoñeceulle;a;el;ser;moito máis;*;tralo accidente;96;B;subject;mismatch;cautelosa;cauteloso;fem;masc;recoñeceulle;ser;Ela recoñeceulle a el ser moito máis * tralo accidente.
+96;B';El;recoñeceulle;a;ela;ser;moito máis;*;tralo accidente;96;B';subject;mismatch;cauteloso;cautelosa;masc;fem;recoñeceulle;ser;El recoñeceulle a ela ser moito máis * tralo accidente.
+96;C;Ela;encargoulle;a;ela;ser;moito máis;*;tralo accidente;96;C;object;match;cautelosa;cauteloso;fem;masc;encargoulle;ser;Ela encargoulle a ela ser moito máis * tralo accidente.
+96;C';El;encargoulle;a;el;ser;moito máis;*;tralo accidente;96;C';object;match;cauteloso;cautelosa;masc;fem;encargoulle;ser;El encargoulle a el ser moito máis * tralo accidente.
+96;D;El;encargoulle;a;ela;ser;moito máis;*;tralo accidente;96;D;object;mismatch;cautelosa;cauteloso;fem;masc;encargoulle;ser;El encargoulle a ela ser moito máis * tralo accidente.
+96;D';Ela;encargoulle;a;el;ser;moito máis;*;tralo accidente;96;D';object;mismatch;cauteloso;cautelosa;masc;fem;encargoulle;ser;Ela encargoulle a el ser moito máis * tralo accidente.
