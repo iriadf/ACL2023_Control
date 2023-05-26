@@ -6,7 +6,7 @@ de-Dios-Flores, Iria, Juan Pablo García Amboage and Marcos Garcia. 2023. Depend
 
 It is composed of three folders: 
 
-- 'datasets': contains the datasets presented in the paper: acceptability (for experiments 1 and 2), and prediction (for experiment 3), with proper names (variants with pronouns can be found in each experiment folder inside 'code') in Spanish and Galician.
+- 'datasets': contains the datasets presented in the paper: acceptability (for experiments 1 and 2), and prediction (for experiment 3), with proper names and pronouns in Spanish and Galician.
 
 - 'code' includes the scripts and data needed to replicate experiments 2 and 3. Each subfolder includes a python script per language (compute_acceptability|prediction_spanish|galician.py). Running each script with the input file (e.g., "python compute_acceptability_spanish.py input_acceptability_names_spanish.csv") will generate a set of output files with the results. These output files are already available at the 'results' folder.
 
